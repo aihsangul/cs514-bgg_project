@@ -1,0 +1,1566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-17">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="13" title="edge_count" type="long" />
+      <attribute id="14" title="normalized_weight" type="double" />
+      <attribute id="15" title="normalized_edge_count" type="double" />
+      <attribute id="16" title="edge_rank" type="long" />
+      <attribute id="17" title="source_label" type="string" />
+      <attribute id="18" title="target_label" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="community_id" type="long" />
+      <attribute id="1" title="manual_label" type="string" />
+      <attribute id="2" title="community_type" type="string" />
+      <attribute id="3" title="community_type_code" type="long" />
+      <attribute id="4" title="include_in_user_profiles" type="string" />
+      <attribute id="5" title="manual_meaningfulness" type="string" />
+      <attribute id="6" title="manual_notes" type="string" />
+      <attribute id="7" title="size" type="long" />
+      <attribute id="8" title="internal_weight" type="double" />
+      <attribute id="9" title="external_weight" type="double" />
+      <attribute id="10" title="internal_weight_share" type="double" />
+      <attribute id="11" title="community_degree" type="long" />
+      <attribute id="12" title="community_strength" type="double" />
+    </attributes>
+    <nodes>
+      <node id="10" label="C10: BGG Golden Age canon">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="BGG Golden Age canon" />
+          <attvalue for="2" value="temporal_canon" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Classic hobby canon centered on Puerto Rico, Power Grid, Agricola, El Grande, Ra, and Tigris &amp; Euphrates; strongest internal closure in the midline graph." />
+          <attvalue for="7" value="338" />
+          <attvalue for="8" value="4029.336768433452" />
+          <attvalue for="9" value="16677.336111884564" />
+          <attvalue for="10" value="0.1945912214735083" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="16677.336111884564" />
+        </attvalues>
+      </node>
+      <node id="19" label="C19: Recent releases / new-hotness cluster">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="Recent releases / new-hotness cluster" />
+          <attvalue for="2" value="temporal_artifact" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Median year 2023 and mixed mechanics; likely temporal co-purchase signal rather than stable taste identity." />
+          <attvalue for="7" value="231" />
+          <attvalue for="8" value="2095.479039814323" />
+          <attvalue for="9" value="14094.791377026588" />
+          <attvalue for="10" value="0.129428291551859" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="14094.791377026588" />
+        </attvalues>
+      </node>
+      <node id="2" label="C2: Current heavy euro engine builders">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="Current heavy euro engine builders" />
+          <attvalue for="2" value="taste_specialist" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Modern heavy euros with strong worker-placement, income, variable setup, and industry/manufacturing signal." />
+          <attvalue for="7" value="207" />
+          <attvalue for="8" value="3012.761863000691" />
+          <attvalue for="9" value="13792.47767983377" />
+          <attvalue for="10" value="0.1792751513789218" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="13792.47767983377" />
+        </attvalues>
+      </node>
+      <node id="9" label="C9: Amerithrash / miniatures / LCG">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="2" value="taste_specialist" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Thematic conflict, miniatures, variable powers, dice, and collectible/card-system signal." />
+          <attvalue for="7" value="251" />
+          <attvalue for="8" value="2211.823624126613" />
+          <attvalue for="9" value="13001.783436451107" />
+          <attvalue for="10" value="0.1453845636553874" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="13001.783436451107" />
+        </attvalues>
+      </node>
+      <node id="25" label="C25: Party / family / social deduction">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="Party / family / social deduction" />
+          <attvalue for="2" value="taste_cross_over" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Party, hidden roles, deduction, children's/family, memory, and real-time signal; broad cross-community appeal." />
+          <attvalue for="7" value="177" />
+          <attvalue for="8" value="1241.209755744785" />
+          <attvalue for="9" value="12705.959834758192" />
+          <attvalue for="10" value="0.0889936662554071" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="12705.959834758192" />
+        </attvalues>
+      </node>
+      <node id="12" label="C12: Dungeon crawl / cooperative campaign adventure">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="2" value="taste_specialist" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Modern cooperative/campaign adventure cluster around Gloomhaven, Spirit Island, Arkham Horror LCG, Nemesis, and related games." />
+          <attvalue for="7" value="231" />
+          <attvalue for="8" value="1941.6802069321277" />
+          <attvalue for="9" value="12185.53059566766" />
+          <attvalue for="10" value="0.137442573347515" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="12185.53059566766" />
+        </attvalues>
+      </node>
+      <node id="8" label="C8: Medium worker-placement euros">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="Medium worker-placement euros" />
+          <attvalue for="2" value="taste_specialist" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Rosenberg-era and medium-heavy eurogames around Great Western Trail, Terra Mystica, Orleans, Caverna, Tzolk'in, and Le Havre." />
+          <attvalue for="7" value="166" />
+          <attvalue for="8" value="1300.3846097365022" />
+          <attvalue for="9" value="11152.378145433962" />
+          <attvalue for="10" value="0.1044253901967717" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="11152.378145433962" />
+        </attvalues>
+      </node>
+      <node id="13" label="C13: Puzzle / nature tableau builders">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="Puzzle / nature tableau builders" />
+          <attvalue for="2" value="taste_cross_over" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Cascadia/Wingspan-adjacent puzzle, pattern-building, animal/nature, set-collection cluster with broad appeal." />
+          <attvalue for="7" value="168" />
+          <attvalue for="8" value="951.4607438519596" />
+          <attvalue for="9" value="10913.125962086022" />
+          <attvalue for="10" value="0.0801933322612723" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="10913.125962086022" />
+        </attvalues>
+      </node>
+      <node id="35" label="C35: Cooperative trick-taking + deduction">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="Cooperative trick-taking + deduction" />
+          <attvalue for="2" value="taste_cross_over" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="The Crew, Decrypto, The Mind, Search for Planet X, Blood on the Clocktower, Crokinole, and adjacent social/deduction titles." />
+          <attvalue for="7" value="100" />
+          <attvalue for="8" value="475.6028535589576" />
+          <attvalue for="9" value="7911.197119746357" />
+          <attvalue for="10" value="0.056708500867169" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="7911.197119746357" />
+        </attvalues>
+      </node>
+      <node id="20" label="C20: Historical wargames + conflict strategy">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="Historical wargames + conflict strategy" />
+          <attvalue for="2" value="taste_specialist" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Most self-contained specialist group after the Golden Age canon; strong wargame, simulation, CDG, CRT, political, and historical signal." />
+          <attvalue for="7" value="198" />
+          <attvalue for="8" value="1740.1794042773545" />
+          <attvalue for="9" value="7435.753891889006" />
+          <attvalue for="10" value="0.1896460390578895" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="7435.753891889006" />
+        </attvalues>
+      </node>
+      <node id="4" label="C4: Legacy + narrative mystery">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="Legacy + narrative mystery" />
+          <attvalue for="2" value="shared_culture" />
+          <attvalue for="3" value="8" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="high" />
+          <attvalue for="6" value="Pandemic Legacy, EXIT/Unlock-style mystery, and narrative/legacy signal; coherent but cross-community." />
+          <attvalue for="7" value="37" />
+          <attvalue for="8" value="102.27884913608432" />
+          <attvalue for="9" value="3689.686414361" />
+          <attvalue for="10" value="0.0269725174227358" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="3689.686414361" />
+        </attvalues>
+      </node>
+      <node id="5" label="C5: Area-control crossover / Root-Eclipse cluster">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="Area-control crossover / Root-Eclipse cluster" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Root, Eclipse, Inis, Res Arcana, War Chest, and related hybrid conflict/area-control titles; likely bridge cluster across strategy audiences." />
+          <attvalue for="7" value="41" />
+          <attvalue for="8" value="79.37571020424366" />
+          <attvalue for="9" value="3427.6177601218224" />
+          <attvalue for="10" value="0.0226335494707561" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="3427.6177601218224" />
+        </attvalues>
+      </node>
+      <node id="23" label="C23: Fantasy adventure / deck-building gateway">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="Fantasy adventure / deck-building gateway" />
+          <attvalue for="2" value="taste_cross_over" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Everdell, Clank!, Roll Player, Tiny Epic, and adventure/fantasy gateway games; low internal closure, likely bridge-oriented." />
+          <attvalue for="7" value="45" />
+          <attvalue for="8" value="76.7731861397624" />
+          <attvalue for="9" value="3269.042452778667" />
+          <attvalue for="10" value="0.0229460300342729" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="3269.042452778667" />
+        </attvalues>
+      </node>
+      <node id="17" label="C17: Roll-and-write / number dice games">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="Roll-and-write / number dice games" />
+          <attvalue for="2" value="taste_cross_over" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="yes" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="That's Pretty Clever, Qwixx, Taverns of Tiefenthal, Port Royal, and dice/number/paper-and-pencil signal." />
+          <attvalue for="7" value="39" />
+          <attvalue for="8" value="80.20904119312763" />
+          <attvalue for="9" value="2974.914617136121" />
+          <attvalue for="10" value="0.026253942610294" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2974.914617136121" />
+        </attvalues>
+      </node>
+      <node id="38" label="C38: Racing / sports / route bridge">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="Racing / sports / route bridge" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Flamme Rouge, Baseball Highlights, K2, Thunder Alley, and route/family titles; small low-closure bridge cluster." />
+          <attvalue for="7" value="17" />
+          <attvalue for="8" value="17.680635295808315" />
+          <attvalue for="9" value="2641.448092710227" />
+          <attvalue for="10" value="0.0066490332376899" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2641.448092710227" />
+        </attvalues>
+      </node>
+      <node id="34" label="C34: Licensed family/fandom games">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="Licensed family/fandom games" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Wingspan with Disney Villainous/Lorcana and licensed/fandom family titles; mixed bridge/franchise signal." />
+          <attvalue for="7" value="13" />
+          <attvalue for="8" value="14.840296059846878" />
+          <attvalue for="9" value="2493.56659078598" />
+          <attvalue for="10" value="0.0059162236149445" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2493.56659078598" />
+        </attvalues>
+      </node>
+      <node id="33" label="C33: nan">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="nan" />
+          <attvalue for="2" value="tiny_fragment" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="low" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="5.040688663721085" />
+          <attvalue for="9" value="2437.1893203258514" />
+          <attvalue for="10" value="0.0020639696691822" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2437.1893203258514" />
+        </attvalues>
+      </node>
+      <node id="14" label="C14: Abstract tile-placement puzzle bridge">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="Abstract tile-placement puzzle bridge" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Azul, Ginkgopolis, Dragon Castle, Cat Lady; coherent but small aesthetically driven abstract/tile-placement cluster." />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="5.251966133713722" />
+          <attvalue for="9" value="2410.3133631572127" />
+          <attvalue for="10" value="0.0021742182130323" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2410.3133631572127" />
+        </attvalues>
+      </node>
+      <node id="37" label="C37: Escape-room / Unlock series cluster">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="Escape-room / Unlock series cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Unlock/Codenames escape-room/storytelling cluster; strong series signal but small." />
+          <attvalue for="7" value="15" />
+          <attvalue for="8" value="22.53734740614891" />
+          <attvalue for="9" value="2391.412971816957" />
+          <attvalue for="10" value="0.0093362929744975" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2391.412971816957" />
+        </attvalues>
+      </node>
+      <node id="0" label="C0: Terraforming Mars universal-appeal micro-cluster">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="Terraforming Mars universal-appeal micro-cluster" />
+          <attvalue for="2" value="bridge_singleton" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Terraforming Mars is too broadly owned to sit cleanly in one taste community; treat as universal-appeal bridge/micro-cluster." />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="2.819191098213196" />
+          <attvalue for="9" value="2333.0336914025247" />
+          <attvalue for="10" value="0.0012069215143356" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2333.0336914025247" />
+        </attvalues>
+      </node>
+      <node id="26" label="C26: Pandemic system cluster">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="Pandemic system cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Pandemic variants and related cooperative system games; coherent franchise/system ownership cluster." />
+          <attvalue for="7" value="13" />
+          <attvalue for="8" value="16.125826850533485" />
+          <attvalue for="9" value="2331.160157091916" />
+          <attvalue for="10" value="0.0068699881313349" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2331.160157091916" />
+        </attvalues>
+      </node>
+      <node id="36" label="C36: Light set-collection gateway">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="Light set-collection gateway" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Splendor, Century, Photosynthesis, and light set-collection/tableau games; likely broad gateway bridge." />
+          <attvalue for="7" value="15" />
+          <attvalue for="8" value="20.109162136912342" />
+          <attvalue for="9" value="2182.0733890496194" />
+          <attvalue for="10" value="0.0091314691990805" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2182.0733890496194" />
+        </attvalues>
+      </node>
+      <node id="31" label="C31: Railroad Ink / spatial puzzle cluster">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="Railroad Ink / spatial puzzle cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Railroad Ink variants plus Patchwork; small series/spatial-puzzle cluster." />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="10.035843342542648" />
+          <attvalue for="9" value="2106.0900145620108" />
+          <attvalue for="10" value="0.0047425550352096" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2106.0900145620108" />
+        </attvalues>
+      </node>
+      <node id="11" label="C11: KeyForge / Catan gateway-franchise cluster">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="KeyForge / Catan gateway-franchise cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Mixed small cluster dominated by KeyForge system ownership plus gateway editions such as Catan." />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="4.482127755880356" />
+          <attvalue for="9" value="2070.810660108924" />
+          <attvalue for="10" value="0.0021597568218274" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2070.810660108924" />
+        </attvalues>
+      </node>
+      <node id="3" label="C3: Thematic sandbox worker-placement bridge">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="Thematic sandbox worker-placement bridge" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Scythe, Western Legends, Euphoria, and thematic sandbox/worker-placement titles; bridge-like rather than broad taste axis." />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="7.65130777657032" />
+          <attvalue for="9" value="2065.7618306055665" />
+          <attvalue for="10" value="0.0036901993312054" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2065.7618306055665" />
+        </attvalues>
+      </node>
+      <node id="7" label="C7: nan">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="nan" />
+          <attvalue for="2" value="tiny_fragment" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="low" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="6.312625795602799" />
+          <attvalue for="9" value="2056.0718874782324" />
+          <attvalue for="10" value="0.0030608384396671" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="2056.0718874782324" />
+        </attvalues>
+      </node>
+      <node id="24" label="C24: Ark Nova universal-appeal micro-cluster">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="Ark Nova universal-appeal micro-cluster" />
+          <attvalue for="2" value="bridge_singleton" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Ark Nova appears in a tiny cluster rather than the nature/tableau community, suggesting broad cross-audience ownership." />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="4.274605184793472" />
+          <attvalue for="9" value="1971.7515708841383" />
+          <attvalue for="10" value="0.0021632330768498" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1971.7515708841383" />
+        </attvalues>
+      </node>
+      <node id="39" label="C39: Take-that card/fandom cluster">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="Take-that card/fandom cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Love Letter, Smash Up, Evolution, and take-that/fandom card games; partly series-driven." />
+          <attvalue for="7" value="15" />
+          <attvalue for="8" value="21.80887290835381" />
+          <attvalue for="9" value="1878.661343943328" />
+          <attvalue for="10" value="0.011475514172741" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1878.661343943328" />
+        </attvalues>
+      </node>
+      <node id="1" label="C1: Thematic adventure / licensed bridge cluster">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="Thematic adventure / licensed bridge cluster" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Lost Ruins of Arnak plus Star Wars/licensed adventure titles; mixed gateway/bridge signal." />
+          <attvalue for="7" value="10" />
+          <attvalue for="8" value="5.852665215730667" />
+          <attvalue for="9" value="1823.6930858939888" />
+          <attvalue for="10" value="0.0031989717732834" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1823.6930858939888" />
+        </attvalues>
+      </node>
+      <node id="16" label="C16: Unmatched / skirmish series cluster">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="Unmatched / skirmish series cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Very coherent Unmatched/franchise ownership cluster; useful structurally but not a broad taste dimension." />
+          <attvalue for="7" value="20" />
+          <attvalue for="8" value="93.79357273131608" />
+          <attvalue for="9" value="1784.167492851615" />
+          <attvalue for="10" value="0.0499443649020497" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1784.167492851615" />
+        </attvalues>
+      </node>
+      <node id="30" label="C30: nan">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="nan" />
+          <attvalue for="2" value="tiny_fragment" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="low" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="2.8172972202301025" />
+          <attvalue for="9" value="1762.2038068138063" />
+          <attvalue for="10" value="0.0015961833055656" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1762.2038068138063" />
+        </attvalues>
+      </node>
+      <node id="41" label="C41: Ticket to Ride / route-building series cluster">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="Ticket to Ride / route-building series cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Ticket to Ride maps and route-building variants; franchise/system cluster." />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="10.395678222179413" />
+          <attvalue for="9" value="1719.7311927005649" />
+          <attvalue for="10" value="0.0060086219091175" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1719.7311927005649" />
+        </attvalues>
+      </node>
+      <node id="29" label="C29: Small two-player/set-collection card games">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="Small two-player/set-collection card games" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Jaipur, Morels, Dale of Merchants, Valley of the Kings, and small card/set-collection titles." />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="6.57967409491539" />
+          <attvalue for="9" value="1623.0663749687374" />
+          <attvalue for="10" value="0.0040374866055705" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1623.0663749687374" />
+        </attvalues>
+      </node>
+      <node id="6" label="C6: nan">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="nan" />
+          <attvalue for="2" value="tiny_fragment" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="low" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="1.9234875440597532" />
+          <attvalue for="9" value="1570.8165914192796" />
+          <attvalue for="10" value="0.001223016803468" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1570.8165914192796" />
+        </attvalues>
+      </node>
+      <node id="21" label="C21: Viticulture / Dinosaur Island gateway bridge">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="Viticulture / Dinosaur Island gateway bridge" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Viticulture plus Dinosaur Island family; small gateway/publisher-adjacent bridge cluster." />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="4.128457248210907" />
+          <attvalue for="9" value="1540.9095940068364" />
+          <attvalue for="10" value="0.0026720748041495" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1540.9095940068364" />
+        </attvalues>
+      </node>
+      <node id="42" label="C42: nan">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="nan" />
+          <attvalue for="2" value="tiny_fragment" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="low" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="2.6615826040506363" />
+          <attvalue for="9" value="1524.600616082549" />
+          <attvalue for="10" value="0.0017427149092929" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1524.600616082549" />
+        </attvalues>
+      </node>
+      <node id="15" label="C15: Deck-manipulation / engine gateway cluster">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="Deck-manipulation / engine gateway cluster" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Dominion, Imhotep, Eminent Domain, Core Worlds; small deck/engine gateway cluster." />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="4.392535984516144" />
+          <attvalue for="9" value="1505.6793231889606" />
+          <attvalue for="10" value="0.0029088258004624" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1505.6793231889606" />
+        </attvalues>
+      </node>
+      <node id="18" label="C18: Mass-market gateway / family strategy bridge">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="Mass-market gateway / family strategy bridge" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Ticket to Ride, Pan Am, Freedom, Back to the Future; accessible family strategy bridge cluster." />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="3.3486580327153206" />
+          <attvalue for="9" value="1482.0572487339375" />
+          <attvalue for="10" value="0.0022543723688324" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1482.0572487339375" />
+        </attvalues>
+      </node>
+      <node id="40" label="C40: Light gateway tile/claim-action cluster">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="Light gateway tile/claim-action cluster" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Kingdomino, Queendomino, Downforce, World's Fair 1893; small light gateway cluster." />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="5.30924092233181" />
+          <attvalue for="9" value="1429.724127441645" />
+          <attvalue for="10" value="0.0036997334273729" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1429.724127441645" />
+        </attvalues>
+      </node>
+      <node id="22" label="C22: Trade-route / area-influence euros">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="Trade-route / area-influence euros" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Concordia, Ethnos, Lords of Vegas, Caylus 1303; recognizable but too small for a profile dimension." />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="3.772602811455727" />
+          <attvalue for="9" value="1340.5327056013048" />
+          <attvalue for="10" value="0.0028063586358296" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1340.5327056013048" />
+        </attvalues>
+      </node>
+      <node id="27" label="C27: Race for the Galaxy system cluster">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="Race for the Galaxy system cluster" />
+          <attvalue for="2" value="franchise_series" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="no" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Race for the Galaxy, New Frontiers, Jump Drive, and related card-engine titles; system/franchise-like cluster." />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="3.720974065363407" />
+          <attvalue for="9" value="1287.608066421002" />
+          <attvalue for="10" value="0.0028815073065823" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1287.608066421002" />
+        </attvalues>
+      </node>
+      <node id="28" label="C28: Real-time cooperative micro-cluster">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="Real-time cooperative micro-cluster" />
+          <attvalue for="2" value="taste_cross_over" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Just One, Kitchen Rush, Rush M.D., and real-time/action-timer games; strong enrichment but very small." />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="2.367663949728012" />
+          <attvalue for="9" value="1253.2157575637102" />
+          <attvalue for="10" value="0.001885708196811" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1253.2157575637102" />
+        </attvalues>
+      </node>
+      <node id="32" label="C32: Open-drafting tactical euro cluster">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="Open-drafting tactical euro cluster" />
+          <attvalue for="2" value="bridge_cluster" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="review" />
+          <attvalue for="5" value="medium" />
+          <attvalue for="6" value="Five Tribes, Abyss, Quadropolis, Yamatai, and related drafting/tactical euros; small bridge-like cluster." />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="7.03914313018322" />
+          <attvalue for="9" value="1229.3692680895329" />
+          <attvalue for="10" value="0.0056932184109287" />
+          <attvalue for="11" value="42" />
+          <attvalue for="12" value="1229.3692680895329" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="10" target="8" id="0" label="C10-C8" weight="1871.7198906764388">
+        <attvalues>
+          <attvalue for="13" value="4110" />
+          <attvalue for="14" value="1.0" />
+          <attvalue for="15" value="0.9188464118041583" />
+          <attvalue for="16" value="1" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="9" id="1" label="C10-C9" weight="1637.4617903232574">
+        <attvalues>
+          <attvalue for="13" value="3956" />
+          <attvalue for="14" value="0.8748433985661601" />
+          <attvalue for="15" value="0.884417616811983" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Amerithrash / miniatures / LCG" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="25" id="2" label="C10-C25" weight="1629.4227127619088">
+        <attvalues>
+          <attvalue for="13" value="3232" />
+          <attvalue for="14" value="0.8705483768583749" />
+          <attvalue for="15" value="0.7225575676279902" />
+          <attvalue for="16" value="4" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Party / family / social deduction" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="20" id="3" label="C10-C20" weight="1621.0488013066351">
+        <attvalues>
+          <attvalue for="13" value="4473" />
+          <attvalue for="14" value="0.8660744641233624" />
+          <attvalue for="15" value="1.0" />
+          <attvalue for="16" value="5" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Historical wargames + conflict strategy" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="35" id="4" label="C10-C35" weight="876.0226441472769">
+        <attvalues>
+          <attvalue for="13" value="1687" />
+          <attvalue for="14" value="0.4680308461276664" />
+          <attvalue for="15" value="0.37715179968701096" />
+          <attvalue for="16" value="15" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="19" id="5" label="C10-C19" weight="838.8178825043142">
+        <attvalues>
+          <attvalue for="13" value="1690" />
+          <attvalue for="14" value="0.4481535333800218" />
+          <attvalue for="15" value="0.3778224904985468" />
+          <attvalue for="16" value="16" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Recent releases / new-hotness cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="2" id="6" label="C10-C2" weight="573.4862046688795">
+        <attvalues>
+          <attvalue for="13" value="958" />
+          <attvalue for="14" value="0.30639531455832414" />
+          <attvalue for="15" value="0.21417393248379163" />
+          <attvalue for="16" value="26" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Current heavy euro engine builders" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="13" id="7" label="C10-C13" weight="530.1528708040714">
+        <attvalues>
+          <attvalue for="13" value="949" />
+          <attvalue for="14" value="0.2832437019261864" />
+          <attvalue for="15" value="0.212161860049184" />
+          <attvalue for="16" value="28" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Puzzle / nature tableau builders" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="12" id="8" label="C10-C12" weight="410.2948097214103">
+        <attvalues>
+          <attvalue for="13" value="770" />
+          <attvalue for="14" value="0.2192073780725437" />
+          <attvalue for="15" value="0.17214397496087636" />
+          <attvalue for="16" value="31" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Dungeon crawl / cooperative campaign adventure" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="38" id="9" label="C10-C38" weight="362.820108525455">
+        <attvalues>
+          <attvalue for="13" value="512" />
+          <attvalue for="14" value="0.19384316549327898" />
+          <attvalue for="15" value="0.11446456516879053" />
+          <attvalue for="16" value="35" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Racing / sports / route bridge" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="17" id="10" label="C10-C17" weight="319.0954832434654">
+        <attvalues>
+          <attvalue for="13" value="646" />
+          <attvalue for="14" value="0.17048249838716223" />
+          <attvalue for="15" value="0.1444220880840599" />
+          <attvalue for="16" value="45" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Roll-and-write / number dice games" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="4" id="11" label="C10-C4" weight="287.72489166259766">
+        <attvalues>
+          <attvalue for="13" value="531" />
+          <attvalue for="14" value="0.1537221958776182" />
+          <attvalue for="15" value="0.11871227364185111" />
+          <attvalue for="16" value="51" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Legacy + narrative mystery" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="11" id="12" label="C10-C11" weight="285.80427565425634">
+        <attvalues>
+          <attvalue for="13" value="393" />
+          <attvalue for="14" value="0.15269607224773724" />
+          <attvalue for="15" value="0.08786049631120053" />
+          <attvalue for="16" value="52" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="KeyForge / Catan gateway-franchise cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="37" id="13" label="C10-C37" weight="266.8297652080655">
+        <attvalues>
+          <attvalue for="13" value="437" />
+          <attvalue for="14" value="0.1425585989320407" />
+          <attvalue for="15" value="0.09769729488039347" />
+          <attvalue for="16" value="57" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Escape-room / Unlock series cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="14" id="14" label="C10-C14" weight="261.8114089667797">
+        <attvalues>
+          <attvalue for="13" value="412" />
+          <attvalue for="14" value="0.13987745189380937" />
+          <attvalue for="15" value="0.09210820478426113" />
+          <attvalue for="16" value="60" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Abstract tile-placement puzzle bridge" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="26" id="15" label="C10-C26" weight="256.8639318495989">
+        <attvalues>
+          <attvalue for="13" value="409" />
+          <attvalue for="14" value="0.13723417330184398" />
+          <attvalue for="15" value="0.09143751397272525" />
+          <attvalue for="16" value="62" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Pandemic system cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="39" id="16" label="C10-C39" weight="249.29187859594825">
+        <attvalues>
+          <attvalue for="13" value="459" />
+          <attvalue for="14" value="0.13318866772626659" />
+          <attvalue for="15" value="0.10261569416498995" />
+          <attvalue for="16" value="68" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Take-that card/fandom cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="15" id="17" label="C10-C15" weight="246.5274188965559">
+        <attvalues>
+          <attvalue for="13" value="419" />
+          <attvalue for="14" value="0.13171170543443922" />
+          <attvalue for="15" value="0.09367315001117818" />
+          <attvalue for="16" value="69" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Deck-manipulation / engine gateway cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="36" id="18" label="C10-C36" weight="242.7592952400446">
+        <attvalues>
+          <attvalue for="13" value="427" />
+          <attvalue for="14" value="0.12969851763038726" />
+          <attvalue for="15" value="0.09546165884194054" />
+          <attvalue for="16" value="72" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Light set-collection gateway" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="33" id="19" label="C10-C33" weight="242.64979223161936">
+        <attvalues>
+          <attvalue for="13" value="355" />
+          <attvalue for="14" value="0.12964001367957137" />
+          <attvalue for="15" value="0.07936507936507936" />
+          <attvalue for="16" value="73" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="nan" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="31" id="20" label="C10-C31" weight="234.4421441480517">
+        <attvalues>
+          <attvalue for="13" value="369" />
+          <attvalue for="14" value="0.12525493013985356" />
+          <attvalue for="15" value="0.08249496981891348" />
+          <attvalue for="16" value="78" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="Railroad Ink / spatial puzzle cluster" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="30" id="21" label="C10-C30" weight="232.90708395838735">
+        <attvalues>
+          <attvalue for="13" value="366" />
+          <attvalue for="14" value="0.12443479663734022" />
+          <attvalue for="15" value="0.0818242790073776" />
+          <attvalue for="16" value="80" />
+          <attvalue for="17" value="BGG Golden Age canon" />
+          <attvalue for="18" value="nan" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="2" id="22" label="C19-C2" weight="1777.4552427008748">
+        <attvalues>
+          <attvalue for="13" value="3475" />
+          <attvalue for="14" value="0.949637417198416" />
+          <attvalue for="15" value="0.7768835233623966" />
+          <attvalue for="16" value="2" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Current heavy euro engine builders" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="13" id="23" label="C19-C13" weight="1617.4934589117763">
+        <attvalues>
+          <attvalue for="13" value="3476" />
+          <attvalue for="14" value="0.8641749585335735" />
+          <attvalue for="15" value="0.7771070869662419" />
+          <attvalue for="16" value="6" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Puzzle / nature tableau builders" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="12" id="24" label="C12-C19" weight="1344.188994884491">
+        <attvalues>
+          <attvalue for="13" value="2973" />
+          <attvalue for="14" value="0.7181571353599825" />
+          <attvalue for="15" value="0.664654594232059" />
+          <attvalue for="16" value="10" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Recent releases / new-hotness cluster" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="35" id="25" label="C19-C35" weight="1057.762424632907">
+        <attvalues>
+          <attvalue for="13" value="2166" />
+          <attvalue for="14" value="0.5651285910364675" />
+          <attvalue for="15" value="0.4842387659289068" />
+          <attvalue for="16" value="13" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="25" id="26" label="C19-C25" weight="793.7378498800099">
+        <attvalues>
+          <attvalue for="13" value="1652" />
+          <attvalue for="14" value="0.4240687155347552" />
+          <attvalue for="15" value="0.36932707355242567" />
+          <attvalue for="16" value="18" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Party / family / social deduction" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="9" id="27" label="C9-C19" weight="346.5655646510422">
+        <attvalues>
+          <attvalue for="13" value="705" />
+          <attvalue for="14" value="0.18515888321611712" />
+          <attvalue for="15" value="0.15761234071093225" />
+          <attvalue for="16" value="38" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Recent releases / new-hotness cluster" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="5" id="28" label="C19-C5" weight="345.8737194910645">
+        <attvalues>
+          <attvalue for="13" value="697" />
+          <attvalue for="14" value="0.18478925250191464" />
+          <attvalue for="15" value="0.1558238318801699" />
+          <attvalue for="16" value="39" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Area-control crossover / Root-Eclipse cluster" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="17" id="29" label="C19-C17" weight="337.51222137734294">
+        <attvalues>
+          <attvalue for="13" value="717" />
+          <attvalue for="14" value="0.1803219718177842" />
+          <attvalue for="15" value="0.1602951039570758" />
+          <attvalue for="16" value="42" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Roll-and-write / number dice games" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="4" id="30" label="C19-C4" weight="288.16375785321">
+        <attvalues>
+          <attvalue for="13" value="544" />
+          <attvalue for="14" value="0.15395666802956703" />
+          <attvalue for="15" value="0.12161860049183992" />
+          <attvalue for="16" value="50" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Legacy + narrative mystery" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="20" id="31" label="C19-C20" weight="263.08813885226846">
+        <attvalues>
+          <attvalue for="13" value="543" />
+          <attvalue for="14" value="0.14055956778724432" />
+          <attvalue for="15" value="0.12139503688799463" />
+          <attvalue for="16" value="59" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Historical wargames + conflict strategy" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="34" id="32" label="C19-C34" weight="252.35385259985924">
+        <attvalues>
+          <attvalue for="13" value="359" />
+          <attvalue for="14" value="0.13482458238377681" />
+          <attvalue for="15" value="0.08025933378046055" />
+          <attvalue for="16" value="67" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Licensed family/fandom games" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="14" id="33" label="C19-C14" weight="238.65000926703212">
+        <attvalues>
+          <attvalue for="13" value="272" />
+          <attvalue for="14" value="0.12750305772557885" />
+          <attvalue for="15" value="0.06080930024591996" />
+          <attvalue for="16" value="75" />
+          <attvalue for="17" value="Recent releases / new-hotness cluster" />
+          <attvalue for="18" value="Abstract tile-placement puzzle bridge" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="8" id="34" label="C2-C8" weight="1609.2517629787326">
+        <attvalues>
+          <attvalue for="13" value="2759" />
+          <attvalue for="14" value="0.859771684318186" />
+          <attvalue for="15" value="0.6168119830091661" />
+          <attvalue for="16" value="7" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="13" id="35" label="C2-C13" weight="1249.6373617351055">
+        <attvalues>
+          <attvalue for="13" value="2387" />
+          <attvalue for="14" value="0.6676412255700755" />
+          <attvalue for="15" value="0.5336463223787168" />
+          <attvalue for="16" value="11" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Puzzle / nature tableau builders" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="12" id="36" label="C12-C2" weight="1085.786573201418">
+        <attvalues>
+          <attvalue for="13" value="2098" />
+          <attvalue for="14" value="0.5801009962067641" />
+          <attvalue for="15" value="0.4690364408674268" />
+          <attvalue for="16" value="12" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Current heavy euro engine builders" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="20" id="37" label="C2-C20" weight="601.4462366886437">
+        <attvalues>
+          <attvalue for="13" value="1218" />
+          <attvalue for="14" value="0.3213334643098125" />
+          <attvalue for="15" value="0.27230046948356806" />
+          <attvalue for="16" value="25" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Historical wargames + conflict strategy" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="9" id="38" label="C9-C2" weight="382.64579562842846">
+        <attvalues>
+          <attvalue for="13" value="633" />
+          <attvalue for="14" value="0.2044353952396907" />
+          <attvalue for="15" value="0.14151576123407109" />
+          <attvalue for="16" value="34" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Current heavy euro engine builders" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="35" id="39" label="C2-C35" weight="337.7763897851109">
+        <attvalues>
+          <attvalue for="13" value="579" />
+          <attvalue for="14" value="0.18046310853865993" />
+          <attvalue for="15" value="0.12944332662642521" />
+          <attvalue for="16" value="41" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="5" id="40" label="C2-C5" weight="333.1843986585736">
+        <attvalues>
+          <attvalue for="13" value="600" />
+          <attvalue for="14" value="0.17800975472786204" />
+          <attvalue for="15" value="0.1341381623071764" />
+          <attvalue for="16" value="43" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Area-control crossover / Root-Eclipse cluster" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="23" id="41" label="C2-C23" weight="278.44645684212446">
+        <attvalues>
+          <attvalue for="13" value="480" />
+          <attvalue for="14" value="0.14876502527389077" />
+          <attvalue for="15" value="0.10731052984574112" />
+          <attvalue for="16" value="55" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Fantasy adventure / deck-building gateway" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="7" id="42" label="C2-C7" weight="268.07896699011326">
+        <attvalues>
+          <attvalue for="13" value="251" />
+          <attvalue for="14" value="0.14322600744133226" />
+          <attvalue for="15" value="0.05611446456516879" />
+          <attvalue for="16" value="56" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="nan" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="24" id="43" label="C2-C24" weight="266.1201571896672">
+        <attvalues>
+          <attvalue for="13" value="267" />
+          <attvalue for="14" value="0.1421794780913994" />
+          <attvalue for="15" value="0.059691482226693494" />
+          <attvalue for="16" value="58" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Ark Nova universal-appeal micro-cluster" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="0" id="44" label="C2-C0" weight="260.4465899169445">
+        <attvalues>
+          <attvalue for="13" value="250" />
+          <attvalue for="14" value="0.13914827278071998" />
+          <attvalue for="15" value="0.05589090096132349" />
+          <attvalue for="16" value="61" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Terraforming Mars universal-appeal micro-cluster" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="17" id="45" label="C2-C17" weight="252.7599847391248">
+        <attvalues>
+          <attvalue for="13" value="495" />
+          <attvalue for="14" value="0.1350415657803249" />
+          <attvalue for="15" value="0.11066398390342053" />
+          <attvalue for="16" value="66" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Roll-and-write / number dice games" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="4" id="46" label="C2-C4" weight="244.54948352649808">
+        <attvalues>
+          <attvalue for="13" value="363" />
+          <attvalue for="14" value="0.1306549579051158" />
+          <attvalue for="15" value="0.08115358819584172" />
+          <attvalue for="16" value="70" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Legacy + narrative mystery" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="34" id="47" label="C2-C34" weight="234.56712129712105">
+        <attvalues>
+          <attvalue for="13" value="238" />
+          <attvalue for="14" value="0.1253217014284913" />
+          <attvalue for="15" value="0.053208137715179966" />
+          <attvalue for="16" value="76" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Licensed family/fandom games" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="14" id="48" label="C2-C14" weight="234.46182368695736">
+        <attvalues>
+          <attvalue for="13" value="258" />
+          <attvalue for="14" value="0.12526544428729822" />
+          <attvalue for="15" value="0.05767940979208585" />
+          <attvalue for="16" value="77" />
+          <attvalue for="17" value="Current heavy euro engine builders" />
+          <attvalue for="18" value="Abstract tile-placement puzzle bridge" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="12" id="49" label="C9-C12" weight="1540.922218374908">
+        <attvalues>
+          <attvalue for="13" value="3743" />
+          <attvalue for="14" value="0.8232653967352024" />
+          <attvalue for="15" value="0.8367985691929354" />
+          <attvalue for="16" value="8" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Dungeon crawl / cooperative campaign adventure" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="25" id="50" label="C9-C25" weight="1441.7502875104549">
+        <attvalues>
+          <attvalue for="13" value="3120" />
+          <attvalue for="14" value="0.7702810098307001" />
+          <attvalue for="15" value="0.6975184439973172" />
+          <attvalue for="16" value="9" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Party / family / social deduction" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="8" id="51" label="C9-C8" weight="899.4113654270768">
+        <attvalues>
+          <attvalue for="13" value="1817" />
+          <attvalue for="14" value="0.48052669093666034" />
+          <attvalue for="15" value="0.4062150681868992" />
+          <attvalue for="16" value="14" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="20" id="52" label="C9-C20" weight="788.5978123396635">
+        <attvalues>
+          <attvalue for="13" value="2300" />
+          <attvalue for="14" value="0.42132255807500374" />
+          <attvalue for="15" value="0.5141962888441761" />
+          <attvalue for="16" value="19" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Historical wargames + conflict strategy" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="13" id="53" label="C9-C13" weight="360.9574950411916">
+        <attvalues>
+          <attvalue for="13" value="702" />
+          <attvalue for="14" value="0.19284803075461343" />
+          <attvalue for="15" value="0.15694164989939638" />
+          <attvalue for="16" value="36" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Puzzle / nature tableau builders" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="4" id="54" label="C9-C4" weight="312.96667056530714">
+        <attvalues>
+          <attvalue for="13" value="635" />
+          <attvalue for="14" value="0.16720807003456117" />
+          <attvalue for="15" value="0.1419628884417617" />
+          <attvalue for="16" value="46" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Legacy + narrative mystery" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="23" id="55" label="C9-C23" weight="296.3023144006729">
+        <attvalues>
+          <attvalue for="13" value="651" />
+          <attvalue for="14" value="0.15830483817404398" />
+          <attvalue for="15" value="0.14553990610328638" />
+          <attvalue for="16" value="48" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Fantasy adventure / deck-building gateway" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="5" id="56" label="C9-C5" weight="291.5966721251607">
+        <attvalues>
+          <attvalue for="13" value="608" />
+          <attvalue for="14" value="0.15579076419376928" />
+          <attvalue for="15" value="0.13592667113793874" />
+          <attvalue for="16" value="49" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Area-control crossover / Root-Eclipse cluster" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="35" id="57" label="C9-C35" weight="282.60880906507373">
+        <attvalues>
+          <attvalue for="13" value="527" />
+          <attvalue for="14" value="0.15098883677671396" />
+          <attvalue for="15" value="0.11781801922646994" />
+          <attvalue for="16" value="53" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="26" id="58" label="C9-C26" weight="234.29413618147373">
+        <attvalues>
+          <attvalue for="13" value="341" />
+          <attvalue for="14" value="0.12517585422293073" />
+          <attvalue for="15" value="0.07623518891124526" />
+          <attvalue for="16" value="79" />
+          <attvalue for="17" value="Amerithrash / miniatures / LCG" />
+          <attvalue for="18" value="Pandemic system cluster" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="35" id="59" label="C25-C35" weight="812.7196302488446">
+        <attvalues>
+          <attvalue for="13" value="1644" />
+          <attvalue for="14" value="0.4342100729373176" />
+          <attvalue for="15" value="0.3675385647216633" />
+          <attvalue for="16" value="17" />
+          <attvalue for="17" value="Party / family / social deduction" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="13" id="60" label="C25-C13" weight="768.288285151124">
+        <attvalues>
+          <attvalue for="13" value="1616" />
+          <attvalue for="14" value="0.41047182806475646" />
+          <attvalue for="15" value="0.3612787838139951" />
+          <attvalue for="16" value="21" />
+          <attvalue for="17" value="Party / family / social deduction" />
+          <attvalue for="18" value="Puzzle / nature tableau builders" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="12" id="61" label="C12-C25" weight="718.1179155893624">
+        <attvalues>
+          <attvalue for="13" value="1482" />
+          <attvalue for="14" value="0.3836674062003128" />
+          <attvalue for="15" value="0.3313212608987257" />
+          <attvalue for="16" value="22" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Party / family / social deduction" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="8" id="62" label="C25-C8" weight="611.3796568773687">
+        <attvalues>
+          <attvalue for="13" value="1151" />
+          <attvalue for="14" value="0.32664057262137464" />
+          <attvalue for="15" value="0.2573217080259334" />
+          <attvalue for="16" value="24" />
+          <attvalue for="17" value="Party / family / social deduction" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="4" id="63" label="C25-C4" weight="343.0930414646864">
+        <attvalues>
+          <attvalue for="13" value="671" />
+          <attvalue for="14" value="0.18330362527733393" />
+          <attvalue for="15" value="0.15001117818019227" />
+          <attvalue for="16" value="40" />
+          <attvalue for="17" value="Party / family / social deduction" />
+          <attvalue for="18" value="Legacy + narrative mystery" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="23" id="64" label="C25-C23" weight="256.5621246546507">
+        <attvalues>
+          <attvalue for="13" value="501" />
+          <attvalue for="14" value="0.13707292738227472" />
+          <attvalue for="15" value="0.11200536552649229" />
+          <attvalue for="16" value="63" />
+          <attvalue for="17" value="Party / family / social deduction" />
+          <attvalue for="18" value="Fantasy adventure / deck-building gateway" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="20" id="65" label="C20-C25" weight="244.45676210150123">
+        <attvalues>
+          <attvalue for="13" value="541" />
+          <attvalue for="14" value="0.13060541981693352" />
+          <attvalue for="15" value="0.12094790968030404" />
+          <attvalue for="16" value="71" />
+          <attvalue for="17" value="Historical wargames + conflict strategy" />
+          <attvalue for="18" value="Party / family / social deduction" />
+        </attvalues>
+      </edge>
+      <edge source="25" target="37" id="66" label="C25-C37" weight="241.3601387515664">
+        <attvalues>
+          <attvalue for="13" value="330" />
+          <attvalue for="14" value="0.1289509931234096" />
+          <attvalue for="15" value="0.07377598926894702" />
+          <attvalue for="16" value="74" />
+          <attvalue for="17" value="Party / family / social deduction" />
+          <attvalue for="18" value="Escape-room / Unlock series cluster" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="13" id="67" label="C12-C13" weight="780.7289379239082">
+        <attvalues>
+          <attvalue for="13" value="1735" />
+          <attvalue for="14" value="0.41711847045753897" />
+          <attvalue for="15" value="0.38788285267158507" />
+          <attvalue for="16" value="20" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Puzzle / nature tableau builders" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="35" id="68" label="C12-C35" weight="475.8713232576847">
+        <attvalues>
+          <attvalue for="13" value="970" />
+          <attvalue for="14" value="0.25424280931571713" />
+          <attvalue for="15" value="0.21685669572993516" />
+          <attvalue for="16" value="29" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="20" id="69" label="C12-C20" weight="417.35004975274205">
+        <attvalues>
+          <attvalue for="13" value="1076" />
+          <attvalue for="14" value="0.22297676689320853" />
+          <attvalue for="15" value="0.24055443773753632" />
+          <attvalue for="16" value="30" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Historical wargames + conflict strategy" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="8" id="70" label="C12-C8" weight="398.3659948185086">
+        <attvalues>
+          <attvalue for="13" value="660" />
+          <attvalue for="14" value="0.21283419426319145" />
+          <attvalue for="15" value="0.14755197853789404" />
+          <attvalue for="16" value="32" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="4" id="71" label="C12-C4" weight="355.54114359244704">
+        <attvalues>
+          <attvalue for="13" value="702" />
+          <attvalue for="14" value="0.1899542476219316" />
+          <attvalue for="15" value="0.15694164989939638" />
+          <attvalue for="16" value="37" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Legacy + narrative mystery" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="23" id="72" label="C12-C23" weight="331.92441853135824">
+        <attvalues>
+          <attvalue for="13" value="725" />
+          <attvalue for="14" value="0.17733658769389948" />
+          <attvalue for="15" value="0.16208361278783814" />
+          <attvalue for="16" value="44" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Fantasy adventure / deck-building gateway" />
+        </attvalues>
+      </edge>
+      <edge source="12" target="5" id="73" label="C12-C5" weight="301.51453836262226">
+        <attvalues>
+          <attvalue for="13" value="610" />
+          <attvalue for="14" value="0.16108956252725135" />
+          <attvalue for="15" value="0.13637379834562932" />
+          <attvalue for="16" value="47" />
+          <attvalue for="17" value="Dungeon crawl / cooperative campaign adventure" />
+          <attvalue for="18" value="Area-control crossover / Root-Eclipse cluster" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="20" id="74" label="C20-C8" weight="642.1357192099094">
+        <attvalues>
+          <attvalue for="13" value="1417" />
+          <attvalue for="14" value="0.34307255183244423" />
+          <attvalue for="15" value="0.3167896266487816" />
+          <attvalue for="16" value="23" />
+          <attvalue for="17" value="Historical wargames + conflict strategy" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="13" id="75" label="C13-C8" weight="389.3198154121637">
+        <attvalues>
+          <attvalue for="13" value="685" />
+          <attvalue for="14" value="0.20800111028977933" />
+          <attvalue for="15" value="0.15314106863402638" />
+          <attvalue for="16" value="33" />
+          <attvalue for="17" value="Puzzle / nature tableau builders" />
+          <attvalue for="18" value="Medium worker-placement euros" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="35" id="76" label="C13-C35" weight="566.4491842985153">
+        <attvalues>
+          <attvalue for="13" value="1174" />
+          <attvalue for="14" value="0.30263565991907093" />
+          <attvalue for="15" value="0.2624636709143751" />
+          <attvalue for="16" value="27" />
+          <attvalue for="17" value="Puzzle / nature tableau builders" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="23" id="77" label="C13-C23" weight="280.35528492182493">
+        <attvalues>
+          <attvalue for="13" value="551" />
+          <attvalue for="14" value="0.14978485099098063" />
+          <attvalue for="15" value="0.12318354571875699" />
+          <attvalue for="16" value="54" />
+          <attvalue for="17" value="Puzzle / nature tableau builders" />
+          <attvalue for="18" value="Fantasy adventure / deck-building gateway" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="17" id="78" label="C13-C17" weight="253.94913006573915">
+        <attvalues>
+          <attvalue for="13" value="527" />
+          <attvalue for="14" value="0.1356768880486503" />
+          <attvalue for="15" value="0.11781801922646994" />
+          <attvalue for="16" value="65" />
+          <attvalue for="17" value="Puzzle / nature tableau builders" />
+          <attvalue for="18" value="Roll-and-write / number dice games" />
+        </attvalues>
+      </edge>
+      <edge source="35" target="20" id="79" label="C20-C35" weight="254.80780395120385">
+        <attvalues>
+          <attvalue for="13" value="547" />
+          <attvalue for="14" value="0.13613565000856853" />
+          <attvalue for="15" value="0.1222892913033758" />
+          <attvalue for="16" value="64" />
+          <attvalue for="17" value="Historical wargames + conflict strategy" />
+          <attvalue for="18" value="Cooperative trick-taking + deduction" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

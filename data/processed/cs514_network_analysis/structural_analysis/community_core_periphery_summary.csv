@@ -1,0 +1,39 @@
+community,manual_label,community_type,size,median_internal_strength_share,mean_internal_strength_share,median_internal_degree,median_external_degree
+10,BGG Golden Age canon,temporal_canon,338,0.3920540393810322,0.4013786872299077,39.0,51.0
+20,Historical wargames + conflict strategy,taste_specialist,198,0.3706924611933232,0.4029895382993138,52.0,66.0
+2,Current heavy euro engine builders,taste_specialist,207,0.308918882103597,0.31664796687445923,36.0,67.0
+16,Unmatched / skirmish series cluster,franchise_series,20,0.2912755327510037,0.2605865603383955,18.0,77.0
+9,Amerithrash / miniatures / LCG,taste_specialist,251,0.284571714231679,0.2960912895678771,32.0,69.0
+12,Dungeon crawl / cooperative campaign adventure,taste_specialist,231,0.28076638093042117,0.28734010949193173,30.0,68.0
+19,Recent releases / new-hotness cluster,temporal_artifact,231,0.22975636084316522,0.2363182990468972,23.0,72.0
+8,Medium worker-placement euros,taste_specialist,166,0.20219250966370794,0.2086101357353645,18.0,66.0
+25,Party / family / social deduction,taste_cross_over,177,0.16227493381448466,0.1663214377255259,17.0,78.0
+13,Puzzle / nature tableau builders,taste_cross_over,168,0.1548033265824465,0.16332616317865292,15.0,73.0
+37,Escape-room / Unlock series cluster,franchise_series,15,0.1362066115230898,0.1072910296099697,11.0,84.0
+35,Cooperative trick-taking + deduction,taste_cross_over,100,0.10910378583326341,0.11595682543454706,12.0,82.5
+4,Legacy + narrative mystery,shared_culture,37,0.08954592127686019,0.11232266953007984,13.0,83.0
+23,Fantasy adventure / deck-building gateway,taste_cross_over,45,0.05307042256761833,0.059207143767664186,5.0,79.0
+5,Area-control crossover / Root-Eclipse cluster,bridge_cluster,41,0.05198176087748886,0.05510791020712669,5.0,98.0
+17,Roll-and-write / number dice games,taste_cross_over,39,0.051110014127739266,0.05878924177515202,5.0,84.0
+31,Railroad Ink / spatial puzzle cluster,franchise_series,7,0.05042718083503867,0.04759723769798528,4.0,90.0
+41,Ticket to Ride / route-building series cluster,franchise_series,9,0.046296016281291034,0.04804632548233782,5.0,88.0
+26,Pandemic system cluster,franchise_series,13,0.04383083352180424,0.04467947899071363,4.0,78.0
+38,Racing / sports / route bridge,bridge_cluster,17,0.04346063523230167,0.06217920037451832,6.0,79.0
+34,Licensed family/fandom games,franchise_series,13,0.0350319190033652,0.047388343928797066,3.0,91.0
+39,Take-that card/fandom cluster,franchise_series,15,0.034460151056862454,0.0834973655780611,7.0,80.0
+36,Light set-collection gateway,bridge_cluster,15,0.034236757456680894,0.03773287294179523,3.0,83.0
+11,KeyForge / Catan gateway-franchise cluster,franchise_series,7,0.029157122557034936,0.03250068376736206,3.0,90.0
+0,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,6,0.028173763946880544,0.027654815170960852,1.0,71.5
+21,Viticulture / Dinosaur Island gateway bridge,bridge_cluster,6,0.027679578590685403,0.024759230204323968,2.0,78.5
+29,Small two-player/set-collection card games,bridge_cluster,12,0.027407450827804464,0.03768177462487015,3.0,71.5
+14,Abstract tile-placement puzzle bridge,bridge_cluster,9,0.027303736056734355,0.026261555558203222,1.0,75.0
+3,Thematic sandbox worker-placement bridge,bridge_cluster,9,0.02615510627961418,0.025210236239692353,1.0,85.0
+1,Thematic adventure / licensed bridge cluster,bridge_cluster,10,0.024611151587595935,0.022200899193240066,1.0,86.0
+24,Ark Nova universal-appeal micro-cluster,bridge_singleton,8,0.024410995529050968,0.02380103734672194,1.0,75.0
+32,Open-drafting tactical euro cluster,bridge_cluster,11,0.024282446466903383,0.02578451272245634,2.0,74.0
+18,Mass-market gateway / family strategy bridge,bridge_cluster,7,0.024242369107716866,0.020590031470304027,2.0,79.0
+22,Trade-route / area-influence euros,bridge_cluster,6,0.023085681610333208,0.02641451274501104,1.5,87.0
+15,Deck-manipulation / engine gateway cluster,bridge_cluster,8,0.022765939370727767,0.02065871058100745,2.0,85.0
+27,Race for the Galaxy system cluster,franchise_series,8,0.02154801165831587,0.02460962154467223,2.0,75.5
+40,Light gateway tile/claim-action cluster,bridge_cluster,8,0.017568595620195568,0.016308527032063,1.0,82.0
+28,Real-time cooperative micro-cluster,taste_cross_over,8,0.015894626190659067,0.014907561965105053,1.0,77.5

@@ -1,0 +1,301 @@
+archetype,archetype_n_users,within_archetype_rank,bgg_id,name,overall_rank,owner_count_in_archetype,owner_share_in_archetype,profile_dimension,manual_label,community_type,community
+generalist,723,1,178900,Codenames,161,336,0.46473029045643155,other,Escape-room / Unlock series cluster,franchise_series,37
+generalist,723,2,167791,Terraforming Mars,9,331,0.4578146611341632,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+generalist,723,3,822,Carcassonne,239,314,0.4343015214384509,other,Racing / sports / route bridge,bridge_cluster,38
+generalist,723,4,30549,Pandemic,170,308,0.4260027662517289,other,Pandemic system cluster,franchise_series,26
+generalist,723,5,2651,Power Grid,74,302,0.41770401106500693,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+generalist,723,6,173346,7 Wonders Duel,24,301,0.41632088520055327,other,,tiny_fragment,33
+generalist,723,7,230802,Azul,96,300,0.4149377593360996,other,Abstract tile-placement puzzle bridge,bridge_cluster,14
+generalist,723,8,3076,Puerto Rico,55,298,0.41217150760719223,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+generalist,723,9,12333,Twilight Struggle,14,295,0.40802213001383125,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+generalist,723,10,84876,The Castles of Burgundy,15,290,0.40110650069156295,other,,tiny_fragment,42
+generalist,723,11,163412,Patchwork,146,283,0.3914246196403873,other,Railroad Ink / spatial puzzle cluster,franchise_series,31
+generalist,723,12,13,Catan,615,283,0.3914246196403873,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+generalist,723,13,129622,Love Letter,366,281,0.38865836791147995,other,Take-that card/fandom cluster,franchise_series,39
+generalist,723,14,31260,Agricola,64,275,0.38035961272475793,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+generalist,723,15,68448,7 Wonders,116,271,0.3748271092669433,other,,tiny_fragment,30
+generalist,723,16,224517,Brass: Birmingham,1,268,0.3706777316735823,other,,tiny_fragment,7
+generalist,723,17,169786,Scythe,26,261,0.36099585062240663,other,Thematic sandbox worker-placement bridge,bridge_cluster,3
+generalist,723,18,126163,Tzolk'in: The Mayan Calendar,73,261,0.36099585062240663,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+generalist,723,19,284083,The Crew: The Quest for Planet Nine,92,259,0.3582295988934993,legacy_narrative_mystery,Legacy + narrative mystery,shared_culture,4
+generalist,723,20,28143,Race for the Galaxy,93,258,0.35684647302904565,other,Race for the Galaxy system cluster,franchise_series,27
+leaning__amerithrash_miniatures_lcg,141,1,70323,King of Tokyo,489,51,0.3617021276595745,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,2,187645,Star Wars: Rebellion,10,49,0.3475177304964539,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,3,30549,Pandemic,170,49,0.3475177304964539,other,Pandemic system cluster,franchise_series,26
+leaning__amerithrash_miniatures_lcg,141,4,68448,7 Wonders,116,48,0.3404255319148936,other,,tiny_fragment,30
+leaning__amerithrash_miniatures_lcg,141,5,150376,Dead of Winter: A Crossroads Game,251,47,0.3333333333333333,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,6,822,Carcassonne,239,46,0.3262411347517731,other,Racing / sports / route bridge,bridge_cluster,38
+leaning__amerithrash_miniatures_lcg,141,7,167791,Terraforming Mars,9,46,0.3262411347517731,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+leaning__amerithrash_miniatures_lcg,141,8,146021,Eldritch Horror,137,45,0.3191489361702128,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,9,129622,Love Letter,366,44,0.3120567375886525,other,Take-that card/fandom cluster,franchise_series,39
+leaning__amerithrash_miniatures_lcg,141,10,205059,Mansions of Madness: Second Edition,75,43,0.3049645390070922,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,11,103885,Star Wars: X-Wing Miniatures Game,203,40,0.28368794326241137,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,12,124742,Android: Netrunner,82,40,0.28368794326241137,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,13,164153,Star Wars: Imperial Assault,83,40,0.28368794326241137,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,14,169786,Scythe,26,39,0.2765957446808511,other,Thematic sandbox worker-placement bridge,bridge_cluster,3
+leaning__amerithrash_miniatures_lcg,141,15,36218,Dominion,145,39,0.2765957446808511,other,Deck-manipulation / engine gateway cluster,bridge_cluster,15
+leaning__amerithrash_miniatures_lcg,141,16,174430,Gloomhaven,4,39,0.2765957446808511,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__amerithrash_miniatures_lcg,141,17,96848,Mage Knight Board Game,39,38,0.2695035460992908,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,18,40692,Small World,404,38,0.2695035460992908,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,19,170216,Blood Rage,65,38,0.2695035460992908,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__amerithrash_miniatures_lcg,141,20,205637,Arkham Horror: The Card Game,32,38,0.2695035460992908,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__bgg_golden_age_canon,161,1,822,Carcassonne,239,100,0.6211180124223602,other,Racing / sports / route bridge,bridge_cluster,38
+leaning__bgg_golden_age_canon,161,2,13,Catan,615,85,0.5279503105590062,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+leaning__bgg_golden_age_canon,161,3,31260,Agricola,64,82,0.5093167701863354,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,4,36218,Dominion,145,81,0.5031055900621118,other,Deck-manipulation / engine gateway cluster,bridge_cluster,15
+leaning__bgg_golden_age_canon,161,5,2651,Power Grid,74,80,0.4968944099378882,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,6,3076,Puerto Rico,55,79,0.4906832298136646,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,7,28143,Race for the Galaxy,93,72,0.4472049689440994,other,Race for the Galaxy system cluster,franchise_series,27
+leaning__bgg_golden_age_canon,161,8,68448,7 Wonders,116,69,0.42857142857142855,other,,tiny_fragment,30
+leaning__bgg_golden_age_canon,161,9,11,Bohnanza,544,68,0.422360248447205,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,10,42,Tigris & Euphrates,131,65,0.40372670807453415,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,11,84876,The Castles of Burgundy,15,64,0.39751552795031053,other,,tiny_fragment,42
+leaning__bgg_golden_age_canon,161,12,9209,Ticket to Ride,256,62,0.38509316770186336,other,Mass-market gateway / family strategy bridge,bridge_cluster,18
+leaning__bgg_golden_age_canon,161,13,178900,Codenames,161,59,0.36645962732919257,other,Escape-room / Unlock series cluster,franchise_series,37
+leaning__bgg_golden_age_canon,161,14,478,Citadels,584,59,0.36645962732919257,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,15,129622,Love Letter,366,57,0.35403726708074534,other,Take-that card/fandom cluster,franchise_series,39
+leaning__bgg_golden_age_canon,161,16,54,Tikal,378,57,0.35403726708074534,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,17,40692,Small World,404,57,0.35403726708074534,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__bgg_golden_age_canon,161,18,35677,Le Havre,80,57,0.35403726708074534,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__bgg_golden_age_canon,161,19,118,Modern Art,221,57,0.35403726708074534,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__bgg_golden_age_canon,161,20,12,Ra,115,56,0.34782608695652173,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__current_heavy_euro_engine_builders,99,1,167791,Terraforming Mars,9,53,0.5353535353535354,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+leaning__current_heavy_euro_engine_builders,99,2,342942,Ark Nova,2,50,0.5050505050505051,other,Ark Nova universal-appeal micro-cluster,bridge_singleton,24
+leaning__current_heavy_euro_engine_builders,99,3,247763,Underwater Cities,50,49,0.494949494949495,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,4,184267,On Mars,58,47,0.47474747474747475,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,5,224517,Brass: Birmingham,1,46,0.46464646464646464,other,,tiny_fragment,7
+leaning__current_heavy_euro_engine_builders,99,6,396790,Nucleum,143,44,0.4444444444444444,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,7,308765,Praga Caput Regni,192,44,0.4444444444444444,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,8,220308,Gaia Project,13,43,0.43434343434343436,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,9,182874,Grand Austria Hotel,67,43,0.43434343434343436,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,10,169786,Scythe,26,42,0.42424242424242425,other,Thematic sandbox worker-placement bridge,bridge_cluster,3
+leaning__current_heavy_euro_engine_builders,99,11,125153,The Gallerist,81,41,0.41414141414141414,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,12,284378,Kanban EV,45,40,0.40404040404040403,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,13,229853,Teotihuacan: City of Gods,109,40,0.40404040404040403,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,14,173346,7 Wonders Duel,24,40,0.40404040404040403,other,,tiny_fragment,33
+leaning__current_heavy_euro_engine_builders,99,15,310873,Carnegie,127,40,0.40404040404040403,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,16,185343,Anachrony,61,40,0.40404040404040403,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,17,161533,Lisboa,69,39,0.3939393939393939,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,18,371942,The White Castle,72,39,0.3939393939393939,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__current_heavy_euro_engine_builders,99,19,266192,Wingspan,38,38,0.3838383838383838,other,Licensed family/fandom games,franchise_series,34
+leaning__current_heavy_euro_engine_builders,99,20,266810,Paladins of the West Kingdom,79,38,0.3838383838383838,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,1,162886,Spirit Island,11,52,0.52,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,2,205637,Arkham Horror: The Card Game,32,43,0.43,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,3,291457,Gloomhaven: Jaws of the Lion,12,41,0.41,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,4,285774,Marvel Champions: The Card Game,48,40,0.4,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,5,312484,Lost Ruins of Arnak,30,39,0.39,other,Thematic adventure / licensed bridge cluster,bridge_cluster,1
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,6,167355,Nemesis,25,39,0.39,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,7,174430,Gloomhaven,4,39,0.39,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,8,192135,Too Many Bones,37,39,0.39,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,9,121921,Robinson Crusoe: Adventures on the Cursed Island,119,38,0.38,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,10,167791,Terraforming Mars,9,37,0.37,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,11,205059,Mansions of Madness: Second Edition,75,33,0.33,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,12,342942,Ark Nova,2,32,0.32,other,Ark Nova universal-appeal micro-cluster,bridge_singleton,24
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,13,316554,Dune: Imperium,6,31,0.31,other,Unmatched / skirmish series cluster,franchise_series,16
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,14,264220,Tainted Grail: The Fall of Avalon,136,30,0.3,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,15,253344,Cthulhu: Death May Die,54,30,0.3,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,16,373106,Sky Team,33,29,0.29,other,Recent releases / new-hotness cluster,temporal_artifact,19
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,17,146021,Eldritch Horror,137,29,0.29,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,18,255984,Sleeping Gods,71,29,0.29,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,19,191189,Aeon's End,107,28,0.28,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+leaning__dungeon_crawl_cooperative_campaign_adventure,100,20,266192,Wingspan,38,28,0.28,other,Licensed family/fandom games,franchise_series,34
+leaning__historical_wargames_conflict_strategy,60,1,12333,Twilight Struggle,14,39,0.65,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,2,91,Paths of Glory,262,29,0.48333333333333334,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,3,62227,"Labyrinth: The War on Terror, 2001 – ?",644,24,0.4,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,4,62219,Dominant Species,113,23,0.38333333333333336,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,5,21050,Combat Commander: Europe,279,23,0.38333333333333336,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,6,11825,Empire of the Sun: The Pacific War 1941-1945,892,22,0.36666666666666664,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,7,144189,Fire in the Lake,555,21,0.35,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,8,332686,John Company: Second Edition,217,21,0.35,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,9,25021,Sekigahara: The Unification of Japan,229,21,0.35,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,10,822,Carcassonne,239,21,0.35,other,Racing / sports / route bridge,bridge_cluster,38
+leaning__historical_wargames_conflict_strategy,60,11,115746,War of the Ring: Second Edition,8,21,0.35,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,12,38996,Washington's War,1073,20,0.3333333333333333,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,13,40354,Maria,431,20,0.3333333333333333,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,14,31260,Agricola,64,20,0.3333333333333333,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__historical_wargames_conflict_strategy,60,15,132018,Churchill,815,19,0.31666666666666665,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,16,111341,The Great Zimbabwe,357,19,0.31666666666666665,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,17,111799,Cuba Libre,731,19,0.31666666666666665,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,18,175914,Food Chain Magnate,49,19,0.31666666666666665,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,19,256960,Pax Pamir: Second Edition,53,19,0.31666666666666665,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__historical_wargames_conflict_strategy,60,20,30549,Pandemic,170,19,0.31666666666666665,other,Pandemic system cluster,franchise_series,26
+leaning__medium_worker_placement_euros,33,1,84876,The Castles of Burgundy,15,22,0.6666666666666666,other,,tiny_fragment,42
+leaning__medium_worker_placement_euros,33,2,120677,Terra Mystica,35,19,0.5757575757575758,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,3,144733,Russian Railroads,151,18,0.5454545454545454,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,4,126163,Tzolk'in: The Mayan Calendar,73,18,0.5454545454545454,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,5,102794,Caverna: The Cave Farmers,62,17,0.5151515151515151,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,6,2651,Power Grid,74,17,0.5151515151515151,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__medium_worker_placement_euros,33,7,173346,7 Wonders Duel,24,16,0.48484848484848486,other,,tiny_fragment,33
+leaning__medium_worker_placement_euros,33,8,31260,Agricola,64,16,0.48484848484848486,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__medium_worker_placement_euros,33,9,193738,Great Western Trail,19,15,0.45454545454545453,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,10,172386,Mombasa,144,14,0.42424242424242425,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,11,171623,The Voyages of Marco Polo,120,14,0.42424242424242425,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,12,146886,La Granja,275,14,0.42424242424242425,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,13,35677,Le Havre,80,14,0.42424242424242425,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,14,164928,Orléans,36,14,0.42424242424242425,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,15,68448,7 Wonders,116,14,0.42424242424242425,other,,tiny_fragment,30
+leaning__medium_worker_placement_euros,33,16,3076,Puerto Rico,55,14,0.42424242424242425,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+leaning__medium_worker_placement_euros,33,17,124361,Concordia,29,14,0.42424242424242425,other,Trade-route / area-influence euros,bridge_cluster,22
+leaning__medium_worker_placement_euros,33,18,167791,Terraforming Mars,9,14,0.42424242424242425,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+leaning__medium_worker_placement_euros,33,19,122515,Keyflower,133,13,0.3939393939393939,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+leaning__medium_worker_placement_euros,33,20,28720,Brass: Lancashire,23,13,0.3939393939393939,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+leaning__party_family_social_deduction,30,1,178900,Codenames,161,22,0.7333333333333333,other,Escape-room / Unlock series cluster,franchise_series,37
+leaning__party_family_social_deduction,30,2,129622,Love Letter,366,21,0.7,other,Take-that card/fandom cluster,franchise_series,39
+leaning__party_family_social_deduction,30,3,133473,Sushi Go!,654,18,0.6,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,4,30549,Pandemic,170,18,0.6,other,Pandemic system cluster,franchise_series,26
+leaning__party_family_social_deduction,30,5,13,Catan,615,17,0.5666666666666667,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+leaning__party_family_social_deduction,30,6,131357,Coup,717,16,0.5333333333333333,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,7,98778,Hanabi,595,16,0.5333333333333333,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,8,822,Carcassonne,239,16,0.5333333333333333,other,Racing / sports / route bridge,bridge_cluster,38
+leaning__party_family_social_deduction,30,9,9220,Saboteur,1532,15,0.5,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,10,157969,Sheriff of Nottingham,609,15,0.5,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,11,68448,7 Wonders,116,15,0.5,other,,tiny_fragment,30
+leaning__party_family_social_deduction,30,12,65244,Forbidden Island,1019,14,0.4666666666666667,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,13,147949,One Night Ultimate Werewolf,678,14,0.4666666666666667,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,14,181304,Mysterium,444,14,0.4666666666666667,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,15,39856,Dixit,423,14,0.4666666666666667,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,16,148228,Splendor,243,14,0.4666666666666667,other,Light set-collection gateway,bridge_cluster,36
+leaning__party_family_social_deduction,30,17,41114,The Resistance,455,13,0.43333333333333335,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+leaning__party_family_social_deduction,30,18,70919,Takenoko,438,13,0.43333333333333335,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,19,192291,Sushi Go Party!,286,13,0.43333333333333335,party_family_social_deduction,Party / family / social deduction,taste_cross_over,25
+leaning__party_family_social_deduction,30,20,70323,King of Tokyo,489,12,0.4,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+other_dominant_low_coverage,203,1,230802,Azul,96,100,0.49261083743842365,other,Abstract tile-placement puzzle bridge,bridge_cluster,14
+other_dominant_low_coverage,203,2,173346,7 Wonders Duel,24,94,0.4630541871921182,other,,tiny_fragment,33
+other_dominant_low_coverage,203,3,266192,Wingspan,38,89,0.43842364532019706,other,Licensed family/fandom games,franchise_series,34
+other_dominant_low_coverage,203,4,414317,Harmonies,57,83,0.4088669950738916,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,5,342942,Ark Nova,2,80,0.39408866995073893,other,Ark Nova universal-appeal micro-cluster,bridge_singleton,24
+other_dominant_low_coverage,203,6,295947,Cascadia,60,78,0.3842364532019704,puzzle_nature_tableau_builders,Puzzle / nature tableau builders,taste_cross_over,13
+other_dominant_low_coverage,203,7,199792,Everdell,42,78,0.3842364532019704,other,Fantasy adventure / deck-building gateway,taste_cross_over,23
+other_dominant_low_coverage,203,8,367220,Sea Salt & Paper,259,75,0.3694581280788177,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,9,167791,Terraforming Mars,9,75,0.3694581280788177,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+other_dominant_low_coverage,203,10,420087,Flip 7,522,72,0.35467980295566504,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,11,312484,Lost Ruins of Arnak,30,71,0.3497536945812808,other,Thematic adventure / licensed bridge cluster,bridge_cluster,1
+other_dominant_low_coverage,203,12,373106,Sky Team,33,71,0.3497536945812808,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,13,416851,Castle Combo,231,69,0.3399014778325123,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,14,224517,Brass: Birmingham,1,64,0.31527093596059114,other,,tiny_fragment,7
+other_dominant_low_coverage,203,15,13,Catan,615,64,0.31527093596059114,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+other_dominant_low_coverage,203,16,178900,Codenames,161,63,0.3103448275862069,other,Escape-room / Unlock series cluster,franchise_series,37
+other_dominant_low_coverage,203,17,822,Carcassonne,239,63,0.3103448275862069,other,Racing / sports / route bridge,bridge_cluster,38
+other_dominant_low_coverage,203,18,291453,SCOUT,105,61,0.30049261083743845,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,19,397598,Dune: Imperium – Uprising,5,61,0.30049261083743845,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_low_coverage,203,20,421006,The Lord of the Rings: Duel for Middle-earth,20,59,0.29064039408866993,other,Recent releases / new-hotness cluster,temporal_artifact,19
+other_dominant_mixed,3018,1,173346,7 Wonders Duel,24,1570,0.5202120609675281,other,,tiny_fragment,33
+other_dominant_mixed,3018,2,266192,Wingspan,38,1567,0.5192180251822399,other,Licensed family/fandom games,franchise_series,34
+other_dominant_mixed,3018,3,230802,Azul,96,1556,0.5155732273028496,other,Abstract tile-placement puzzle bridge,bridge_cluster,14
+other_dominant_mixed,3018,4,167791,Terraforming Mars,9,1489,0.4933730947647449,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+other_dominant_mixed,3018,5,178900,Codenames,161,1417,0.4695162359178264,other,Escape-room / Unlock series cluster,franchise_series,37
+other_dominant_mixed,3018,6,342942,Ark Nova,2,1327,0.43969516235917827,other,Ark Nova universal-appeal micro-cluster,bridge_singleton,24
+other_dominant_mixed,3018,7,822,Carcassonne,239,1326,0.4393638170974155,other,Racing / sports / route bridge,bridge_cluster,38
+other_dominant_mixed,3018,8,163412,Patchwork,146,1298,0.4300861497680583,other,Railroad Ink / spatial puzzle cluster,franchise_series,31
+other_dominant_mixed,3018,9,169786,Scythe,26,1238,0.41020543406229293,other,Thematic sandbox worker-placement bridge,bridge_cluster,3
+other_dominant_mixed,3018,10,30549,Pandemic,170,1230,0.40755467196819084,other,Pandemic system cluster,franchise_series,26
+other_dominant_mixed,3018,11,224517,Brass: Birmingham,1,1225,0.4058979456593771,other,,tiny_fragment,7
+other_dominant_mixed,3018,12,312484,Lost Ruins of Arnak,30,1215,0.4025844930417495,other,Thematic adventure / licensed bridge cluster,bridge_cluster,1
+other_dominant_mixed,3018,13,244521,Quacks,78,1204,0.39893969516235916,other,,tiny_fragment,6
+other_dominant_mixed,3018,14,295947,Cascadia,60,1202,0.39827700463883364,puzzle_nature_tableau_builders,Puzzle / nature tableau builders,taste_cross_over,13
+other_dominant_mixed,3018,15,13,Catan,615,1177,0.38999337309476473,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+other_dominant_mixed,3018,16,148228,Splendor,243,1096,0.3631544068919814,other,Light set-collection gateway,bridge_cluster,36
+other_dominant_mixed,3018,17,284083,The Crew: The Quest for Planet Nine,92,1077,0.35685884691848907,legacy_narrative_mystery,Legacy + narrative mystery,shared_culture,4
+other_dominant_mixed,3018,18,183394,Viticulture Essential Edition,44,1076,0.3565275016567263,other,Viticulture / Dinosaur Island gateway bridge,bridge_cluster,21
+other_dominant_mixed,3018,19,68448,7 Wonders,116,1058,0.35056328694499667,other,,tiny_fragment,30
+other_dominant_mixed,3018,20,162886,Spirit Island,11,1052,0.34857521537442016,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__amerithrash_miniatures_lcg,105,1,104162,Descent: Journeys in the Dark (Second Edition),226,40,0.38095238095238093,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,2,110327,Lords of Waterdeep,106,36,0.34285714285714286,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,3,30549,Pandemic,170,34,0.3238095238095238,other,Pandemic system cluster,franchise_series,26
+specialist__amerithrash_miniatures_lcg,105,4,15987,Arkham Horror,476,34,0.3238095238095238,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,5,96848,Mage Knight Board Game,39,34,0.3238095238095238,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,6,146021,Eldritch Horror,137,31,0.29523809523809524,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,7,164153,Star Wars: Imperial Assault,83,29,0.2761904761904762,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,8,12493,Twilight Imperium: Third Edition,150,29,0.2761904761904762,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,9,187645,Star Wars: Rebellion,10,29,0.2761904761904762,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,10,205059,Mansions of Madness: Second Edition,75,29,0.2761904761904762,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,11,822,Carcassonne,239,28,0.26666666666666666,other,Racing / sports / route bridge,bridge_cluster,38
+specialist__amerithrash_miniatures_lcg,105,12,37111,Battlestar Galactica: The Board Game,125,27,0.2571428571428571,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,13,83330,Mansions of Madness,613,27,0.2571428571428571,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,14,13,Catan,615,27,0.2571428571428571,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+specialist__amerithrash_miniatures_lcg,105,15,10547,Betrayal at House on the Hill,770,27,0.2571428571428571,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,16,133038,Pathfinder Adventure Card Game: Rise of the Runelords – Base Set,711,27,0.2571428571428571,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,17,150376,Dead of Winter: A Crossroads Game,251,27,0.2571428571428571,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,18,174430,Gloomhaven,4,27,0.2571428571428571,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__amerithrash_miniatures_lcg,105,19,147020,Star Realms,174,26,0.24761904761904763,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__amerithrash_miniatures_lcg,105,20,70323,King of Tokyo,489,26,0.24761904761904763,amerithrash_miniatures_lcg,Amerithrash / miniatures / LCG,taste_specialist,9
+specialist__bgg_golden_age_canon,190,1,3076,Puerto Rico,55,110,0.5789473684210527,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,2,13,Catan,615,105,0.5526315789473685,other,KeyForge / Catan gateway-franchise cluster,franchise_series,11
+specialist__bgg_golden_age_canon,190,3,11,Bohnanza,544,102,0.5368421052631579,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,4,822,Carcassonne,239,99,0.5210526315789473,other,Racing / sports / route bridge,bridge_cluster,38
+specialist__bgg_golden_age_canon,190,5,42,Tigris & Euphrates,131,98,0.5157894736842106,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,6,2651,Power Grid,74,93,0.48947368421052634,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,7,12,Ra,115,91,0.4789473684210526,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,8,50,Lost Cities,344,85,0.4473684210526316,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,9,93,El Grande,100,85,0.4473684210526316,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,10,31260,Agricola,64,83,0.4368421052631579,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,11,118,Modern Art,221,81,0.4263157894736842,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,12,8217,San Juan,440,80,0.42105263157894735,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,13,54,Tikal,378,79,0.41578947368421054,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,14,555,The Princes of Florence,301,77,0.4052631578947368,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,15,478,Citadels,584,77,0.4052631578947368,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,16,171,Chess,459,76,0.4,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,17,5782,Coloretto,730,76,0.4,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,18,36218,Dominion,145,75,0.39473684210526316,other,Deck-manipulation / engine gateway cluster,bridge_cluster,15
+specialist__bgg_golden_age_canon,190,19,5,Acquire,360,74,0.3894736842105263,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__bgg_golden_age_canon,190,20,3,Samurai,283,73,0.38421052631578945,bgg_golden_age_canon,BGG Golden Age canon,temporal_canon,10
+specialist__current_heavy_euro_engine_builders,41,1,251247,Barrage,40,27,0.6585365853658537,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,2,224517,Brass: Birmingham,1,25,0.6097560975609756,other,,tiny_fragment,7
+specialist__current_heavy_euro_engine_builders,41,3,396790,Nucleum,143,24,0.5853658536585366,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,4,247763,Underwater Cities,50,23,0.5609756097560976,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,5,322289,Darwin's Journey,89,23,0.5609756097560976,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,6,184267,On Mars,58,22,0.5365853658536586,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,7,126163,Tzolk'in: The Mayan Calendar,73,22,0.5365853658536586,medium_worker_placement_euros,Medium worker-placement euros,taste_specialist,8
+specialist__current_heavy_euro_engine_builders,41,8,342942,Ark Nova,2,22,0.5365853658536586,other,Ark Nova universal-appeal micro-cluster,bridge_singleton,24
+specialist__current_heavy_euro_engine_builders,41,9,310873,Carnegie,127,21,0.5121951219512195,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,10,284378,Kanban EV,45,21,0.5121951219512195,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,11,161533,Lisboa,69,21,0.5121951219512195,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,12,125153,The Gallerist,81,21,0.5121951219512195,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,13,167791,Terraforming Mars,9,19,0.4634146341463415,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+specialist__current_heavy_euro_engine_builders,41,14,297030,Tekhenu: Obelisk of the Sun,428,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,15,182874,Grand Austria Hotel,67,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,16,371942,The White Castle,72,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,17,391137,Galactic Cruise,126,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,18,323612,Bitoku,303,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,19,375459,Speakeasy,305,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__current_heavy_euro_engine_builders,41,20,382518,Sankoré: The Pride of Mansa Musa,1475,18,0.43902439024390244,current_heavy_euro_engine_builders,Current heavy euro engine builders,taste_specialist,2
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,1,162886,Spirit Island,11,46,0.5411764705882353,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,2,291457,Gloomhaven: Jaws of the Lion,12,39,0.4588235294117647,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,3,285774,Marvel Champions: The Card Game,48,38,0.4470588235294118,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,4,174430,Gloomhaven,4,33,0.38823529411764707,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,5,192135,Too Many Bones,37,33,0.38823529411764707,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,6,121921,Robinson Crusoe: Adventures on the Cursed Island,119,31,0.36470588235294116,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,7,191189,Aeon's End,107,31,0.36470588235294116,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,8,277659,Final Girl,97,31,0.36470588235294116,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,9,205637,Arkham Horror: The Card Game,32,29,0.3411764705882353,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,10,264220,Tainted Grail: The Fall of Avalon,136,28,0.32941176470588235,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,11,167791,Terraforming Mars,9,25,0.29411764705882354,other,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,0
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,12,30549,Pandemic,170,25,0.29411764705882354,other,Pandemic system cluster,franchise_series,26
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,13,318184,Imperium: Classics,337,24,0.2823529411764706,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,14,167355,Nemesis,25,24,0.2823529411764706,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,15,325494,ISS Vanguard,158,24,0.2823529411764706,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,16,180263,The 7th Continent,163,23,0.27058823529411763,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,17,295770,Frosthaven,21,23,0.27058823529411763,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,18,251661,Oathsworn: Into the Deepwood,63,23,0.27058823529411763,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,19,393672,Gloomhaven: Buttons & Bugs,908,22,0.25882352941176473,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__dungeon_crawl_cooperative_campaign_adventure,85,20,235802,Too Many Bones: Undertow,172,22,0.25882352941176473,dungeon_crawl_cooperative_campaign_adventure,Dungeon crawl / cooperative campaign adventure,taste_specialist,12
+specialist__historical_wargames_conflict_strategy,89,1,12333,Twilight Struggle,14,57,0.6404494382022472,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,2,91,Paths of Glory,262,42,0.47191011235955055,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,3,40354,Maria,431,35,0.39325842696629215,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,4,234,Hannibal: Rome vs. Carthage,484,34,0.38202247191011235,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,5,1822,Wilderness War,1403,33,0.3707865168539326,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,6,11825,Empire of the Sun: The Pacific War 1941-1945,892,33,0.3707865168539326,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,7,115746,War of the Ring: Second Edition,8,31,0.34831460674157305,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,8,421,1830: Railways & Robber Barons,311,31,0.34831460674157305,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,9,833,For the People,1384,31,0.34831460674157305,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,10,38996,Washington's War,1073,30,0.33707865168539325,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,11,14105,Commands & Colors: Ancients,250,29,0.3258426966292135,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,12,128780,Pax Porfiriana,728,29,0.3258426966292135,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,13,25021,Sekigahara: The Unification of Japan,229,28,0.3146067415730337,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,14,132018,Churchill,815,27,0.30337078651685395,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,15,206480,Imperial Struggle,474,27,0.30337078651685395,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,16,41066,Virgin Queen,1163,25,0.2808988764044944,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,17,12891,Friedrich: Anniversary Edition,1038,25,0.2808988764044944,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,18,7858,Ardennes '44: The Battle of the Bulge,2484,25,0.2808988764044944,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,19,730,Breakout: Normandy,2372,25,0.2808988764044944,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20
+specialist__historical_wargames_conflict_strategy,89,20,242722,Here I Stand: 500th Anniversary Edition,1198,25,0.2808988764044944,historical_wargames_conflict_strategy,Historical wargames + conflict strategy,taste_specialist,20

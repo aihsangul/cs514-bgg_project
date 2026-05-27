@@ -1,0 +1,904 @@
+community_a,community_b,label_a,label_b,edge_count,weight
+10,8,BGG Golden Age canon,Medium worker-placement euros,4110,1871.7198906764388
+19,2,Recent releases / new-hotness cluster,Current heavy euro engine builders,3475,1777.4552427008748
+10,9,BGG Golden Age canon,Amerithrash / miniatures / LCG,3956,1637.4617903232574
+10,25,BGG Golden Age canon,Party / family / social deduction,3232,1629.4227127619088
+10,20,BGG Golden Age canon,Historical wargames + conflict strategy,4473,1621.0488013066351
+19,13,Recent releases / new-hotness cluster,Puzzle / nature tableau builders,3476,1617.4934589117765
+2,8,Current heavy euro engine builders,Medium worker-placement euros,2759,1609.2517629787326
+9,12,Amerithrash / miniatures / LCG,Dungeon crawl / cooperative campaign adventure,3743,1540.922218374908
+9,25,Amerithrash / miniatures / LCG,Party / family / social deduction,3120,1441.7502875104547
+12,19,Dungeon crawl / cooperative campaign adventure,Recent releases / new-hotness cluster,2973,1344.188994884491
+2,13,Current heavy euro engine builders,Puzzle / nature tableau builders,2387,1249.6373617351055
+12,2,Dungeon crawl / cooperative campaign adventure,Current heavy euro engine builders,2098,1085.786573201418
+19,35,Recent releases / new-hotness cluster,Cooperative trick-taking + deduction,2166,1057.762424632907
+9,8,Amerithrash / miniatures / LCG,Medium worker-placement euros,1817,899.4113654270768
+10,35,BGG Golden Age canon,Cooperative trick-taking + deduction,1687,876.0226441472769
+10,19,BGG Golden Age canon,Recent releases / new-hotness cluster,1690,838.8178825043142
+25,35,Party / family / social deduction,Cooperative trick-taking + deduction,1644,812.7196302488446
+19,25,Recent releases / new-hotness cluster,Party / family / social deduction,1652,793.7378498800099
+9,20,Amerithrash / miniatures / LCG,Historical wargames + conflict strategy,2300,788.5978123396635
+12,13,Dungeon crawl / cooperative campaign adventure,Puzzle / nature tableau builders,1735,780.7289379239082
+25,13,Party / family / social deduction,Puzzle / nature tableau builders,1616,768.288285151124
+12,25,Dungeon crawl / cooperative campaign adventure,Party / family / social deduction,1482,718.1179155893624
+20,8,Historical wargames + conflict strategy,Medium worker-placement euros,1417,642.1357192099094
+25,8,Party / family / social deduction,Medium worker-placement euros,1151,611.3796568773687
+2,20,Current heavy euro engine builders,Historical wargames + conflict strategy,1218,601.4462366886437
+10,2,BGG Golden Age canon,Current heavy euro engine builders,958,573.4862046688795
+13,35,Puzzle / nature tableau builders,Cooperative trick-taking + deduction,1174,566.4491842985153
+10,13,BGG Golden Age canon,Puzzle / nature tableau builders,949,530.1528708040714
+12,35,Dungeon crawl / cooperative campaign adventure,Cooperative trick-taking + deduction,970,475.8713232576847
+12,20,Dungeon crawl / cooperative campaign adventure,Historical wargames + conflict strategy,1076,417.35004975274205
+10,12,BGG Golden Age canon,Dungeon crawl / cooperative campaign adventure,770,410.2948097214103
+12,8,Dungeon crawl / cooperative campaign adventure,Medium worker-placement euros,660,398.3659948185086
+13,8,Puzzle / nature tableau builders,Medium worker-placement euros,685,389.31981541216373
+9,2,Amerithrash / miniatures / LCG,Current heavy euro engine builders,633,382.64579562842846
+10,38,BGG Golden Age canon,Racing / sports / route bridge,512,362.820108525455
+9,13,Amerithrash / miniatures / LCG,Puzzle / nature tableau builders,702,360.9574950411916
+12,4,Dungeon crawl / cooperative campaign adventure,Legacy + narrative mystery,702,355.54114359244704
+9,19,Amerithrash / miniatures / LCG,Recent releases / new-hotness cluster,705,346.5655646510422
+19,5,Recent releases / new-hotness cluster,Area-control crossover / Root-Eclipse cluster,697,345.87371949106455
+25,4,Party / family / social deduction,Legacy + narrative mystery,671,343.0930414646864
+2,35,Current heavy euro engine builders,Cooperative trick-taking + deduction,579,337.77638978511095
+19,17,Recent releases / new-hotness cluster,Roll-and-write / number dice games,717,337.51222137734294
+2,5,Current heavy euro engine builders,Area-control crossover / Root-Eclipse cluster,600,333.1843986585736
+12,23,Dungeon crawl / cooperative campaign adventure,Fantasy adventure / deck-building gateway,725,331.92441853135824
+10,17,BGG Golden Age canon,Roll-and-write / number dice games,646,319.0954832434654
+9,4,Amerithrash / miniatures / LCG,Legacy + narrative mystery,635,312.96667056530714
+12,5,Dungeon crawl / cooperative campaign adventure,Area-control crossover / Root-Eclipse cluster,610,301.51453836262226
+9,23,Amerithrash / miniatures / LCG,Fantasy adventure / deck-building gateway,651,296.3023144006729
+9,5,Amerithrash / miniatures / LCG,Area-control crossover / Root-Eclipse cluster,608,291.5966721251607
+19,4,Recent releases / new-hotness cluster,Legacy + narrative mystery,544,288.16375785321
+10,4,BGG Golden Age canon,Legacy + narrative mystery,531,287.72489166259766
+10,11,BGG Golden Age canon,KeyForge / Catan gateway-franchise cluster,393,285.80427565425634
+9,35,Amerithrash / miniatures / LCG,Cooperative trick-taking + deduction,527,282.60880906507373
+13,23,Puzzle / nature tableau builders,Fantasy adventure / deck-building gateway,551,280.35528492182493
+2,23,Current heavy euro engine builders,Fantasy adventure / deck-building gateway,480,278.44645684212446
+2,7,Current heavy euro engine builders,,251,268.07896699011326
+10,37,BGG Golden Age canon,Escape-room / Unlock series cluster,437,266.8297652080655
+2,24,Current heavy euro engine builders,Ark Nova universal-appeal micro-cluster,267,266.1201571896672
+19,20,Recent releases / new-hotness cluster,Historical wargames + conflict strategy,543,263.08813885226846
+10,14,BGG Golden Age canon,Abstract tile-placement puzzle bridge,412,261.8114089667797
+2,0,Current heavy euro engine builders,Terraforming Mars universal-appeal micro-cluster,250,260.4465899169445
+10,26,BGG Golden Age canon,Pandemic system cluster,409,256.8639318495989
+25,23,Party / family / social deduction,Fantasy adventure / deck-building gateway,501,256.5621246546507
+20,35,Historical wargames + conflict strategy,Cooperative trick-taking + deduction,547,254.80780395120382
+13,17,Puzzle / nature tableau builders,Roll-and-write / number dice games,527,253.94913006573915
+2,17,Current heavy euro engine builders,Roll-and-write / number dice games,495,252.75998473912477
+19,34,Recent releases / new-hotness cluster,Licensed family/fandom games,359,252.35385259985924
+10,39,BGG Golden Age canon,Take-that card/fandom cluster,459,249.29187859594822
+10,15,BGG Golden Age canon,Deck-manipulation / engine gateway cluster,419,246.5274188965559
+2,4,Current heavy euro engine builders,Legacy + narrative mystery,363,244.54948352649808
+20,25,Historical wargames + conflict strategy,Party / family / social deduction,541,244.45676210150123
+10,36,BGG Golden Age canon,Light set-collection gateway,427,242.7592952400446
+10,33,BGG Golden Age canon,,355,242.64979223161936
+25,37,Party / family / social deduction,Escape-room / Unlock series cluster,330,241.3601387515664
+19,14,Recent releases / new-hotness cluster,Abstract tile-placement puzzle bridge,272,238.65000926703215
+2,34,Current heavy euro engine builders,Licensed family/fandom games,238,234.56712129712105
+2,14,Current heavy euro engine builders,Abstract tile-placement puzzle bridge,258,234.46182368695736
+10,31,BGG Golden Age canon,Railroad Ink / spatial puzzle cluster,369,234.44214414805174
+9,26,Amerithrash / miniatures / LCG,Pandemic system cluster,341,234.29413618147373
+10,30,BGG Golden Age canon,,366,232.90708395838737
+2,1,Current heavy euro engine builders,Thematic adventure / licensed bridge cluster,268,228.88373090326786
+19,23,Recent releases / new-hotness cluster,Fantasy adventure / deck-building gateway,410,228.459328122437
+2,33,Current heavy euro engine builders,,223,228.37124091386795
+19,8,Recent releases / new-hotness cluster,Medium worker-placement euros,426,227.1685358211398
+19,33,Recent releases / new-hotness cluster,,255,225.42891135811806
+2,3,Current heavy euro engine builders,Thematic sandbox worker-placement bridge,267,225.25179360061884
+20,5,Historical wargames + conflict strategy,Area-control crossover / Root-Eclipse cluster,479,224.63686523213983
+13,4,Puzzle / nature tableau builders,Legacy + narrative mystery,419,222.4423517882824
+9,38,Amerithrash / miniatures / LCG,Racing / sports / route bridge,322,220.24188777804375
+19,16,Recent releases / new-hotness cluster,Unmatched / skirmish series cluster,454,219.78254157304764
+10,42,BGG Golden Age canon,,388,219.49734504520893
+19,1,Recent releases / new-hotness cluster,Thematic adventure / licensed bridge cluster,313,217.8946216776967
+12,34,Dungeon crawl / cooperative campaign adventure,Licensed family/fandom games,342,217.50816994905472
+25,38,Party / family / social deduction,Racing / sports / route bridge,269,217.09557474404573
+2,25,Current heavy euro engine builders,Party / family / social deduction,404,215.90184342861176
+25,26,Party / family / social deduction,Pandemic system cluster,261,215.82274263352156
+10,0,BGG Golden Age canon,Terraforming Mars universal-appeal micro-cluster,351,215.3870315849781
+13,34,Puzzle / nature tableau builders,Licensed family/fandom games,278,213.65845753997564
+19,24,Recent releases / new-hotness cluster,Ark Nova universal-appeal micro-cluster,253,212.95892250537872
+25,36,Party / family / social deduction,Light set-collection gateway,308,211.0913601256907
+9,39,Amerithrash / miniatures / LCG,Take-that card/fandom cluster,393,210.7989416718483
+10,41,BGG Golden Age canon,Ticket to Ride / route-building series cluster,389,209.57643777877092
+10,27,BGG Golden Age canon,Race for the Galaxy system cluster,381,209.29934106767178
+19,7,Recent releases / new-hotness cluster,,272,208.1198275387287
+25,34,Party / family / social deduction,Licensed family/fandom games,308,207.70162658393383
+25,39,Party / family / social deduction,Take-that card/fandom cluster,338,206.94210067763925
+19,37,Recent releases / new-hotness cluster,Escape-room / Unlock series cluster,319,204.8097429946065
+8,35,Medium worker-placement euros,Cooperative trick-taking + deduction,369,204.5905080512166
+9,0,Amerithrash / miniatures / LCG,Terraforming Mars universal-appeal micro-cluster,270,204.52571581304073
+12,0,Dungeon crawl / cooperative campaign adventure,Terraforming Mars universal-appeal micro-cluster,253,203.34044367820024
+10,18,BGG Golden Age canon,Mass-market gateway / family strategy bridge,362,202.94948058575392
+9,37,Amerithrash / miniatures / LCG,Escape-room / Unlock series cluster,316,201.50303477048874
+19,38,Recent releases / new-hotness cluster,Racing / sports / route bridge,303,201.34704637527466
+19,31,Recent releases / new-hotness cluster,Railroad Ink / spatial puzzle cluster,288,200.73488963395357
+12,26,Dungeon crawl / cooperative campaign adventure,Pandemic system cluster,317,200.65549977868795
+9,33,Amerithrash / miniatures / LCG,,274,200.64559857547283
+25,17,Party / family / social deduction,Roll-and-write / number dice games,402,199.1988897807896
+9,3,Amerithrash / miniatures / LCG,Thematic sandbox worker-placement bridge,306,199.1954308822751
+9,11,Amerithrash / miniatures / LCG,KeyForge / Catan gateway-franchise cluster,309,198.8796109855175
+19,0,Recent releases / new-hotness cluster,Terraforming Mars universal-appeal micro-cluster,250,198.71330315619707
+10,29,BGG Golden Age canon,Small two-player/set-collection card games,377,197.32470905780792
+25,33,Party / family / social deduction,,202,193.98422837257385
+12,16,Dungeon crawl / cooperative campaign adventure,Unmatched / skirmish series cluster,404,192.90838192403316
+12,33,Dungeon crawl / cooperative campaign adventure,,244,191.3619351014495
+8,4,Medium worker-placement euros,Legacy + narrative mystery,304,190.24572513997555
+10,5,BGG Golden Age canon,Area-control crossover / Root-Eclipse cluster,351,190.00916819274426
+25,14,Party / family / social deduction,Abstract tile-placement puzzle bridge,212,189.5411482155323
+8,17,Medium worker-placement euros,Roll-and-write / number dice games,360,187.9514770358801
+10,34,BGG Golden Age canon,Licensed family/fandom games,307,187.59814834594727
+2,38,Current heavy euro engine builders,Racing / sports / route bridge,266,187.48294916003942
+2,21,Current heavy euro engine builders,Viticulture / Dinosaur Island gateway bridge,244,187.26590213179588
+25,11,Party / family / social deduction,KeyForge / Catan gateway-franchise cluster,229,187.1714634373784
+35,4,Cooperative trick-taking + deduction,Legacy + narrative mystery,328,187.06315382570028
+9,34,Amerithrash / miniatures / LCG,Licensed family/fandom games,334,185.8873464949429
+2,16,Current heavy euro engine builders,Unmatched / skirmish series cluster,270,185.85654260218143
+12,3,Dungeon crawl / cooperative campaign adventure,Thematic sandbox worker-placement bridge,282,184.4462387636304
+25,5,Party / family / social deduction,Area-control crossover / Root-Eclipse cluster,368,182.70154839381576
+9,30,Amerithrash / miniatures / LCG,,270,182.29121059924364
+12,1,Dungeon crawl / cooperative campaign adventure,Thematic adventure / licensed bridge cluster,286,182.14639779180288
+2,31,Current heavy euro engine builders,Railroad Ink / spatial puzzle cluster,228,179.45668351650238
+8,38,Medium worker-placement euros,Racing / sports / route bridge,259,178.3255971930921
+13,14,Puzzle / nature tableau builders,Abstract tile-placement puzzle bridge,211,177.2785494029522
+12,24,Dungeon crawl / cooperative campaign adventure,Ark Nova universal-appeal micro-cluster,251,175.720009136945
+12,37,Dungeon crawl / cooperative campaign adventure,Escape-room / Unlock series cluster,323,175.1610485315323
+19,6,Recent releases / new-hotness cluster,,260,174.43148424103856
+35,5,Cooperative trick-taking + deduction,Area-control crossover / Root-Eclipse cluster,361,171.93116283416748
+2,37,Current heavy euro engine builders,Escape-room / Unlock series cluster,223,169.84630661457777
+19,26,Recent releases / new-hotness cluster,Pandemic system cluster,274,169.74463100731373
+12,14,Dungeon crawl / cooperative campaign adventure,Abstract tile-placement puzzle bridge,238,169.5064603611827
+25,31,Party / family / social deduction,Railroad Ink / spatial puzzle cluster,208,169.42445264011621
+13,5,Puzzle / nature tableau builders,Area-control crossover / Root-Eclipse cluster,335,168.8908286690712
+10,7,BGG Golden Age canon,,255,167.6824372857809
+25,0,Party / family / social deduction,Terraforming Mars universal-appeal micro-cluster,188,166.52181946113706
+13,36,Puzzle / nature tableau builders,Light set-collection gateway,282,165.5024144127965
+25,30,Party / family / social deduction,,211,164.76396114751697
+8,0,Medium worker-placement euros,Terraforming Mars universal-appeal micro-cluster,195,164.4841164574027
+12,38,Dungeon crawl / cooperative campaign adventure,Racing / sports / route bridge,276,163.88596434891224
+8,33,Medium worker-placement euros,,180,163.65164352953434
+10,22,BGG Golden Age canon,Trade-route / area-influence euros,328,163.59658011049032
+19,3,Recent releases / new-hotness cluster,Thematic sandbox worker-placement bridge,259,163.14531459659338
+9,15,Amerithrash / miniatures / LCG,Deck-manipulation / engine gateway cluster,289,161.97702245414257
+2,36,Current heavy euro engine builders,Light set-collection gateway,261,161.89277239888906
+2,22,Current heavy euro engine builders,Trade-route / area-influence euros,230,161.87349672615528
+9,36,Amerithrash / miniatures / LCG,Light set-collection gateway,301,160.08604660630226
+13,38,Puzzle / nature tableau builders,Racing / sports / route bridge,248,160.02948935329914
+25,41,Party / family / social deduction,Ticket to Ride / route-building series cluster,254,159.3750997558236
+13,33,Puzzle / nature tableau builders,,191,159.311119787395
+13,31,Puzzle / nature tableau builders,Railroad Ink / spatial puzzle cluster,232,158.03207817673683
+8,42,Medium worker-placement euros,,198,157.83449310809374
+12,7,Dungeon crawl / cooperative campaign adventure,,228,157.35764667391777
+2,6,Current heavy euro engine builders,,222,156.15415435284376
+19,11,Recent releases / new-hotness cluster,KeyForge / Catan gateway-franchise cluster,245,155.23944737017155
+19,36,Recent releases / new-hotness cluster,Light set-collection gateway,265,154.9519964158535
+2,11,Current heavy euro engine builders,KeyForge / Catan gateway-franchise cluster,222,154.787404358387
+19,28,Recent releases / new-hotness cluster,Real-time cooperative micro-cluster,270,154.40136267989874
+9,14,Amerithrash / miniatures / LCG,Abstract tile-placement puzzle bridge,245,153.99900752305984
+35,17,Cooperative trick-taking + deduction,Roll-and-write / number dice games,292,153.53120716661215
+13,24,Puzzle / nature tableau builders,Ark Nova universal-appeal micro-cluster,206,153.23714593797922
+8,14,Medium worker-placement euros,Abstract tile-placement puzzle bridge,205,153.06944900006056
+13,0,Puzzle / nature tableau builders,Terraforming Mars universal-appeal micro-cluster,189,151.12116573005915
+10,3,BGG Golden Age canon,Thematic sandbox worker-placement bridge,251,149.95299387723207
+25,40,Party / family / social deduction,Light gateway tile/claim-action cluster,234,149.5645481273532
+8,23,Medium worker-placement euros,Fantasy adventure / deck-building gateway,276,149.38196651637554
+25,3,Party / family / social deduction,Thematic sandbox worker-placement bridge,208,149.1045574322343
+10,40,BGG Golden Age canon,Light gateway tile/claim-action cluster,266,148.29692064225674
+2,26,Current heavy euro engine builders,Pandemic system cluster,208,147.98221538960934
+8,36,Medium worker-placement euros,Light set-collection gateway,237,147.9331270158291
+8,31,Medium worker-placement euros,Railroad Ink / spatial puzzle cluster,188,147.6641959398985
+10,24,BGG Golden Age canon,Ark Nova universal-appeal micro-cluster,259,147.5791552066803
+13,1,Puzzle / nature tableau builders,Thematic adventure / licensed bridge cluster,219,146.574912853539
+8,5,Medium worker-placement euros,Area-control crossover / Root-Eclipse cluster,243,144.0544967725873
+9,41,Amerithrash / miniatures / LCG,Ticket to Ride / route-building series cluster,259,144.021704941988
+2,32,Current heavy euro engine builders,Open-drafting tactical euro cluster,240,143.90242770314217
+13,37,Puzzle / nature tableau builders,Escape-room / Unlock series cluster,225,143.5540948882699
+9,27,Amerithrash / miniatures / LCG,Race for the Galaxy system cluster,280,142.24517863243818
+8,37,Medium worker-placement euros,Escape-room / Unlock series cluster,186,141.99759083986282
+12,31,Dungeon crawl / cooperative campaign adventure,Railroad Ink / spatial puzzle cluster,235,141.6346400603652
+19,29,Recent releases / new-hotness cluster,Small two-player/set-collection card games,262,141.30223844200373
+9,18,Amerithrash / miniatures / LCG,Mass-market gateway / family strategy bridge,279,141.1303782388568
+12,11,Dungeon crawl / cooperative campaign adventure,KeyForge / Catan gateway-franchise cluster,256,141.1167515963316
+13,26,Puzzle / nature tableau builders,Pandemic system cluster,209,140.95072516798973
+8,30,Medium worker-placement euros,,194,140.7910191193223
+8,3,Medium worker-placement euros,Thematic sandbox worker-placement bridge,212,140.33402910083532
+8,7,Medium worker-placement euros,,178,140.31555400043726
+25,18,Party / family / social deduction,Mass-market gateway / family strategy bridge,212,140.00556069612503
+9,16,Amerithrash / miniatures / LCG,Unmatched / skirmish series cluster,287,139.31464962661266
+19,41,Recent releases / new-hotness cluster,Ticket to Ride / route-building series cluster,246,138.08259600400925
+25,29,Party / family / social deduction,Small two-player/set-collection card games,223,137.73235802724957
+10,23,BGG Golden Age canon,Fantasy adventure / deck-building gateway,240,136.9428564980626
+19,21,Recent releases / new-hotness cluster,Viticulture / Dinosaur Island gateway bridge,235,136.17389347404242
+25,15,Party / family / social deduction,Deck-manipulation / engine gateway cluster,216,135.82158931344748
+9,31,Amerithrash / miniatures / LCG,Railroad Ink / spatial puzzle cluster,231,134.24679928272963
+8,39,Medium worker-placement euros,Take-that card/fandom cluster,220,133.06570859998465
+13,3,Puzzle / nature tableau builders,Thematic sandbox worker-placement bridge,201,132.8194267898798
+8,11,Medium worker-placement euros,KeyForge / Catan gateway-franchise cluster,193,132.40420915186405
+9,7,Amerithrash / miniatures / LCG,,201,132.0906541198492
+12,6,Dungeon crawl / cooperative campaign adventure,,237,131.98359817266464
+13,6,Puzzle / nature tableau builders,,186,131.69343186169863
+2,42,Current heavy euro engine builders,,178,131.2130250558257
+8,22,Medium worker-placement euros,Trade-route / area-influence euros,197,130.6914712637663
+2,29,Current heavy euro engine builders,Small two-player/set-collection card games,227,130.54676581919193
+2,41,Current heavy euro engine builders,Ticket to Ride / route-building series cluster,203,129.91242266446352
+9,42,Amerithrash / miniatures / LCG,,233,129.7893392443657
+20,38,Historical wargames + conflict strategy,Racing / sports / route bridge,245,129.5015413761139
+13,7,Puzzle / nature tableau builders,,189,128.8933428376913
+8,26,Medium worker-placement euros,Pandemic system cluster,188,128.88057059794664
+25,6,Party / family / social deduction,,192,128.6128352098167
+2,30,Current heavy euro engine builders,,184,128.56464456766844
+10,6,BGG Golden Age canon,,219,127.87878250330687
+8,24,Medium worker-placement euros,Ark Nova universal-appeal micro-cluster,194,127.66075543314219
+12,17,Dungeon crawl / cooperative campaign adventure,Roll-and-write / number dice games,256,127.51765243709087
+35,37,Cooperative trick-taking + deduction,Escape-room / Unlock series cluster,168,127.18398959189653
+13,16,Puzzle / nature tableau builders,Unmatched / skirmish series cluster,255,127.06079095602036
+8,34,Medium worker-placement euros,Licensed family/fandom games,166,126.89052058756351
+9,24,Amerithrash / miniatures / LCG,Ark Nova universal-appeal micro-cluster,233,126.5304953455925
+25,7,Party / family / social deduction,,178,125.63300381600857
+13,21,Puzzle / nature tableau builders,Viticulture / Dinosaur Island gateway bridge,200,125.5170847773552
+25,24,Party / family / social deduction,Ark Nova universal-appeal micro-cluster,193,125.31972458213568
+25,42,Party / family / social deduction,,194,125.16871245205402
+19,40,Recent releases / new-hotness cluster,Light gateway tile/claim-action cluster,232,124.35267419368029
+8,15,Medium worker-placement euros,Deck-manipulation / engine gateway cluster,214,123.71146617084742
+10,28,BGG Golden Age canon,Real-time cooperative micro-cluster,254,123.11145927757025
+25,1,Party / family / social deduction,Thematic adventure / licensed bridge cluster,204,122.45606505870819
+13,11,Puzzle / nature tableau builders,KeyForge / Catan gateway-franchise cluster,192,121.87013372033834
+12,21,Dungeon crawl / cooperative campaign adventure,Viticulture / Dinosaur Island gateway bridge,217,121.13446120172739
+25,28,Party / family / social deduction,Real-time cooperative micro-cluster,214,120.84418051689863
+35,14,Cooperative trick-taking + deduction,Abstract tile-placement puzzle bridge,127,120.23241871595383
+13,40,Puzzle / nature tableau builders,Light gateway tile/claim-action cluster,203,119.95979191362858
+8,29,Medium worker-placement euros,Small two-player/set-collection card games,211,119.34574571251869
+9,1,Amerithrash / miniatures / LCG,Thematic adventure / licensed bridge cluster,235,118.45977663248777
+25,21,Party / family / social deduction,Viticulture / Dinosaur Island gateway bridge,190,117.88940588384867
+12,36,Dungeon crawl / cooperative campaign adventure,Light set-collection gateway,220,116.92631997168064
+35,38,Cooperative trick-taking + deduction,Racing / sports / route bridge,156,116.35915848612785
+8,32,Medium worker-placement euros,Open-drafting tactical euro cluster,203,115.59283670783043
+13,29,Puzzle / nature tableau builders,Small two-player/set-collection card games,210,114.19100772589445
+2,28,Current heavy euro engine builders,Real-time cooperative micro-cluster,191,112.83437399566174
+19,30,Recent releases / new-hotness cluster,,199,112.76804351061583
+12,39,Dungeon crawl / cooperative campaign adventure,Take-that card/fandom cluster,237,112.14081076532602
+8,27,Medium worker-placement euros,Race for the Galaxy system cluster,185,111.77701998502016
+35,31,Cooperative trick-taking + deduction,Railroad Ink / spatial puzzle cluster,141,111.73083066940308
+13,41,Puzzle / nature tableau builders,Ticket to Ride / route-building series cluster,199,111.70969188958406
+20,0,Historical wargames + conflict strategy,Terraforming Mars universal-appeal micro-cluster,202,111.52733466029167
+35,34,Cooperative trick-taking + deduction,Licensed family/fandom games,156,111.44058619439602
+12,41,Dungeon crawl / cooperative campaign adventure,Ticket to Ride / route-building series cluster,212,110.54331012070179
+20,7,Historical wargames + conflict strategy,,178,110.50798792392015
+8,41,Medium worker-placement euros,Ticket to Ride / route-building series cluster,190,109.19996017962694
+10,32,BGG Golden Age canon,Open-drafting tactical euro cluster,212,108.9342327490449
+8,21,Medium worker-placement euros,Viticulture / Dinosaur Island gateway bridge,158,108.52225760370493
+10,1,BGG Golden Age canon,Thematic adventure / licensed bridge cluster,184,108.30796145647764
+13,30,Puzzle / nature tableau builders,,179,107.68170543760061
+35,33,Cooperative trick-taking + deduction,,115,107.50573252141476
+10,21,BGG Golden Age canon,Viticulture / Dinosaur Island gateway bridge,154,107.23165705800056
+9,29,Amerithrash / miniatures / LCG,Small two-player/set-collection card games,227,106.54661443829536
+19,18,Recent releases / new-hotness cluster,Mass-market gateway / family strategy bridge,191,105.11037776619196
+20,14,Historical wargames + conflict strategy,Abstract tile-placement puzzle bridge,203,104.78913177549839
+9,21,Amerithrash / miniatures / LCG,Viticulture / Dinosaur Island gateway bridge,174,103.6624802723527
+19,39,Recent releases / new-hotness cluster,Take-that card/fandom cluster,190,102.94403808563948
+12,30,Dungeon crawl / cooperative campaign adventure,,186,102.8558879494667
+13,18,Puzzle / nature tableau builders,Mass-market gateway / family strategy bridge,182,101.92577055841684
+13,28,Puzzle / nature tableau builders,Real-time cooperative micro-cluster,188,101.85003613680601
+8,1,Medium worker-placement euros,Thematic adventure / licensed bridge cluster,165,101.7538081407547
+25,16,Party / family / social deduction,Unmatched / skirmish series cluster,189,101.28358349204063
+20,33,Historical wargames + conflict strategy,,180,101.13569734990597
+25,32,Party / family / social deduction,Open-drafting tactical euro cluster,184,100.80391769111156
+35,26,Cooperative trick-taking + deduction,Pandemic system cluster,141,100.66631910204887
+20,11,Historical wargames + conflict strategy,KeyForge / Catan gateway-franchise cluster,205,100.46737580746412
+12,18,Dungeon crawl / cooperative campaign adventure,Mass-market gateway / family strategy bridge,212,99.22420624643564
+20,4,Historical wargames + conflict strategy,Legacy + narrative mystery,195,99.2116434648633
+35,36,Cooperative trick-taking + deduction,Light set-collection gateway,155,99.00947844982147
+20,26,Historical wargames + conflict strategy,Pandemic system cluster,206,98.48186681419611
+9,6,Amerithrash / miniatures / LCG,,177,98.0193702802062
+35,23,Cooperative trick-taking + deduction,Fantasy adventure / deck-building gateway,185,96.31793829798698
+20,37,Historical wargames + conflict strategy,Escape-room / Unlock series cluster,180,95.61058884114027
+12,28,Dungeon crawl / cooperative campaign adventure,Real-time cooperative micro-cluster,204,94.47460073977709
+35,7,Cooperative trick-taking + deduction,,121,93.98464204370975
+9,40,Amerithrash / miniatures / LCG,Light gateway tile/claim-action cluster,168,92.92488073557615
+8,40,Medium worker-placement euros,Light gateway tile/claim-action cluster,159,92.43913455307484
+20,27,Historical wargames + conflict strategy,Race for the Galaxy system cluster,210,92.3662732616067
+19,22,Recent releases / new-hotness cluster,Trade-route / area-influence euros,172,91.8304683715105
+12,29,Dungeon crawl / cooperative campaign adventure,Small two-player/set-collection card games,193,91.71493689715862
+2,39,Current heavy euro engine builders,Take-that card/fandom cluster,144,91.4714040607214
+8,18,Medium worker-placement euros,Mass-market gateway / family strategy bridge,154,90.76048912107944
+9,32,Amerithrash / miniatures / LCG,Open-drafting tactical euro cluster,176,90.4007635191083
+2,40,Current heavy euro engine builders,Light gateway tile/claim-action cluster,142,89.84832893311977
+20,3,Historical wargames + conflict strategy,Thematic sandbox worker-placement bridge,187,89.73185002803802
+35,0,Cooperative trick-taking + deduction,Terraforming Mars universal-appeal micro-cluster,110,89.5906285494566
+19,42,Recent releases / new-hotness cluster,,160,89.28547303378582
+13,39,Puzzle / nature tableau builders,Take-that card/fandom cluster,172,88.97120772302151
+25,27,Party / family / social deduction,Race for the Galaxy system cluster,159,88.92972508072853
+9,22,Amerithrash / miniatures / LCG,Trade-route / area-influence euros,166,88.6919773966074
+25,22,Party / family / social deduction,Trade-route / area-influence euros,157,88.66380298882723
+13,32,Puzzle / nature tableau builders,Open-drafting tactical euro cluster,176,88.61771848797798
+2,18,Current heavy euro engine builders,Mass-market gateway / family strategy bridge,131,88.49262484163046
+35,29,Cooperative trick-taking + deduction,Small two-player/set-collection card games,136,87.11484260857105
+2,27,Current heavy euro engine builders,Race for the Galaxy system cluster,134,86.74725595116615
+20,31,Historical wargames + conflict strategy,Railroad Ink / spatial puzzle cluster,162,86.43663447350264
+35,6,Cooperative trick-taking + deduction,,120,85.94218249619007
+8,6,Medium worker-placement euros,,121,85.3391509950161
+35,28,Cooperative trick-taking + deduction,Real-time cooperative micro-cluster,126,84.2245215177536
+19,15,Recent releases / new-hotness cluster,Deck-manipulation / engine gateway cluster,154,83.87504116073251
+19,32,Recent releases / new-hotness cluster,Open-drafting tactical euro cluster,163,83.65826162695885
+35,11,Cooperative trick-taking + deduction,KeyForge / Catan gateway-franchise cluster,120,83.6408406123519
+20,39,Historical wargames + conflict strategy,Take-that card/fandom cluster,204,83.41349002718925
+35,16,Cooperative trick-taking + deduction,Unmatched / skirmish series cluster,183,83.13434936851263
+12,15,Dungeon crawl / cooperative campaign adventure,Deck-manipulation / engine gateway cluster,149,82.50601564347744
+20,34,Historical wargames + conflict strategy,Licensed family/fandom games,174,81.72119337692857
+35,39,Cooperative trick-taking + deduction,Take-that card/fandom cluster,129,81.60707877576351
+35,1,Cooperative trick-taking + deduction,Thematic adventure / licensed bridge cluster,131,80.25821849703789
+35,24,Cooperative trick-taking + deduction,Ark Nova universal-appeal micro-cluster,110,79.93665134906769
+13,42,Puzzle / nature tableau builders,,137,79.50177142769098
+12,42,Dungeon crawl / cooperative campaign adventure,,133,78.90272585302591
+12,27,Dungeon crawl / cooperative campaign adventure,Race for the Galaxy system cluster,158,78.87505725771189
+10,16,BGG Golden Age canon,Unmatched / skirmish series cluster,117,78.22432846575975
+13,22,Puzzle / nature tableau builders,Trade-route / area-influence euros,145,78.22135800868273
+2,15,Current heavy euro engine builders,Deck-manipulation / engine gateway cluster,112,77.836819909513
+35,3,Cooperative trick-taking + deduction,Thematic sandbox worker-placement bridge,109,76.55560053884983
+35,40,Cooperative trick-taking + deduction,Light gateway tile/claim-action cluster,122,76.16815462708473
+20,42,Historical wargames + conflict strategy,,163,74.2944721058011
+20,13,Historical wargames + conflict strategy,Puzzle / nature tableau builders,137,73.55451747775078
+12,40,Dungeon crawl / cooperative campaign adventure,Light gateway tile/claim-action cluster,137,73.28868589550257
+13,15,Puzzle / nature tableau builders,Deck-manipulation / engine gateway cluster,129,73.2161443978548
+23,4,Fantasy adventure / deck-building gateway,Legacy + narrative mystery,141,73.14234804734588
+35,41,Cooperative trick-taking + deduction,Ticket to Ride / route-building series cluster,115,71.96421483159065
+20,30,Historical wargames + conflict strategy,,166,71.90226788818836
+20,15,Historical wargames + conflict strategy,Deck-manipulation / engine gateway cluster,171,71.33713785558939
+20,22,Historical wargames + conflict strategy,Trade-route / area-influence euros,153,71.19550412893295
+20,24,Historical wargames + conflict strategy,Ark Nova universal-appeal micro-cluster,133,69.11833716928959
+20,18,Historical wargames + conflict strategy,Mass-market gateway / family strategy bridge,173,68.91002120822668
+20,16,Historical wargames + conflict strategy,Unmatched / skirmish series cluster,165,68.69812828302383
+20,41,Historical wargames + conflict strategy,Ticket to Ride / route-building series cluster,163,66.7396058216691
+19,27,Recent releases / new-hotness cluster,Race for the Galaxy system cluster,126,66.41324668377638
+23,5,Fantasy adventure / deck-building gateway,Area-control crossover / Root-Eclipse cluster,127,66.07033824920654
+9,17,Amerithrash / miniatures / LCG,Roll-and-write / number dice games,126,65.27151320874691
+35,22,Cooperative trick-taking + deduction,Trade-route / area-influence euros,109,64.88099497556686
+17,4,Roll-and-write / number dice games,Legacy + narrative mystery,121,64.73068722337484
+35,30,Cooperative trick-taking + deduction,,91,64.26072719693184
+12,22,Dungeon crawl / cooperative campaign adventure,Trade-route / area-influence euros,110,62.551393158733845
+35,21,Cooperative trick-taking + deduction,Viticulture / Dinosaur Island gateway bridge,92,62.334501065313816
+20,29,Historical wargames + conflict strategy,Small two-player/set-collection card games,139,62.21228206157684
+8,16,Medium worker-placement euros,Unmatched / skirmish series cluster,81,61.84152662754059
+5,4,Area-control crossover / Root-Eclipse cluster,Legacy + narrative mystery,94,59.06114676594734
+35,42,Cooperative trick-taking + deduction,,94,58.58530882745981
+35,18,Cooperative trick-taking + deduction,Mass-market gateway / family strategy bridge,90,58.344822123646736
+20,36,Historical wargames + conflict strategy,Light set-collection gateway,121,57.95977706462145
+35,27,Cooperative trick-taking + deduction,Race for the Galaxy system cluster,100,55.019686192274094
+4,37,Legacy + narrative mystery,Escape-room / Unlock series cluster,105,54.7215279340744
+35,15,Cooperative trick-taking + deduction,Deck-manipulation / engine gateway cluster,94,53.96918835490942
+23,34,Fantasy adventure / deck-building gateway,Licensed family/fandom games,72,53.837186865508556
+9,28,Amerithrash / miniatures / LCG,Real-time cooperative micro-cluster,101,52.32507474720478
+8,28,Medium worker-placement euros,Real-time cooperative micro-cluster,90,51.123783960938454
+4,26,Legacy + narrative mystery,Pandemic system cluster,64,50.38258799165487
+5,7,Area-control crossover / Root-Eclipse cluster,,53,48.54350237548351
+35,32,Cooperative trick-taking + deduction,Open-drafting tactical euro cluster,94,48.09927190095186
+13,27,Puzzle / nature tableau builders,Race for the Galaxy system cluster,86,47.9558719843626
+5,16,Area-control crossover / Root-Eclipse cluster,Unmatched / skirmish series cluster,74,47.535598911345005
+23,33,Fantasy adventure / deck-building gateway,,54,46.78612321615219
+5,34,Area-control crossover / Root-Eclipse cluster,Licensed family/fandom games,59,46.13837742805481
+5,33,Area-control crossover / Root-Eclipse cluster,,49,46.03485409915447
+17,38,Roll-and-write / number dice games,Racing / sports / route bridge,59,45.809647768735886
+17,14,Roll-and-write / number dice games,Abstract tile-placement puzzle bridge,50,45.09052270650864
+23,36,Fantasy adventure / deck-building gateway,Light set-collection gateway,75,44.997721664607525
+4,34,Legacy + narrative mystery,Licensed family/fandom games,63,44.966806281358004
+23,0,Fantasy adventure / deck-building gateway,Terraforming Mars universal-appeal micro-cluster,51,44.55459779500961
+20,21,Historical wargames + conflict strategy,Viticulture / Dinosaur Island gateway bridge,81,44.171026684343815
+17,33,Roll-and-write / number dice games,,44,44.06306731700897
+5,0,Area-control crossover / Root-Eclipse cluster,Terraforming Mars universal-appeal micro-cluster,47,43.92726469039917
+23,3,Fantasy adventure / deck-building gateway,Thematic sandbox worker-placement bridge,57,43.66775444149971
+12,32,Dungeon crawl / cooperative campaign adventure,Open-drafting tactical euro cluster,75,43.534427650272846
+5,3,Area-control crossover / Root-Eclipse cluster,Thematic sandbox worker-placement bridge,50,43.18194153904915
+23,26,Fantasy adventure / deck-building gateway,Pandemic system cluster,63,43.16124787926674
+23,38,Fantasy adventure / deck-building gateway,Racing / sports / route bridge,64,42.97363989055157
+23,17,Fantasy adventure / deck-building gateway,Roll-and-write / number dice games,84,42.84047509729862
+17,31,Roll-and-write / number dice games,Railroad Ink / spatial puzzle cluster,55,42.72508881986141
+23,14,Fantasy adventure / deck-building gateway,Abstract tile-placement puzzle bridge,52,42.65866454690695
+4,33,Legacy + narrative mystery,,43,42.22089921683073
+23,37,Fantasy adventure / deck-building gateway,Escape-room / Unlock series cluster,69,42.14580202102661
+4,38,Legacy + narrative mystery,Racing / sports / route bridge,58,42.110512621700764
+5,14,Area-control crossover / Root-Eclipse cluster,Abstract tile-placement puzzle bridge,48,41.621926099061966
+5,38,Area-control crossover / Root-Eclipse cluster,Racing / sports / route bridge,62,41.02734983712435
+17,37,Roll-and-write / number dice games,Escape-room / Unlock series cluster,54,39.69614087790251
+4,0,Legacy + narrative mystery,Terraforming Mars universal-appeal micro-cluster,40,39.6169513836503
+4,14,Legacy + narrative mystery,Abstract tile-placement puzzle bridge,46,39.22910087555647
+23,1,Fantasy adventure / deck-building gateway,Thematic adventure / licensed bridge cluster,60,39.198726534843445
+17,34,Roll-and-write / number dice games,Licensed family/fandom games,44,38.96342046558857
+5,37,Area-control crossover / Root-Eclipse cluster,Escape-room / Unlock series cluster,50,38.38879208266735
+4,36,Legacy + narrative mystery,Light set-collection gateway,63,37.91131692379713
+23,24,Fantasy adventure / deck-building gateway,Ark Nova universal-appeal micro-cluster,59,37.54191057384014
+5,1,Area-control crossover / Root-Eclipse cluster,Thematic adventure / licensed bridge cluster,57,37.23194555938244
+4,3,Legacy + narrative mystery,Thematic sandbox worker-placement bridge,49,37.18231449276209
+17,36,Roll-and-write / number dice games,Light set-collection gateway,64,36.98752602934837
+17,11,Roll-and-write / number dice games,KeyForge / Catan gateway-franchise cluster,49,36.5229739099741
+17,0,Roll-and-write / number dice games,Terraforming Mars universal-appeal micro-cluster,44,36.48908621072769
+4,31,Legacy + narrative mystery,Railroad Ink / spatial puzzle cluster,46,36.48300126194954
+17,26,Roll-and-write / number dice games,Pandemic system cluster,54,36.159109361469746
+23,16,Fantasy adventure / deck-building gateway,Unmatched / skirmish series cluster,63,36.02731375396252
+23,11,Fantasy adventure / deck-building gateway,KeyForge / Catan gateway-franchise cluster,52,35.928686439991
+5,24,Area-control crossover / Root-Eclipse cluster,Ark Nova universal-appeal micro-cluster,50,35.69782490283251
+4,11,Legacy + narrative mystery,KeyForge / Catan gateway-franchise cluster,47,35.43822196125984
+23,7,Fantasy adventure / deck-building gateway,,50,35.21925489604473
+4,7,Legacy + narrative mystery,,42,34.53215157985687
+4,39,Legacy + narrative mystery,Take-that card/fandom cluster,62,34.15948662161827
+20,1,Historical wargames + conflict strategy,Thematic adventure / licensed bridge cluster,60,34.04656996577978
+17,24,Roll-and-write / number dice games,Ark Nova universal-appeal micro-cluster,47,33.714597299695015
+20,6,Historical wargames + conflict strategy,,55,33.63070319592953
+23,31,Fantasy adventure / deck-building gateway,Railroad Ink / spatial puzzle cluster,51,33.615146175026894
+23,30,Fantasy adventure / deck-building gateway,,49,33.54102696478367
+17,6,Roll-and-write / number dice games,,43,33.352682039141655
+4,24,Legacy + narrative mystery,Ark Nova universal-appeal micro-cluster,49,32.82303701341152
+5,26,Area-control crossover / Root-Eclipse cluster,Pandemic system cluster,48,32.653644025325775
+23,21,Fantasy adventure / deck-building gateway,Viticulture / Dinosaur Island gateway bridge,53,32.39211765676737
+5,31,Area-control crossover / Root-Eclipse cluster,Railroad Ink / spatial puzzle cluster,47,32.18152596056461
+4,1,Legacy + narrative mystery,Thematic adventure / licensed bridge cluster,51,32.11799491941929
+23,39,Fantasy adventure / deck-building gateway,Take-that card/fandom cluster,69,32.034955225884914
+5,36,Area-control crossover / Root-Eclipse cluster,Light set-collection gateway,55,31.96273621916771
+5,11,Area-control crossover / Root-Eclipse cluster,KeyForge / Catan gateway-franchise cluster,50,31.873294338583946
+4,16,Legacy + narrative mystery,Unmatched / skirmish series cluster,55,31.793401956558228
+4,30,Legacy + narrative mystery,,45,31.628710754215717
+17,1,Roll-and-write / number dice games,Thematic adventure / licensed bridge cluster,48,31.500978782773018
+23,40,Fantasy adventure / deck-building gateway,Light gateway tile/claim-action cluster,55,31.367729857563972
+17,29,Roll-and-write / number dice games,Small two-player/set-collection card games,54,31.326523289084435
+20,23,Historical wargames + conflict strategy,Fantasy adventure / deck-building gateway,64,31.290298022329807
+23,41,Fantasy adventure / deck-building gateway,Ticket to Ride / route-building series cluster,55,31.207789674401283
+23,6,Fantasy adventure / deck-building gateway,,47,31.189535930752754
+17,40,Roll-and-write / number dice games,Light gateway tile/claim-action cluster,49,31.163661062717438
+5,6,Area-control crossover / Root-Eclipse cluster,,47,31.00608418881893
+4,41,Legacy + narrative mystery,Ticket to Ride / route-building series cluster,49,30.12840447574854
+4,6,Legacy + narrative mystery,,42,29.942378371953964
+17,7,Roll-and-write / number dice games,,44,29.50995121896267
+17,41,Roll-and-write / number dice games,Ticket to Ride / route-building series cluster,51,29.30461422353983
+17,28,Roll-and-write / number dice games,Real-time cooperative micro-cluster,50,29.29021343588829
+17,39,Roll-and-write / number dice games,Take-that card/fandom cluster,45,29.236762136220932
+4,21,Legacy + narrative mystery,Viticulture / Dinosaur Island gateway bridge,48,29.06723990291357
+4,40,Legacy + narrative mystery,Light gateway tile/claim-action cluster,48,28.727692261338234
+23,29,Fantasy adventure / deck-building gateway,Small two-player/set-collection card games,57,28.319263711571693
+5,21,Area-control crossover / Root-Eclipse cluster,Viticulture / Dinosaur Island gateway bridge,46,28.269654631614685
+17,15,Roll-and-write / number dice games,Deck-manipulation / engine gateway cluster,47,28.065899416804314
+17,30,Roll-and-write / number dice games,,42,27.77617059648037
+4,15,Legacy + narrative mystery,Deck-manipulation / engine gateway cluster,48,27.725324545055628
+17,42,Roll-and-write / number dice games,,44,27.642719209194183
+5,41,Area-control crossover / Root-Eclipse cluster,Ticket to Ride / route-building series cluster,46,27.369461059570312
+38,36,Racing / sports / route bridge,Light set-collection gateway,32,27.056500509381294
+17,21,Roll-and-write / number dice games,Viticulture / Dinosaur Island gateway bridge,43,26.909689024090767
+4,18,Legacy + narrative mystery,Mass-market gateway / family strategy bridge,45,26.660740740597248
+38,26,Racing / sports / route bridge,Pandemic system cluster,29,26.640267103910446
+5,17,Area-control crossover / Root-Eclipse cluster,Roll-and-write / number dice games,47,26.5201113820076
+23,18,Fantasy adventure / deck-building gateway,Mass-market gateway / family strategy bridge,47,26.489299088716507
+5,30,Area-control crossover / Root-Eclipse cluster,,39,26.357812866568565
+17,3,Roll-and-write / number dice games,Thematic sandbox worker-placement bridge,41,26.263896226882935
+4,42,Legacy + narrative mystery,,39,25.66602210700512
+5,29,Area-control crossover / Root-Eclipse cluster,Small two-player/set-collection card games,53,25.49686409533024
+23,15,Fantasy adventure / deck-building gateway,Deck-manipulation / engine gateway cluster,46,25.471531346440315
+5,39,Area-control crossover / Root-Eclipse cluster,Take-that card/fandom cluster,48,25.173288077116013
+36,34,Light set-collection gateway,Licensed family/fandom games,28,25.122233234345913
+5,22,Area-control crossover / Root-Eclipse cluster,Trade-route / area-influence euros,41,25.056217521429062
+36,14,Light set-collection gateway,Abstract tile-placement puzzle bridge,23,25.03366094827652
+4,29,Legacy + narrative mystery,Small two-player/set-collection card games,48,25.03231703490019
+20,17,Historical wargames + conflict strategy,Roll-and-write / number dice games,52,24.805296659469604
+23,32,Fantasy adventure / deck-building gateway,Open-drafting tactical euro cluster,47,24.792050540447235
+38,34,Racing / sports / route bridge,Licensed family/fandom games,29,24.694724831730127
+38,37,Racing / sports / route bridge,Escape-room / Unlock series cluster,33,24.622730806469917
+23,42,Fantasy adventure / deck-building gateway,,43,24.252678982913494
+4,28,Legacy + narrative mystery,Real-time cooperative micro-cluster,46,24.198849119246006
+20,32,Historical wargames + conflict strategy,Open-drafting tactical euro cluster,43,24.08995023369789
+37,26,Escape-room / Unlock series cluster,Pandemic system cluster,27,23.828101336956024
+16,34,Unmatched / skirmish series cluster,Licensed family/fandom games,32,23.51390377432108
+26,34,Pandemic system cluster,Licensed family/fandom games,28,23.506398156285286
+20,40,Historical wargames + conflict strategy,Light gateway tile/claim-action cluster,42,23.484231255948544
+38,14,Racing / sports / route bridge,Abstract tile-placement puzzle bridge,25,23.233160346746445
+36,33,Light set-collection gateway,,19,23.17948266863823
+38,33,Racing / sports / route bridge,,20,22.872296556830406
+38,31,Racing / sports / route bridge,Railroad Ink / spatial puzzle cluster,21,22.71103797852993
+34,14,Licensed family/fandom games,Abstract tile-placement puzzle bridge,21,22.654128566384315
+36,26,Light set-collection gateway,Pandemic system cluster,26,22.634787559509277
+38,11,Racing / sports / route bridge,KeyForge / Catan gateway-franchise cluster,23,22.58092924952507
+36,37,Light set-collection gateway,Escape-room / Unlock series cluster,29,22.465579085052013
+38,41,Racing / sports / route bridge,Ticket to Ride / route-building series cluster,28,22.231058470904827
+17,22,Roll-and-write / number dice games,Trade-route / area-influence euros,40,21.947762802243233
+34,33,Licensed family/fandom games,,17,21.885645017027855
+20,28,Historical wargames + conflict strategy,Real-time cooperative micro-cluster,45,21.842966191470623
+38,39,Racing / sports / route bridge,Take-that card/fandom cluster,29,21.726532712578773
+34,3,Licensed family/fandom games,Thematic sandbox worker-placement bridge,21,21.684009425342083
+37,34,Escape-room / Unlock series cluster,Licensed family/fandom games,31,21.58642104268074
+23,28,Fantasy adventure / deck-building gateway,Real-time cooperative micro-cluster,43,21.45909357070923
+17,16,Roll-and-write / number dice games,Unmatched / skirmish series cluster,42,21.381616331636906
+5,27,Area-control crossover / Root-Eclipse cluster,Race for the Galaxy system cluster,37,21.264643996953964
+5,28,Area-control crossover / Root-Eclipse cluster,Real-time cooperative micro-cluster,41,21.25054382532835
+17,18,Roll-and-write / number dice games,Mass-market gateway / family strategy bridge,36,21.223068058490753
+39,26,Take-that card/fandom cluster,Pandemic system cluster,27,20.677372306585312
+37,39,Escape-room / Unlock series cluster,Take-that card/fandom cluster,29,20.579932689666748
+26,33,Pandemic system cluster,,17,20.55596473813057
+34,0,Licensed family/fandom games,Terraforming Mars universal-appeal micro-cluster,18,20.463444352149963
+4,27,Legacy + narrative mystery,Race for the Galaxy system cluster,35,20.349479615688324
+36,31,Light set-collection gateway,Railroad Ink / spatial puzzle cluster,21,20.257171511650085
+5,32,Area-control crossover / Root-Eclipse cluster,Open-drafting tactical euro cluster,36,20.25418257713318
+38,0,Racing / sports / route bridge,Terraforming Mars universal-appeal micro-cluster,22,20.219136714935303
+36,0,Light set-collection gateway,Terraforming Mars universal-appeal micro-cluster,20,20.10883328318596
+36,39,Light set-collection gateway,Take-that card/fandom cluster,28,20.09060001373291
+36,11,Light set-collection gateway,KeyForge / Catan gateway-franchise cluster,23,20.078916370868683
+5,40,Area-control crossover / Root-Eclipse cluster,Light gateway tile/claim-action cluster,33,20.003433644771576
+26,11,Pandemic system cluster,KeyForge / Catan gateway-franchise cluster,19,19.926183804869652
+34,24,Licensed family/fandom games,Ark Nova universal-appeal micro-cluster,20,19.91795863211155
+17,32,Roll-and-write / number dice games,Open-drafting tactical euro cluster,39,19.81196293234825
+37,14,Escape-room / Unlock series cluster,Abstract tile-placement puzzle bridge,23,19.748181372880936
+16,3,Unmatched / skirmish series cluster,Thematic sandbox worker-placement bridge,28,19.725854128599167
+14,31,Abstract tile-placement puzzle bridge,Railroad Ink / spatial puzzle cluster,15,19.66057375073433
+26,14,Pandemic system cluster,Abstract tile-placement puzzle bridge,21,19.65610434114933
+37,33,Escape-room / Unlock series cluster,,19,19.568629190325737
+16,33,Unmatched / skirmish series cluster,,24,19.392546519637108
+3,0,Thematic sandbox worker-placement bridge,Terraforming Mars universal-appeal micro-cluster,14,19.253443256020546
+34,1,Licensed family/fandom games,Thematic adventure / licensed bridge cluster,23,19.207095980644226
+23,22,Fantasy adventure / deck-building gateway,Trade-route / area-influence euros,33,19.029177367687225
+4,32,Legacy + narrative mystery,Open-drafting tactical euro cluster,33,18.96378330886364
+36,3,Light set-collection gateway,Thematic sandbox worker-placement bridge,23,18.957810536026955
+34,31,Licensed family/fandom games,Railroad Ink / spatial puzzle cluster,19,18.92703016102314
+34,7,Licensed family/fandom games,,16,18.856147080659866
+36,30,Light set-collection gateway,,19,18.747326716780663
+38,3,Racing / sports / route bridge,Thematic sandbox worker-placement bridge,24,18.624249041080475
+5,18,Area-control crossover / Root-Eclipse cluster,Mass-market gateway / family strategy bridge,34,18.58507950603962
+31,33,Railroad Ink / spatial puzzle cluster,,11,18.5522520840168
+14,33,Abstract tile-placement puzzle bridge,,13,18.529679283499718
+16,0,Unmatched / skirmish series cluster,Terraforming Mars universal-appeal micro-cluster,24,18.5185966193676
+0,7,Terraforming Mars universal-appeal micro-cluster,,9,18.51117153465748
+38,40,Racing / sports / route bridge,Light gateway tile/claim-action cluster,23,18.482818618416786
+36,40,Light set-collection gateway,Light gateway tile/claim-action cluster,23,18.44043106585741
+5,42,Area-control crossover / Root-Eclipse cluster,,28,18.42632682621479
+36,29,Light set-collection gateway,Small two-player/set-collection card games,25,18.40555552393198
+16,1,Unmatched / skirmish series cluster,Thematic adventure / licensed bridge cluster,29,18.29395668208599
+26,31,Pandemic system cluster,Railroad Ink / spatial puzzle cluster,19,18.2752937823534
+38,30,Racing / sports / route bridge,,21,18.26851475983858
+26,41,Pandemic system cluster,Ticket to Ride / route-building series cluster,21,18.236629709601402
+0,33,Terraforming Mars universal-appeal micro-cluster,,10,18.200850620865822
+36,41,Light set-collection gateway,Ticket to Ride / route-building series cluster,23,18.168805941939354
+38,7,Racing / sports / route bridge,,17,18.13364766538143
+26,3,Pandemic system cluster,Thematic sandbox worker-placement bridge,21,17.98852252960205
+4,22,Legacy + narrative mystery,Trade-route / area-influence euros,27,17.970114167779684
+3,33,Thematic sandbox worker-placement bridge,,13,17.947788760066032
+16,14,Unmatched / skirmish series cluster,Abstract tile-placement puzzle bridge,25,17.926531866192818
+16,7,Unmatched / skirmish series cluster,,22,17.8845334649086
+37,31,Escape-room / Unlock series cluster,Railroad Ink / spatial puzzle cluster,21,17.817614510655403
+26,0,Pandemic system cluster,Terraforming Mars universal-appeal micro-cluster,18,17.793895840644836
+3,7,Thematic sandbox worker-placement bridge,,12,17.74744851887226
+33,7,,,8,17.700332522392273
+16,38,Unmatched / skirmish series cluster,Racing / sports / route bridge,31,17.571848809719086
+37,3,Escape-room / Unlock series cluster,Thematic sandbox worker-placement bridge,23,17.505874291062355
+39,34,Take-that card/fandom cluster,Licensed family/fandom games,29,17.48356134444475
+16,24,Unmatched / skirmish series cluster,Ark Nova universal-appeal micro-cluster,26,17.388467982411385
+17,27,Roll-and-write / number dice games,Race for the Galaxy system cluster,34,17.301136165857315
+14,7,Abstract tile-placement puzzle bridge,,12,17.283177107572556
+16,26,Unmatched / skirmish series cluster,Pandemic system cluster,30,17.232233107089996
+38,29,Racing / sports / route bridge,Small two-player/set-collection card games,26,17.208726674318314
+39,33,Take-that card/fandom cluster,,19,17.168622195720673
+36,7,Light set-collection gateway,,17,17.16341581195593
+23,27,Fantasy adventure / deck-building gateway,Race for the Galaxy system cluster,31,17.146277964115143
+34,21,Licensed family/fandom games,Viticulture / Dinosaur Island gateway bridge,18,17.083784759044647
+34,11,Licensed family/fandom games,KeyForge / Catan gateway-franchise cluster,17,16.970718100667
+26,30,Pandemic system cluster,,17,16.949803858995438
+37,11,Escape-room / Unlock series cluster,KeyForge / Catan gateway-franchise cluster,21,16.913518711924553
+34,41,Licensed family/fandom games,Ticket to Ride / route-building series cluster,20,16.899313300848007
+38,42,Racing / sports / route bridge,,19,16.772429585456848
+16,37,Unmatched / skirmish series cluster,Escape-room / Unlock series cluster,30,16.743606001138687
+37,0,Escape-room / Unlock series cluster,Terraforming Mars universal-appeal micro-cluster,20,16.730742141604424
+38,15,Racing / sports / route bridge,Deck-manipulation / engine gateway cluster,21,16.695917554199696
+38,24,Racing / sports / route bridge,Ark Nova universal-appeal micro-cluster,22,16.547458857297897
+36,15,Light set-collection gateway,Deck-manipulation / engine gateway cluster,22,16.395635075867176
+1,24,Thematic adventure / licensed bridge cluster,Ark Nova universal-appeal micro-cluster,17,16.310640931129456
+24,0,Ark Nova universal-appeal micro-cluster,Terraforming Mars universal-appeal micro-cluster,13,16.204756811261177
+16,36,Unmatched / skirmish series cluster,Light set-collection gateway,31,16.176257222890854
+37,41,Escape-room / Unlock series cluster,Ticket to Ride / route-building series cluster,23,16.12492224574089
+39,14,Take-that card/fandom cluster,Abstract tile-placement puzzle bridge,23,16.118617564439774
+38,1,Racing / sports / route bridge,Thematic adventure / licensed bridge cluster,22,16.008228972554207
+36,1,Light set-collection gateway,Thematic adventure / licensed bridge cluster,24,15.98574148118496
+41,33,Ticket to Ride / route-building series cluster,,13,15.937103748321533
+24,7,Ark Nova universal-appeal micro-cluster,,11,15.934505060315132
+3,14,Thematic sandbox worker-placement bridge,Abstract tile-placement puzzle bridge,15,15.925854086875916
+14,0,Abstract tile-placement puzzle bridge,Terraforming Mars universal-appeal micro-cluster,14,15.887670859694481
+36,18,Light set-collection gateway,Mass-market gateway / family strategy bridge,19,15.865455657243729
+36,32,Light set-collection gateway,Open-drafting tactical euro cluster,25,15.848735749721527
+37,40,Escape-room / Unlock series cluster,Light gateway tile/claim-action cluster,22,15.823874950408936
+26,15,Pandemic system cluster,Deck-manipulation / engine gateway cluster,19,15.682773843407631
+39,30,Take-that card/fandom cluster,,19,15.678651690483093
+39,31,Take-that card/fandom cluster,Railroad Ink / spatial puzzle cluster,21,15.629621252417564
+36,24,Light set-collection gateway,Ark Nova universal-appeal micro-cluster,22,15.567181468009949
+1,33,Thematic adventure / licensed bridge cluster,,14,15.565093338489532
+38,21,Racing / sports / route bridge,Viticulture / Dinosaur Island gateway bridge,20,15.49935656785965
+1,3,Thematic adventure / licensed bridge cluster,Thematic sandbox worker-placement bridge,18,15.451913505792618
+39,11,Take-that card/fandom cluster,KeyForge / Catan gateway-franchise cluster,20,15.444934785366058
+39,0,Take-that card/fandom cluster,Terraforming Mars universal-appeal micro-cluster,20,15.33650253713131
+26,40,Pandemic system cluster,Light gateway tile/claim-action cluster,20,15.336459502577782
+34,6,Licensed family/fandom games,,16,15.298795036971569
+29,31,Small two-player/set-collection card games,Railroad Ink / spatial puzzle cluster,18,15.295320987701416
+26,18,Pandemic system cluster,Mass-market gateway / family strategy bridge,16,15.286511212587357
+11,33,KeyForge / Catan gateway-franchise cluster,,11,15.273832455277443
+36,21,Light set-collection gateway,Viticulture / Dinosaur Island gateway bridge,20,15.263822123408318
+38,18,Racing / sports / route bridge,Mass-market gateway / family strategy bridge,18,15.230380728840828
+3,24,Thematic sandbox worker-placement bridge,Ark Nova universal-appeal micro-cluster,16,15.159390196204185
+37,30,Escape-room / Unlock series cluster,,19,15.127659499645233
+1,0,Thematic adventure / licensed bridge cluster,Terraforming Mars universal-appeal micro-cluster,15,15.112974122166634
+5,15,Area-control crossover / Root-Eclipse cluster,Deck-manipulation / engine gateway cluster,24,15.058594107627869
+14,40,Abstract tile-placement puzzle bridge,Light gateway tile/claim-action cluster,16,15.051262557506561
+26,7,Pandemic system cluster,,15,15.032844401896
+34,40,Licensed family/fandom games,Light gateway tile/claim-action cluster,19,15.01041866838932
+39,3,Take-that card/fandom cluster,Thematic sandbox worker-placement bridge,23,14.955154836177826
+26,29,Pandemic system cluster,Small two-player/set-collection card games,23,14.933737710118294
+29,33,Small two-player/set-collection card games,,16,14.878230184316635
+26,1,Pandemic system cluster,Thematic adventure / licensed bridge cluster,22,14.84144240617752
+36,42,Light set-collection gateway,,18,14.818973921239376
+31,7,Railroad Ink / spatial puzzle cluster,,10,14.818811491131783
+38,32,Racing / sports / route bridge,Open-drafting tactical euro cluster,22,14.81459727883339
+36,6,Light set-collection gateway,,19,14.8077457472682
+3,21,Thematic sandbox worker-placement bridge,Viticulture / Dinosaur Island gateway bridge,14,14.799084588885307
+37,7,Escape-room / Unlock series cluster,,17,14.776934340596199
+14,11,Abstract tile-placement puzzle bridge,KeyForge / Catan gateway-franchise cluster,15,14.745959177613258
+40,33,Light gateway tile/claim-action cluster,,12,14.7170889377594
+24,33,Ark Nova universal-appeal micro-cluster,,12,14.593537628650665
+1,7,Thematic adventure / licensed bridge cluster,,13,14.490765124559402
+26,24,Pandemic system cluster,Ark Nova universal-appeal micro-cluster,20,14.484256535768509
+26,21,Pandemic system cluster,Viticulture / Dinosaur Island gateway bridge,18,14.47660617530346
+1,14,Thematic adventure / licensed bridge cluster,Abstract tile-placement puzzle bridge,17,14.474614277482033
+34,18,Licensed family/fandom games,Mass-market gateway / family strategy bridge,17,14.46934475749731
+34,29,Licensed family/fandom games,Small two-player/set-collection card games,24,14.466737173497677
+34,30,Licensed family/fandom games,,16,14.463281489908695
+41,11,Ticket to Ride / route-building series cluster,KeyForge / Catan gateway-franchise cluster,15,14.457410022616386
+30,33,,,9,14.434005379676817
+31,0,Railroad Ink / spatial puzzle cluster,Terraforming Mars universal-appeal micro-cluster,12,14.411041125655174
+38,27,Racing / sports / route bridge,Race for the Galaxy system cluster,23,14.40320199355483
+37,24,Escape-room / Unlock series cluster,Ark Nova universal-appeal micro-cluster,22,14.362193450331688
+38,6,Racing / sports / route bridge,,17,14.318745195865631
+37,1,Escape-room / Unlock series cluster,Thematic adventure / licensed bridge cluster,23,14.314760535955429
+14,24,Abstract tile-placement puzzle bridge,Ark Nova universal-appeal micro-cluster,15,14.313633233308792
+39,41,Take-that card/fandom cluster,Ticket to Ride / route-building series cluster,23,14.291439473628998
+3,31,Thematic sandbox worker-placement bridge,Railroad Ink / spatial puzzle cluster,15,14.2781972438097
+29,14,Small two-player/set-collection card games,Abstract tile-placement puzzle bridge,20,14.239152893424034
+3,11,Thematic sandbox worker-placement bridge,KeyForge / Catan gateway-franchise cluster,15,14.217755168676376
+39,15,Take-that card/fandom cluster,Deck-manipulation / engine gateway cluster,22,14.167892530560493
+16,31,Unmatched / skirmish series cluster,Railroad Ink / spatial puzzle cluster,25,14.03532999753952
+37,29,Escape-room / Unlock series cluster,Small two-player/set-collection card games,25,14.006530940532684
+15,11,Deck-manipulation / engine gateway cluster,KeyForge / Catan gateway-franchise cluster,14,13.905820667743683
+14,41,Abstract tile-placement puzzle bridge,Ticket to Ride / route-building series cluster,15,13.835971534252167
+16,6,Unmatched / skirmish series cluster,,23,13.746171459555626
+40,31,Light gateway tile/claim-action cluster,Railroad Ink / spatial puzzle cluster,14,13.727582052350044
+16,11,Unmatched / skirmish series cluster,KeyForge / Catan gateway-franchise cluster,24,13.701741844415665
+11,0,KeyForge / Catan gateway-franchise cluster,Terraforming Mars universal-appeal micro-cluster,12,13.658000633120537
+0,21,Terraforming Mars universal-appeal micro-cluster,Viticulture / Dinosaur Island gateway bridge,11,13.648775279521942
+32,33,Open-drafting tactical euro cluster,,15,13.562811747193336
+32,14,Open-drafting tactical euro cluster,Abstract tile-placement puzzle bridge,19,13.503895670175552
+41,0,Ticket to Ride / route-building series cluster,Terraforming Mars universal-appeal micro-cluster,14,13.475000187754631
+38,22,Racing / sports / route bridge,Trade-route / area-influence euros,20,13.404947429895401
+26,6,Pandemic system cluster,,17,13.393158733844757
+14,21,Abstract tile-placement puzzle bridge,Viticulture / Dinosaur Island gateway bridge,14,13.367844700813293
+39,29,Take-that card/fandom cluster,Small two-player/set-collection card games,24,13.328126728534698
+11,30,KeyForge / Catan gateway-franchise cluster,,11,13.261080518364906
+11,31,KeyForge / Catan gateway-franchise cluster,Railroad Ink / spatial puzzle cluster,13,13.212473317980766
+41,31,Ticket to Ride / route-building series cluster,Railroad Ink / spatial puzzle cluster,14,13.191334560513496
+36,22,Light set-collection gateway,Trade-route / area-influence euros,18,13.16478481888771
+37,15,Escape-room / Unlock series cluster,Deck-manipulation / engine gateway cluster,19,13.16055779159069
+11,7,KeyForge / Catan gateway-franchise cluster,,11,13.134072691202164
+16,39,Unmatched / skirmish series cluster,Take-that card/fandom cluster,29,12.917569667100906
+14,18,Abstract tile-placement puzzle bridge,Mass-market gateway / family strategy bridge,15,12.847473919391632
+37,28,Escape-room / Unlock series cluster,Real-time cooperative micro-cluster,22,12.809165075421333
+37,6,Escape-room / Unlock series cluster,,19,12.80342923104763
+3,41,Thematic sandbox worker-placement bridge,Ticket to Ride / route-building series cluster,17,12.797564223408699
+14,30,Abstract tile-placement puzzle bridge,,13,12.767366141080856
+39,18,Take-that card/fandom cluster,Mass-market gateway / family strategy bridge,20,12.763676792383194
+34,15,Licensed family/fandom games,Deck-manipulation / engine gateway cluster,18,12.745613239705563
+16,21,Unmatched / skirmish series cluster,Viticulture / Dinosaur Island gateway bridge,24,12.712784305214882
+15,30,Deck-manipulation / engine gateway cluster,,12,12.6019426882267
+37,18,Escape-room / Unlock series cluster,Mass-market gateway / family strategy bridge,20,12.593220353126526
+21,33,Viticulture / Dinosaur Island gateway bridge,,10,12.553718268871307
+24,31,Ark Nova universal-appeal micro-cluster,Railroad Ink / spatial puzzle cluster,14,12.532049298286438
+15,33,Deck-manipulation / engine gateway cluster,,11,12.505509912967682
+39,40,Take-that card/fandom cluster,Light gateway tile/claim-action cluster,19,12.471561968326569
+1,31,Thematic adventure / licensed bridge cluster,Railroad Ink / spatial puzzle cluster,16,12.45076522231102
+3,30,Thematic sandbox worker-placement bridge,,13,12.443812176585197
+11,18,KeyForge / Catan gateway-franchise cluster,Mass-market gateway / family strategy bridge,13,12.430148273706436
+14,6,Abstract tile-placement puzzle bridge,,13,12.348568379878998
+26,32,Pandemic system cluster,Open-drafting tactical euro cluster,19,12.332662731409073
+14,42,Abstract tile-placement puzzle bridge,,13,12.324014216661453
+32,3,Open-drafting tactical euro cluster,Thematic sandbox worker-placement bridge,18,12.314795210957527
+31,21,Railroad Ink / spatial puzzle cluster,Viticulture / Dinosaur Island gateway bridge,12,12.275255665183067
+33,42,,,9,12.238471299409866
+21,7,Viticulture / Dinosaur Island gateway bridge,,9,12.237079620361328
+0,30,Terraforming Mars universal-appeal micro-cluster,,10,12.224954396486282
+39,42,Take-that card/fandom cluster,,18,12.15983933210373
+41,40,Ticket to Ride / route-building series cluster,Light gateway tile/claim-action cluster,16,12.143787235021591
+39,32,Take-that card/fandom cluster,Open-drafting tactical euro cluster,23,12.093843385577202
+37,32,Escape-room / Unlock series cluster,Open-drafting tactical euro cluster,16,11.991997480392456
+41,7,Ticket to Ride / route-building series cluster,,12,11.956571593880653
+26,42,Pandemic system cluster,,14,11.923760563135147
+39,7,Take-that card/fandom cluster,,16,11.887722998857498
+38,28,Racing / sports / route bridge,Real-time cooperative micro-cluster,20,11.864180237054825
+34,32,Licensed family/fandom games,Open-drafting tactical euro cluster,17,11.825583472847939
+31,42,Railroad Ink / spatial puzzle cluster,,11,11.824059396982193
+31,6,Railroad Ink / spatial puzzle cluster,,11,11.80364015698433
+36,28,Light set-collection gateway,Real-time cooperative micro-cluster,22,11.797095715999603
+34,28,Licensed family/fandom games,Real-time cooperative micro-cluster,18,11.79090602695942
+29,3,Small two-player/set-collection card games,Thematic sandbox worker-placement bridge,21,11.783827990293503
+41,30,Ticket to Ride / route-building series cluster,,13,11.775883182883263
+26,28,Pandemic system cluster,Real-time cooperative micro-cluster,19,11.68339093029499
+40,11,Light gateway tile/claim-action cluster,KeyForge / Catan gateway-franchise cluster,13,11.681101888418198
+14,22,Abstract tile-placement puzzle bridge,Trade-route / area-influence euros,14,11.677893370389938
+37,21,Escape-room / Unlock series cluster,Viticulture / Dinosaur Island gateway bridge,18,11.563516274094582
+14,15,Abstract tile-placement puzzle bridge,Deck-manipulation / engine gateway cluster,13,11.544122353196144
+32,0,Open-drafting tactical euro cluster,Terraforming Mars universal-appeal micro-cluster,13,11.542592585086823
+37,42,Escape-room / Unlock series cluster,,15,11.52134582400322
+1,41,Thematic adventure / licensed bridge cluster,Ticket to Ride / route-building series cluster,17,11.505545869469643
+3,40,Thematic sandbox worker-placement bridge,Light gateway tile/claim-action cluster,14,11.500528171658516
+24,21,Ark Nova universal-appeal micro-cluster,Viticulture / Dinosaur Island gateway bridge,12,11.488302007317543
+6,33,,,9,11.430170565843582
+39,27,Take-that card/fandom cluster,Race for the Galaxy system cluster,21,11.419703871011734
+1,21,Thematic adventure / licensed bridge cluster,Viticulture / Dinosaur Island gateway bridge,15,11.404206469655037
+40,0,Light gateway tile/claim-action cluster,Terraforming Mars universal-appeal micro-cluster,11,11.398387655615807
+39,21,Take-that card/fandom cluster,Viticulture / Dinosaur Island gateway bridge,19,11.397672474384308
+34,42,Licensed family/fandom games,,13,11.324854478240013
+29,32,Small two-player/set-collection card games,Open-drafting tactical euro cluster,23,11.262001559138298
+24,6,Ark Nova universal-appeal micro-cluster,,12,11.216085627675056
+29,40,Small two-player/set-collection card games,Light gateway tile/claim-action cluster,18,11.207984149456024
+16,18,Unmatched / skirmish series cluster,Mass-market gateway / family strategy bridge,25,11.184350572526455
+0,42,Terraforming Mars universal-appeal micro-cluster,,9,11.14654392004013
+41,18,Ticket to Ride / route-building series cluster,Mass-market gateway / family strategy bridge,15,11.13752956688404
+1,11,Thematic adventure / licensed bridge cluster,KeyForge / Catan gateway-franchise cluster,15,11.070843428373337
+1,6,Thematic adventure / licensed bridge cluster,,14,11.066818282008171
+30,42,,,9,11.029901027679443
+29,41,Small two-player/set-collection card games,Ticket to Ride / route-building series cluster,19,11.011120945215225
+26,27,Pandemic system cluster,Race for the Galaxy system cluster,16,11.00393421947956
+16,28,Unmatched / skirmish series cluster,Real-time cooperative micro-cluster,26,10.989816173911095
+22,7,Trade-route / area-influence euros,,9,10.971063077449799
+16,30,Unmatched / skirmish series cluster,,22,10.861155539751053
+18,33,Mass-market gateway / family strategy bridge,,10,10.837414234876633
+41,24,Ticket to Ride / route-building series cluster,Ark Nova universal-appeal micro-cluster,14,10.836335256695747
+40,30,Light gateway tile/claim-action cluster,,12,10.82532086968422
+24,11,Ark Nova universal-appeal micro-cluster,KeyForge / Catan gateway-franchise cluster,13,10.813936084508896
+3,6,Thematic sandbox worker-placement bridge,,12,10.808812350034714
+15,0,Deck-manipulation / engine gateway cluster,Terraforming Mars universal-appeal micro-cluster,11,10.786189645528793
+15,31,Deck-manipulation / engine gateway cluster,Railroad Ink / spatial puzzle cluster,13,10.768915072083473
+14,28,Abstract tile-placement puzzle bridge,Real-time cooperative micro-cluster,16,10.722688034176826
+3,15,Thematic sandbox worker-placement bridge,Deck-manipulation / engine gateway cluster,14,10.71164208650589
+32,30,Open-drafting tactical euro cluster,,15,10.704906448721886
+29,11,Small two-player/set-collection card games,KeyForge / Catan gateway-franchise cluster,18,10.69738968461752
+31,30,Railroad Ink / spatial puzzle cluster,,10,10.680773630738258
+18,30,Mass-market gateway / family strategy bridge,,10,10.654094845056534
+3,18,Thematic sandbox worker-placement bridge,Mass-market gateway / family strategy bridge,13,10.641381472349167
+18,31,Mass-market gateway / family strategy bridge,Railroad Ink / spatial puzzle cluster,12,10.597729310393333
+6,7,,,8,10.59624932706356
+3,42,Thematic sandbox worker-placement bridge,,12,10.581347197294235
+16,41,Unmatched / skirmish series cluster,Ticket to Ride / route-building series cluster,20,10.5722865909338
+29,7,Small two-player/set-collection card games,,15,10.540561497211456
+31,22,Railroad Ink / spatial puzzle cluster,Trade-route / area-influence euros,12,10.517475068569183
+41,15,Ticket to Ride / route-building series cluster,Deck-manipulation / engine gateway cluster,16,10.517418712377548
+36,27,Light set-collection gateway,Race for the Galaxy system cluster,16,10.498960748314857
+29,0,Small two-player/set-collection card games,Terraforming Mars universal-appeal micro-cluster,15,10.480192124843597
+42,7,,,8,10.443344578146935
+16,29,Unmatched / skirmish series cluster,Small two-player/set-collection card games,27,10.411594554781914
+39,24,Take-that card/fandom cluster,Ark Nova universal-appeal micro-cluster,20,10.37656283378601
+39,1,Take-that card/fandom cluster,Thematic adventure / licensed bridge cluster,20,10.376376509666443
+41,21,Ticket to Ride / route-building series cluster,Viticulture / Dinosaur Island gateway bridge,14,10.371981143951416
+29,1,Small two-player/set-collection card games,Thematic adventure / licensed bridge cluster,21,10.358979508280754
+39,6,Take-that card/fandom cluster,,19,10.287751913070679
+27,33,Race for the Galaxy system cluster,,11,10.275598049163818
+32,31,Open-drafting tactical euro cluster,Railroad Ink / spatial puzzle cluster,15,10.270295187830925
+0,22,Terraforming Mars universal-appeal micro-cluster,Trade-route / area-influence euros,11,10.244843378663063
+24,40,Ark Nova universal-appeal micro-cluster,Light gateway tile/claim-action cluster,15,10.22474455833435
+0,6,Terraforming Mars universal-appeal micro-cluster,,9,10.21519285440445
+32,24,Open-drafting tactical euro cluster,Ark Nova universal-appeal micro-cluster,18,10.208379074931145
+32,7,Open-drafting tactical euro cluster,,11,10.179038226604462
+26,22,Pandemic system cluster,Trade-route / area-influence euros,14,10.147832170128822
+3,22,Thematic sandbox worker-placement bridge,Trade-route / area-influence euros,14,10.103173092007637
+40,7,Light gateway tile/claim-action cluster,,10,10.080751195549965
+24,30,Ark Nova universal-appeal micro-cluster,,12,10.073723807930946
+15,42,Deck-manipulation / engine gateway cluster,,11,10.057213008403778
+11,42,KeyForge / Catan gateway-franchise cluster,,10,10.036355212330818
+34,22,Licensed family/fandom games,Trade-route / area-influence euros,11,10.030084073543549
+37,27,Escape-room / Unlock series cluster,Race for the Galaxy system cluster,15,10.02702371776104
+16,40,Unmatched / skirmish series cluster,Light gateway tile/claim-action cluster,21,9.996000036597252
+32,1,Open-drafting tactical euro cluster,Thematic adventure / licensed bridge cluster,17,9.989109888672829
+32,40,Open-drafting tactical euro cluster,Light gateway tile/claim-action cluster,16,9.940389454364777
+29,24,Small two-player/set-collection card games,Ark Nova universal-appeal micro-cluster,19,9.914077833294868
+30,7,,,7,9.907058373093605
+16,32,Unmatched / skirmish series cluster,Open-drafting tactical euro cluster,22,9.895720839500427
+22,33,Trade-route / area-influence euros,,8,9.867601692676544
+28,33,Real-time cooperative micro-cluster,,12,9.81419913470745
+29,30,Small two-player/set-collection card games,,16,9.804498001933098
+11,21,KeyForge / Catan gateway-franchise cluster,Viticulture / Dinosaur Island gateway bridge,11,9.787868827581406
+32,22,Open-drafting tactical euro cluster,Trade-route / area-influence euros,16,9.776140451431274
+28,31,Real-time cooperative micro-cluster,Railroad Ink / spatial puzzle cluster,14,9.73503391444683
+18,7,Mass-market gateway / family strategy bridge,,10,9.729134634137154
+40,6,Light gateway tile/claim-action cluster,,11,9.71903158724308
+27,0,Race for the Galaxy system cluster,Terraforming Mars universal-appeal micro-cluster,11,9.620232090353966
+15,18,Deck-manipulation / engine gateway cluster,Mass-market gateway / family strategy bridge,11,9.612386837601662
+15,40,Deck-manipulation / engine gateway cluster,Light gateway tile/claim-action cluster,14,9.55418798327446
+32,42,Open-drafting tactical euro cluster,,13,9.550860553979874
+32,21,Open-drafting tactical euro cluster,Viticulture / Dinosaur Island gateway bridge,14,9.54267030954361
+40,21,Light gateway tile/claim-action cluster,Viticulture / Dinosaur Island gateway bridge,12,9.522065341472626
+1,40,Thematic adventure / licensed bridge cluster,Light gateway tile/claim-action cluster,15,9.517688736319542
+29,42,Small two-player/set-collection card games,,14,9.499639600515366
+37,22,Escape-room / Unlock series cluster,Trade-route / area-influence euros,11,9.48634497821331
+11,6,KeyForge / Catan gateway-franchise cluster,,11,9.474625408649445
+1,28,Thematic adventure / licensed bridge cluster,Real-time cooperative micro-cluster,17,9.466834738850594
+40,18,Light gateway tile/claim-action cluster,Mass-market gateway / family strategy bridge,13,9.426959410309792
+32,41,Open-drafting tactical euro cluster,Ticket to Ride / route-building series cluster,15,9.413677349686623
+29,6,Small two-player/set-collection card games,,16,9.406926780939102
+29,21,Small two-player/set-collection card games,Viticulture / Dinosaur Island gateway bridge,15,9.383549705147743
+40,42,Light gateway tile/claim-action cluster,,12,9.380477994680405
+18,0,Mass-market gateway / family strategy bridge,Terraforming Mars universal-appeal micro-cluster,9,9.330856204032898
+29,22,Small two-player/set-collection card games,Trade-route / area-influence euros,17,9.22907343506813
+41,42,Ticket to Ride / route-building series cluster,,11,9.17531631886959
+21,30,Viticulture / Dinosaur Island gateway bridge,,10,9.12702040374279
+1,30,Thematic adventure / licensed bridge cluster,,13,9.103290379047394
+27,31,Race for the Galaxy system cluster,Railroad Ink / spatial puzzle cluster,11,9.025226071476936
+22,42,Trade-route / area-influence euros,,10,8.960221491754055
+14,27,Abstract tile-placement puzzle bridge,Race for the Galaxy system cluster,13,8.951941460371017
+29,27,Small two-player/set-collection card games,Race for the Galaxy system cluster,19,8.89093229174614
+3,28,Thematic sandbox worker-placement bridge,Real-time cooperative micro-cluster,15,8.886476933956146
+15,7,Deck-manipulation / engine gateway cluster,,11,8.878166675567627
+27,30,Race for the Galaxy system cluster,,12,8.86762948334217
+27,7,Race for the Galaxy system cluster,,10,8.864418312907219
+39,22,Take-that card/fandom cluster,Trade-route / area-influence euros,15,8.822046458721161
+24,42,Ark Nova universal-appeal micro-cluster,,11,8.818174198269844
+24,28,Ark Nova universal-appeal micro-cluster,Real-time cooperative micro-cluster,15,8.810492485761642
+41,6,Ticket to Ride / route-building series cluster,,11,8.779675751924515
+29,15,Small two-player/set-collection card games,Deck-manipulation / engine gateway cluster,15,8.777378931641579
+24,18,Ark Nova universal-appeal micro-cluster,Mass-market gateway / family strategy bridge,13,8.754423327744007
+27,11,Race for the Galaxy system cluster,KeyForge / Catan gateway-franchise cluster,13,8.739423550665379
+32,6,Open-drafting tactical euro cluster,,14,8.716497004032135
+21,6,Viticulture / Dinosaur Island gateway bridge,,8,8.655522018671036
+29,18,Small two-player/set-collection card games,Mass-market gateway / family strategy bridge,14,8.635639801621437
+32,18,Open-drafting tactical euro cluster,Mass-market gateway / family strategy bridge,15,8.572372034192085
+28,40,Real-time cooperative micro-cluster,Light gateway tile/claim-action cluster,15,8.512996435165405
+16,15,Unmatched / skirmish series cluster,Deck-manipulation / engine gateway cluster,15,8.494589447975159
+34,27,Licensed family/fandom games,Race for the Galaxy system cluster,13,8.451640598475933
+6,30,,,9,8.450248643755913
+22,30,Trade-route / area-influence euros,,10,8.416160970926285
+21,22,Viticulture / Dinosaur Island gateway bridge,Trade-route / area-influence euros,10,8.372053056955338
+15,27,Deck-manipulation / engine gateway cluster,Race for the Galaxy system cluster,11,8.360634803771973
+18,42,Mass-market gateway / family strategy bridge,,11,8.309708379209042
+1,18,Thematic adventure / licensed bridge cluster,Mass-market gateway / family strategy bridge,13,8.285973519086838
+28,0,Real-time cooperative micro-cluster,Terraforming Mars universal-appeal micro-cluster,11,8.262821540236473
+15,24,Deck-manipulation / engine gateway cluster,Ark Nova universal-appeal micro-cluster,12,8.2313531935215
+41,22,Ticket to Ride / route-building series cluster,Trade-route / area-influence euros,14,8.206802032887936
+32,11,Open-drafting tactical euro cluster,KeyForge / Catan gateway-franchise cluster,12,8.205596968531609
+24,22,Ark Nova universal-appeal micro-cluster,Trade-route / area-influence euros,12,8.198300391435623
+27,42,Race for the Galaxy system cluster,,10,8.191717132925987
+18,21,Mass-market gateway / family strategy bridge,Viticulture / Dinosaur Island gateway bridge,10,8.179794430732727
+3,27,Thematic sandbox worker-placement bridge,Race for the Galaxy system cluster,13,8.132977277040482
+40,22,Light gateway tile/claim-action cluster,Trade-route / area-influence euros,13,8.063149988651276
+21,42,Viticulture / Dinosaur Island gateway bridge,,9,8.055615946650505
+32,15,Open-drafting tactical euro cluster,Deck-manipulation / engine gateway cluster,14,8.021487891674042
+28,7,Real-time cooperative micro-cluster,,10,7.863997250795364
+1,15,Thematic adventure / licensed bridge cluster,Deck-manipulation / engine gateway cluster,12,7.802653074264526
+15,22,Deck-manipulation / engine gateway cluster,Trade-route / area-influence euros,12,7.787094220519066
+16,22,Unmatched / skirmish series cluster,Trade-route / area-influence euros,12,7.783554017543793
+39,28,Take-that card/fandom cluster,Real-time cooperative micro-cluster,15,7.75830203294754
+18,6,Mass-market gateway / family strategy bridge,,10,7.74183563888073
+28,11,Real-time cooperative micro-cluster,KeyForge / Catan gateway-franchise cluster,14,7.7128326669335365
+15,6,Deck-manipulation / engine gateway cluster,,10,7.662524342536926
+28,6,Real-time cooperative micro-cluster,,11,7.643933437764645
+15,21,Deck-manipulation / engine gateway cluster,Viticulture / Dinosaur Island gateway bridge,10,7.589225172996521
+11,22,KeyForge / Catan gateway-franchise cluster,Trade-route / area-influence euros,10,7.532501250505447
+41,28,Ticket to Ride / route-building series cluster,Real-time cooperative micro-cluster,14,7.531850717961788
+22,6,Trade-route / area-influence euros,,10,7.398241713643074
+6,42,,,7,7.287862077355385
+1,42,Thematic adventure / licensed bridge cluster,,10,7.1078431606292725
+32,28,Open-drafting tactical euro cluster,Real-time cooperative micro-cluster,14,6.932618856430054
+27,22,Race for the Galaxy system cluster,Trade-route / area-influence euros,11,6.921920135617256
+32,27,Open-drafting tactical euro cluster,Race for the Galaxy system cluster,12,6.900203049182892
+28,21,Real-time cooperative micro-cluster,Viticulture / Dinosaur Island gateway bridge,11,6.878810152411461
+28,30,Real-time cooperative micro-cluster,,11,6.863469332456589
+29,28,Small two-player/set-collection card games,Real-time cooperative micro-cluster,15,6.80241883546114
+1,27,Thematic adventure / licensed bridge cluster,Race for the Galaxy system cluster,13,6.702592894434929
+18,22,Mass-market gateway / family strategy bridge,Trade-route / area-influence euros,10,6.6416806280612946
+1,22,Thematic adventure / licensed bridge cluster,Trade-route / area-influence euros,8,6.59462808072567
+27,6,Race for the Galaxy system cluster,,12,6.56195831298828
+24,27,Ark Nova universal-appeal micro-cluster,Race for the Galaxy system cluster,11,6.511926472187042
+27,40,Race for the Galaxy system cluster,Light gateway tile/claim-action cluster,12,6.377208724617958
+27,18,Race for the Galaxy system cluster,Mass-market gateway / family strategy bridge,10,6.314602866768837
+28,18,Real-time cooperative micro-cluster,Mass-market gateway / family strategy bridge,12,6.17125054448843
+28,42,Real-time cooperative micro-cluster,,10,6.02168795466423
+41,27,Ticket to Ride / route-building series cluster,Race for the Galaxy system cluster,9,6.013543590903282
+28,22,Real-time cooperative micro-cluster,Trade-route / area-influence euros,10,6.012775138020515
+16,42,Unmatched / skirmish series cluster,,9,5.9786244332790375
+16,27,Unmatched / skirmish series cluster,Race for the Galaxy system cluster,10,5.675113320350647
+15,28,Deck-manipulation / engine gateway cluster,Real-time cooperative micro-cluster,9,5.561282858252525
+27,21,Race for the Galaxy system cluster,Viticulture / Dinosaur Island gateway bridge,7,5.130236849188805
+27,28,Race for the Galaxy system cluster,Real-time cooperative micro-cluster,12,5.083370693027973

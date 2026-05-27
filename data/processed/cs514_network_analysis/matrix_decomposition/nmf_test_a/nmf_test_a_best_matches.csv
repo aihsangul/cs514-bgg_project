@@ -1,0 +1,12 @@
+manual_community,manual_dimension,nmf_component,cosine_similarity,manual_dimension_size,component_top_game,matching_method
+2,Current heavy euro engine builders,2,0.792432429259286,207,SETI: Search for Extraterrestrial Intelligence,hungarian_max_cosine
+4,Legacy + narrative mystery,6,0.05215299762609938,37,Puerto Rico,hungarian_max_cosine
+8,Medium worker-placement euros,0,0.6906626091902517,166,Trajan,hungarian_max_cosine
+9,Amerithrash / miniatures / LCG,3,0.6956491459041731,251,Dead of Winter: A Crossroads Game,hungarian_max_cosine
+10,BGG Golden Age canon,1,0.8088794468208352,338,Puerto Rico,hungarian_max_cosine
+12,Dungeon crawl / cooperative campaign adventure,5,0.6735215725240381,231,Spirit Island,hungarian_max_cosine
+13,Puzzle / nature tableau builders,7,0.6618743474317375,168,Cascadia,hungarian_max_cosine
+17,Roll-and-write / number dice games,8,0.0026900742568310315,39,Food Chain Magnate,hungarian_max_cosine
+20,Historical wargames + conflict strategy,10,0.7382290660301617,198,Twilight Struggle,hungarian_max_cosine
+25,Party / family / social deduction,9,0.5415030563797482,177,Hanabi,hungarian_max_cosine
+35,Cooperative trick-taking + deduction,4,0.48894841913658427,100,Ra,hungarian_max_cosine

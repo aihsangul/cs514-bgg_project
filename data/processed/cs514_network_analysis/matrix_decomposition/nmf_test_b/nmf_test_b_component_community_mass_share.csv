@@ -1,0 +1,85 @@
+k,seed,nmf_component,best_community,best_community_share
+5,515,0,C25: Party / family / social deduction,0.21198441995933964
+5,515,1,C10: BGG Golden Age canon,0.405000773515956
+5,515,2,C2: Current heavy euro engine builders,0.3805702249986917
+5,515,3,C12: Dungeon crawl / cooperative campaign adventure,0.2579431376486976
+5,515,4,C19: Recent releases / new-hotness cluster,0.2794596781172059
+8,515,0,C25: Party / family / social deduction,0.16204601926050394
+8,515,1,C10: BGG Golden Age canon,0.5298246805062001
+8,515,2,C2: Current heavy euro engine builders,0.3621374193965876
+8,515,3,C9: Amerithrash / miniatures / LCG,0.30429569901914105
+8,515,4,C20: Historical wargames + conflict strategy,0.476611052665083
+8,515,5,C13: Puzzle / nature tableau builders,0.21572802143663508
+8,515,6,C2: Current heavy euro engine builders,0.23904148427390598
+8,515,7,C19: Recent releases / new-hotness cluster,0.22105414243406274
+11,514,0,C25: Party / family / social deduction,0.24127339176821158
+11,514,1,C10: BGG Golden Age canon,0.6009872253148582
+11,514,2,C8: Medium worker-placement euros,0.3843152921556105
+11,514,3,C2: Current heavy euro engine builders,0.17465333912310152
+11,514,4,C10: BGG Golden Age canon,0.1908229759257715
+11,514,5,C13: Puzzle / nature tableau builders,0.22679258438446423
+11,514,6,C2: Current heavy euro engine builders,0.5752491838992622
+11,514,7,C19: Recent releases / new-hotness cluster,0.37779644347307906
+11,514,8,C12: Dungeon crawl / cooperative campaign adventure,0.49644325711564014
+11,514,9,C9: Amerithrash / miniatures / LCG,0.3905584712627197
+11,514,10,C20: Historical wargames + conflict strategy,0.5399272847924589
+15,514,0,C13: Puzzle / nature tableau builders,0.2334764720507717
+15,514,1,C10: BGG Golden Age canon,0.6351426853866277
+15,514,2,C2: Current heavy euro engine builders,0.5554650083302233
+15,514,3,C2: Current heavy euro engine builders,0.30400310112183354
+15,514,4,C10: BGG Golden Age canon,0.2677104049694878
+15,514,5,C12: Dungeon crawl / cooperative campaign adventure,0.15081141097176487
+15,514,6,C19: Recent releases / new-hotness cluster,0.4963764288967987
+15,514,7,C19: Recent releases / new-hotness cluster,0.24435030005184244
+15,514,8,C12: Dungeon crawl / cooperative campaign adventure,0.5444979401579004
+15,514,9,C25: Party / family / social deduction,0.342116899661161
+15,514,10,C20: Historical wargames + conflict strategy,0.5835415623771077
+15,514,11,C8: Medium worker-placement euros,0.4452287829600889
+15,514,12,C2: Current heavy euro engine builders,0.13173388499008565
+15,514,13,C10: BGG Golden Age canon,0.2725820067308502
+15,514,14,C9: Amerithrash / miniatures / LCG,0.4775259857346972
+20,515,0,C12: Dungeon crawl / cooperative campaign adventure,0.12723947365311397
+20,515,1,C10: BGG Golden Age canon,0.6807129104491689
+20,515,2,C8: Medium worker-placement euros,0.34255798535900206
+20,515,3,C9: Amerithrash / miniatures / LCG,0.1647960423913804
+20,515,4,C20: Historical wargames + conflict strategy,0.3977993040342431
+20,515,5,C9: Amerithrash / miniatures / LCG,0.5617355011818169
+20,515,6,C19: Recent releases / new-hotness cluster,0.5851124407855253
+20,515,7,C19: Recent releases / new-hotness cluster,0.24769114557012947
+20,515,8,C12: Dungeon crawl / cooperative campaign adventure,0.6062748665447592
+20,515,9,C12: Dungeon crawl / cooperative campaign adventure,0.18731932247756047
+20,515,10,C20: Historical wargames + conflict strategy,0.6055229718267452
+20,515,11,C8: Medium worker-placement euros,0.3823701371072824
+20,515,12,C13: Puzzle / nature tableau builders,0.18633180514712425
+20,515,13,C13: Puzzle / nature tableau builders,0.11143126068865941
+20,515,14,C25: Party / family / social deduction,0.36196501491517524
+20,515,15,C2: Current heavy euro engine builders,0.7148202913920515
+20,515,16,C16: Unmatched / skirmish series cluster,0.2141788508033266
+20,515,17,C10: BGG Golden Age canon,0.28012280005667983
+20,515,18,C10: BGG Golden Age canon,0.25159551964480054
+20,515,19,C13: Puzzle / nature tableau builders,0.33704571851564835
+25,516,0,C8: Medium worker-placement euros,0.37029733251094915
+25,516,1,C10: BGG Golden Age canon,0.7085627530053488
+25,516,2,C2: Current heavy euro engine builders,0.7383455698207432
+25,516,3,C8: Medium worker-placement euros,0.3951818592465024
+25,516,4,C10: BGG Golden Age canon,0.31574089329883326
+25,516,5,C9: Amerithrash / miniatures / LCG,0.4283832129779408
+25,516,6,C19: Recent releases / new-hotness cluster,0.6177340702233599
+25,516,7,C19: Recent releases / new-hotness cluster,0.26042845428485084
+25,516,8,C12: Dungeon crawl / cooperative campaign adventure,0.3669014670617555
+25,516,9,C4: Legacy + narrative mystery,0.2567279741654147
+25,516,10,C20: Historical wargames + conflict strategy,0.6542293194948848
+25,516,11,C9: Amerithrash / miniatures / LCG,0.5377010810265498
+25,516,12,C2: Current heavy euro engine builders,0.47173039479196344
+25,516,13,C25: Party / family / social deduction,0.32757725527351517
+25,516,14,C25: Party / family / social deduction,0.18323329685912457
+25,516,15,C25: Party / family / social deduction,0.29881651067075893
+25,516,16,C16: Unmatched / skirmish series cluster,0.25050195580523255
+25,516,17,C10: BGG Golden Age canon,0.2868174238771963
+25,516,18,C20: Historical wargames + conflict strategy,0.4160498627259083
+25,516,19,C13: Puzzle / nature tableau builders,0.3416695962010466
+25,516,20,C12: Dungeon crawl / cooperative campaign adventure,0.6031059018183814
+25,516,21,C2: Current heavy euro engine builders,0.142323397042545
+25,516,22,C25: Party / family / social deduction,0.19023644925795083
+25,516,23,C13: Puzzle / nature tableau builders,0.2870568359938102
+25,516,24,C9: Amerithrash / miniatures / LCG,0.17456423548194389

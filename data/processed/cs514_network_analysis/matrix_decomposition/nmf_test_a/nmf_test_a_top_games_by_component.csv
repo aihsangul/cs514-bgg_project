@@ -1,0 +1,331 @@
+nmf_component,component_game_rank,component_weight,bgg_id,name,overall_rank,manual_community,manual_dimension,community_type
+0,1,1.7106579654401948,102680,Trajan,148,8,Medium worker-placement euros,taste_specialist
+0,2,1.6402212237068563,171623,The Voyages of Marco Polo,120,8,Medium worker-placement euros,taste_specialist
+0,3,1.5727477395507625,127060,Bora Bora,326,8,Medium worker-placement euros,taste_specialist
+0,4,1.5538725348109979,245638,Coimbra,261,2,Current heavy euro engine builders,taste_specialist
+0,5,1.543802097203256,104006,Village,246,8,Medium worker-placement euros,taste_specialist
+0,6,1.5201079322720723,159508,AquaSphere,726,8,Medium worker-placement euros,taste_specialist
+0,7,1.5169318079823504,245934,Carpe Diem,443,8,Medium worker-placement euros,taste_specialist
+0,8,1.4958992252948458,193558,The Oracle of Delphi,818,8,Medium worker-placement euros,taste_specialist
+0,9,1.4378861329196513,229220,Santa Maria,535,8,Medium worker-placement euros,taste_specialist
+0,10,1.4329445391570688,203993,Lorenzo il Magnifico,141,8,Medium worker-placement euros,taste_specialist
+0,11,1.4323108430037605,227789,Heaven & Ale,386,8,Medium worker-placement euros,taste_specialist
+0,12,1.4283637500367319,220877,Rajas of the Ganges,166,2,Current heavy euro engine builders,taste_specialist
+0,13,1.4083905014475393,172386,Mombasa,144,8,Medium worker-placement euros,taste_specialist
+0,14,1.3687548747751923,244711,Newton,463,2,Current heavy euro engine builders,taste_specialist
+0,15,1.3424444802846123,136888,Bruges,385,8,Medium worker-placement euros,taste_specialist
+0,16,1.3289136949446108,137408,Amerigo,603,8,Medium worker-placement euros,taste_specialist
+0,17,1.3269633129858147,176494,Isle of Skye: From Chieftain to King,291,8,Medium worker-placement euros,taste_specialist
+0,18,1.2979170733193757,206941,First Class: All Aboard the Orient Express!,679,8,Medium worker-placement euros,taste_specialist
+0,19,1.2897095217253187,250458,Gùgōng,480,2,Current heavy euro engine builders,taste_specialist
+0,20,1.2634828203281465,146886,La Granja,275,8,Medium worker-placement euros,taste_specialist
+0,21,1.248501022093411,143693,Glass Road,387,8,Medium worker-placement euros,taste_specialist
+0,22,1.2181640740300868,144733,Russian Railroads,151,8,Medium worker-placement euros,taste_specialist
+0,23,1.1963416962744093,148949,Istanbul,190,8,Medium worker-placement euros,taste_specialist
+0,24,1.191285253653077,162082,Deus,604,8,Medium worker-placement euros,taste_specialist
+0,25,1.1714549085687642,183840,Oh My Goods!,833,8,Medium worker-placement euros,taste_specialist
+0,26,1.1651935692410436,196340,Yokohama,155,2,Current heavy euro engine builders,taste_specialist
+0,27,1.1649698896236211,234487,Altiplano,473,8,Medium worker-placement euros,taste_specialist
+0,28,1.1620218658775698,70512,Luna,865,8,Medium worker-placement euros,taste_specialist
+0,29,1.143946647974862,144344,Rococo,340,8,Medium worker-placement euros,taste_specialist
+0,30,1.1317860750383077,229853,Teotihuacan: City of Gods,109,2,Current heavy euro engine builders,taste_specialist
+1,1,1.2822876083782342,3076,Puerto Rico,55,10,BGG Golden Age canon,temporal_canon
+1,2,1.2384828728563217,8217,San Juan,440,10,BGG Golden Age canon,temporal_canon
+1,3,1.141442942900692,555,The Princes of Florence,301,10,BGG Golden Age canon,temporal_canon
+1,4,1.1312842737892177,93,El Grande,100,10,BGG Golden Age canon,temporal_canon
+1,5,1.1205969553071948,54,Tikal,378,10,BGG Golden Age canon,temporal_canon
+1,6,1.1200965943420234,42,Tigris & Euphrates,131,10,BGG Golden Age canon,temporal_canon
+1,7,1.0511979410182712,11,Bohnanza,544,10,BGG Golden Age canon,temporal_canon
+1,8,1.0403914264077823,21790,Thurn and Taxis,608,10,BGG Golden Age canon,temporal_canon
+1,9,1.0137556458405603,9217,Saint Petersburg,479,10,BGG Golden Age canon,temporal_canon
+1,10,1.0126100592905944,9674,Ingenious,632,10,BGG Golden Age canon,temporal_canon
+1,11,0.9934793545199173,31260,Agricola,64,10,BGG Golden Age canon,temporal_canon
+1,12,0.98626848238111,5,Acquire,360,10,BGG Golden Age canon,temporal_canon
+1,13,0.9793828567063584,475,Taj Mahal,693,10,BGG Golden Age canon,temporal_canon
+1,14,0.9731177368712856,478,Citadels,584,10,BGG Golden Age canon,temporal_canon
+1,15,0.9709797348677923,3,Samurai,283,10,BGG Golden Age canon,temporal_canon
+1,16,0.9644316385817738,503,Through the Desert,537,10,BGG Golden Age canon,temporal_canon
+1,17,0.9606121543879594,2651,Power Grid,74,10,BGG Golden Age canon,temporal_canon
+1,18,0.9553477118324175,18602,Caylus,138,10,BGG Golden Age canon,temporal_canon
+1,19,0.9407776275192054,50,Lost Cities,344,10,BGG Golden Age canon,temporal_canon
+1,20,0.9396144614575191,6249,Alhambra,610,10,BGG Golden Age canon,temporal_canon
+1,21,0.9356062908622679,5782,Coloretto,730,10,BGG Golden Age canon,temporal_canon
+1,22,0.9182159090850296,12,Ra,115,10,BGG Golden Age canon,temporal_canon
+1,23,0.9126566487349377,18,RoboRally,650,10,BGG Golden Age canon,temporal_canon
+1,24,0.9053849009494325,5404,Amun-Re,599,10,BGG Golden Age canon,temporal_canon
+1,25,0.8980606744266658,41,Can't Stop,765,10,BGG Golden Age canon,temporal_canon
+1,26,0.8939877555045704,278,Catan Card Game,1358,10,BGG Golden Age canon,temporal_canon
+1,27,0.8528046957344405,10,Elfenland,1523,10,BGG Golden Age canon,temporal_canon
+1,28,0.8479608876882259,8203,"Hey, That's My Fish!",1155,10,BGG Golden Age canon,temporal_canon
+1,29,0.847270966331866,9216,Goa,309,10,BGG Golden Age canon,temporal_canon
+1,30,0.8434873811746637,554,La Città,1244,10,BGG Golden Age canon,temporal_canon
+2,1,1.6045273743573116,418059,SETI: Search for Extraterrestrial Intelligence,16,2,Current heavy euro engine builders,taste_specialist
+2,2,1.5350116689901903,396790,Nucleum,143,2,Current heavy euro engine builders,taste_specialist
+2,3,1.4800343094920625,371942,The White Castle,72,2,Current heavy euro engine builders,taste_specialist
+2,4,1.4194000925648769,332772,Revive,91,2,Current heavy euro engine builders,taste_specialist
+2,5,1.322555326965044,251247,Barrage,40,2,Current heavy euro engine builders,taste_specialist
+2,6,1.312949975868118,310873,Carnegie,127,2,Current heavy euro engine builders,taste_specialist
+2,7,1.2942450512454062,308765,Praga Caput Regni,192,2,Current heavy euro engine builders,taste_specialist
+2,8,1.2816419493428002,184267,On Mars,58,2,Current heavy euro engine builders,taste_specialist
+2,9,1.2723887317018066,247763,Underwater Cities,50,2,Current heavy euro engine builders,taste_specialist
+2,10,1.2718812691316508,322289,Darwin's Journey,89,2,Current heavy euro engine builders,taste_specialist
+2,11,1.259958553561721,284378,Kanban EV,45,2,Current heavy euro engine builders,taste_specialist
+2,12,1.2193078686083345,391137,Galactic Cruise,126,2,Current heavy euro engine builders,taste_specialist
+2,13,1.0989694975393018,323612,Bitoku,303,2,Current heavy euro engine builders,taste_specialist
+2,14,1.0583433667632742,400602,Civolution,187,2,Current heavy euro engine builders,taste_specialist
+2,15,1.038949389799447,329500,Unconscious Mind,314,2,Current heavy euro engine builders,taste_specialist
+2,16,1.0124726728424085,125153,The Gallerist,81,2,Current heavy euro engine builders,taste_specialist
+2,17,1.0105920953417764,266810,Paladins of the West Kingdom,79,2,Current heavy euro engine builders,taste_specialist
+2,18,1.0082894337391244,161533,Lisboa,69,2,Current heavy euro engine builders,taste_specialist
+2,19,0.989958648807582,296151,Viscounts of the West Kingdom,196,2,Current heavy euro engine builders,taste_specialist
+2,20,0.987169285111614,351913,Tiletum,284,2,Current heavy euro engine builders,taste_specialist
+2,21,0.9854787009799056,297030,Tekhenu: Obelisk of the Sun,428,2,Current heavy euro engine builders,taste_specialist
+2,22,0.985307810727551,276025,Maracaibo,87,2,Current heavy euro engine builders,taste_specialist
+2,23,0.9732247817491974,182874,Grand Austria Hotel,67,2,Current heavy euro engine builders,taste_specialist
+2,24,0.9712684332329755,380607,Great Western Trail: New Zealand,77,2,Current heavy euro engine builders,taste_specialist
+2,25,0.9412834035829353,375459,Speakeasy,305,2,Current heavy euro engine builders,taste_specialist
+2,26,0.9412038166098251,185343,Anachrony,61,2,Current heavy euro engine builders,taste_specialist
+2,27,0.9402666530220467,343905,Boonlake,487,2,Current heavy euro engine builders,taste_specialist
+2,28,0.9218202619972495,237179,Weather Machine,708,2,Current heavy euro engine builders,taste_specialist
+2,29,0.9038615677325587,227224,The Red Cathedral,222,2,Current heavy euro engine builders,taste_specialist
+2,30,0.902745011938787,350316,Wayfarers of the South Tigris,345,2,Current heavy euro engine builders,taste_specialist
+3,1,1.7199878825673438,150376,Dead of Winter: A Crossroads Game,251,9,Amerithrash / miniatures / LCG,taste_specialist
+3,2,1.713068633068104,170216,Blood Rage,65,9,Amerithrash / miniatures / LCG,taste_specialist
+3,3,1.655376503089213,110327,Lords of Waterdeep,106,9,Amerithrash / miniatures / LCG,taste_specialist
+3,4,1.5775887406544638,164153,Star Wars: Imperial Assault,83,9,Amerithrash / miniatures / LCG,taste_specialist
+3,5,1.5175582111708341,37111,Battlestar Galactica: The Board Game,125,9,Amerithrash / miniatures / LCG,taste_specialist
+3,6,1.4373301899599895,104162,Descent: Journeys in the Dark (Second Edition),226,9,Amerithrash / miniatures / LCG,taste_specialist
+3,7,1.426859760281722,146021,Eldritch Horror,137,9,Amerithrash / miniatures / LCG,taste_specialist
+3,8,1.3996885232361505,187645,Star Wars: Rebellion,10,9,Amerithrash / miniatures / LCG,taste_specialist
+3,9,1.3469687026849841,205059,Mansions of Madness: Second Edition,75,9,Amerithrash / miniatures / LCG,taste_specialist
+3,10,1.3141816620764961,15987,Arkham Horror,476,9,Amerithrash / miniatures / LCG,taste_specialist
+3,11,1.299790160125301,100423,Elder Sign,789,9,Amerithrash / miniatures / LCG,taste_specialist
+3,12,1.2301349683886507,10547,Betrayal at House on the Hill,770,9,Amerithrash / miniatures / LCG,taste_specialist
+3,13,1.2265507126199238,39463,Cosmic Encounter,228,9,Amerithrash / miniatures / LCG,taste_specialist
+3,14,1.1970749472267461,40692,Small World,404,9,Amerithrash / miniatures / LCG,taste_specialist
+3,15,1.1730577781370048,103343,A Game of Thrones: The Board Game (Second Edition),237,9,Amerithrash / miniatures / LCG,taste_specialist
+3,16,1.166304356413506,205896,Rising Sun,153,9,Amerithrash / miniatures / LCG,taste_specialist
+3,17,1.1120043022834327,15062,Shadows over Camelot,591,9,Amerithrash / miniatures / LCG,taste_specialist
+3,18,1.1020279087444012,70323,King of Tokyo,489,9,Amerithrash / miniatures / LCG,taste_specialist
+3,19,1.0959554694508764,127023,Kemet,199,9,Amerithrash / miniatures / LCG,taste_specialist
+3,20,1.0915123369963762,124708,Mice and Mystics,557,9,Amerithrash / miniatures / LCG,taste_specialist
+3,21,1.0689253919167727,103885,Star Wars: X-Wing Miniatures Game,203,9,Amerithrash / miniatures / LCG,taste_specialist
+3,22,1.0673397651989107,181279,Fury of Dracula (Third/Fourth Edition),400,9,Amerithrash / miniatures / LCG,taste_specialist
+3,23,1.0185042629559715,122522,Smash Up,1291,9,Amerithrash / miniatures / LCG,taste_specialist
+3,24,1.01157250747813,83330,Mansions of Madness,613,9,Amerithrash / miniatures / LCG,taste_specialist
+3,25,1.0039221344771032,124742,Android: Netrunner,82,9,Amerithrash / miniatures / LCG,taste_specialist
+3,26,0.98410019567705,157969,Sheriff of Nottingham,609,25,Party / family / social deduction,taste_cross_over
+3,27,0.9677725770315265,176189,Zombicide: Black Plague,287,9,Amerithrash / miniatures / LCG,taste_specialist
+3,28,0.9595097835234725,54998,Cyclades,268,9,Amerithrash / miniatures / LCG,taste_specialist
+3,29,0.959040790263168,167355,Nemesis,25,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+3,30,0.9520310499555417,129437,Legendary: A Marvel Deck Building Game,281,9,Amerithrash / miniatures / LCG,taste_specialist
+4,1,2.120374353309387,12,Ra,115,10,BGG Golden Age canon,temporal_canon
+4,2,1.9844777225297536,172,For Sale,355,10,BGG Golden Age canon,temporal_canon
+4,3,1.838364304712073,220,High Society,532,10,BGG Golden Age canon,temporal_canon
+4,4,1.8089872482701903,12942,No Thanks!,552,10,BGG Golden Age canon,temporal_canon
+4,5,1.760839866657963,118,Modern Art,221,10,BGG Golden Age canon,temporal_canon
+4,6,1.704144720921914,217372,The Quest for El Dorado,122,35,Cooperative trick-taking + deduction,taste_cross_over
+4,7,1.5709760216069044,92415,Skull,488,35,Cooperative trick-taking + deduction,taste_cross_over
+4,8,1.380800224650968,140934,Arboretum,432,35,Cooperative trick-taking + deduction,taste_cross_over
+4,9,1.3486576890618338,225694,Decrypto,117,35,Cooperative trick-taking + deduction,taste_cross_over
+4,10,1.3468879539821645,158600,Hanamikoji,282,35,Cooperative trick-taking + deduction,taste_cross_over
+4,11,1.321301369466863,324856,The Crew: Mission Deep Sea,43,35,Cooperative trick-taking + deduction,taste_cross_over
+4,12,1.2800372414546404,503,Through the Desert,537,10,BGG Golden Age canon,temporal_canon
+4,13,1.2168849510000759,247367,"Air, Land, & Sea",417,35,Cooperative trick-taking + deduction,taste_cross_over
+4,14,1.1909443387499308,50,Lost Cities,344,10,BGG Golden Age canon,temporal_canon
+4,15,1.1751280731919684,5782,Coloretto,730,10,BGG Golden Age canon,temporal_canon
+4,16,1.1687590340210372,135779,A Fake Artist Goes to New York,754,35,Cooperative trick-taking + deduction,taste_cross_over
+4,17,1.11290172482741,266830,QE,614,35,Cooperative trick-taking + deduction,taste_cross_over
+4,18,1.1080347777005075,274364,Watergate,186,20,Historical wargames + conflict strategy,taste_specialist
+4,19,1.1071618839972057,432,Take 5,676,10,BGG Golden Age canon,temporal_canon
+4,20,1.1003260567123196,262543,Wavelength,526,35,Cooperative trick-taking + deduction,taste_cross_over
+4,21,1.064865482689541,223770,Startups,884,35,Cooperative trick-taking + deduction,taste_cross_over
+4,22,1.0081697920665316,11,Bohnanza,544,10,BGG Golden Age canon,temporal_canon
+4,23,0.9988617191564724,118048,Targi,173,17,Roll-and-write / number dice games,taste_cross_over
+4,24,0.9952638302770355,11971,Cockroach Poker,1083,35,Cooperative trick-taking + deduction,taste_cross_over
+4,25,0.990426927199028,284083,The Crew: The Quest for Planet Nine,92,4,Legacy + narrative mystery,shared_culture
+4,26,0.986774282225612,368061,Zoo Vadis,778,35,Cooperative trick-taking + deduction,taste_cross_over
+4,27,0.9768011800393261,15512,Diamant,890,10,BGG Golden Age canon,temporal_canon
+4,28,0.9380091656587911,221965,The Fox in the Forest,683,35,Cooperative trick-taking + deduction,taste_cross_over
+4,29,0.9049518415923332,215,Tichu,248,10,BGG Golden Age canon,temporal_canon
+4,30,0.8816791369110505,244992,The Mind,1109,35,Cooperative trick-taking + deduction,taste_cross_over
+5,1,2.868664344772044,162886,Spirit Island,11,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,2,2.5292651345977575,291457,Gloomhaven: Jaws of the Lion,12,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,3,2.1435387688280163,174430,Gloomhaven,4,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,4,2.1074334527577427,205637,Arkham Horror: The Card Game,32,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,5,1.997689249689376,285774,Marvel Champions: The Card Game,48,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,6,1.989410840540055,192135,Too Many Bones,37,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,7,1.8125222827975458,191189,Aeon's End,107,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,8,1.7724003417752578,255984,Sleeping Gods,71,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,9,1.7159145636622386,121921,Robinson Crusoe: Adventures on the Cursed Island,119,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,10,1.6102036040160428,264220,Tainted Grail: The Fall of Avalon,136,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,11,1.508273899205131,277659,Final Girl,97,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,12,1.4762258220268087,167355,Nemesis,25,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,13,1.4264182881229885,306735,Under Falling Skies,263,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,14,1.4197543595099145,295770,Frosthaven,21,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,15,1.3457806572108613,253344,Cthulhu: Death May Die,54,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,16,1.3125749859769182,325494,ISS Vanguard,158,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,17,1.292643452301445,180263,The 7th Continent,163,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,18,1.2794036073162531,205059,Mansions of Madness: Second Edition,75,9,Amerithrash / miniatures / LCG,taste_specialist
+5,19,1.2747710535992312,269385,The Lord of the Rings: Journeys in Middle-Earth,142,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,20,1.2662008844392023,218417,Aeon's End: War Eternal,149,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,21,1.2579038869099202,318184,Imperium: Classics,337,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,22,1.2518968193114868,338960,Slay the Spire: The Board Game,17,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,23,1.2076808716850929,284083,The Crew: The Quest for Planet Nine,92,4,Legacy + narrative mystery,shared_culture
+5,24,1.1916837712137587,251661,Oathsworn: Into the Deepwood,63,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,25,1.191408305160886,235802,Too Many Bones: Undertow,172,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,26,1.1686570695188956,161936,Pandemic Legacy: Season 1,3,4,Legacy + narrative mystery,shared_culture
+5,27,1.1518803185197481,393672,Gloomhaven: Buttons & Bugs,908,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,28,1.1005120965377035,342900,Earthborne Rangers,493,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,29,1.080099716968406,188920,This War of Mine: The Board Game,213,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+5,30,0.9997449739365002,324856,The Crew: Mission Deep Sea,43,35,Cooperative trick-taking + deduction,taste_cross_over
+6,1,2.30423627518054,3076,Puerto Rico,55,10,BGG Golden Age canon,temporal_canon
+6,2,2.148888958907968,2651,Power Grid,74,10,BGG Golden Age canon,temporal_canon
+6,3,2.1404544948078623,120677,Terra Mystica,35,8,Medium worker-placement euros,taste_specialist
+6,4,2.099506626094225,31260,Agricola,64,10,BGG Golden Age canon,temporal_canon
+6,5,1.9861884140860597,193738,Great Western Trail,19,8,Medium worker-placement euros,taste_specialist
+6,6,1.879565252673551,126163,Tzolk'in: The Mayan Calendar,73,8,Medium worker-placement euros,taste_specialist
+6,7,1.8349257949726827,182028,Through the Ages: A New Story of Civilization,18,8,Medium worker-placement euros,taste_specialist
+6,8,1.8022714914649944,102794,Caverna: The Cave Farmers,62,8,Medium worker-placement euros,taste_specialist
+6,9,1.7893313591438376,164928,Orléans,36,8,Medium worker-placement euros,taste_specialist
+6,10,1.7478436734074314,12333,Twilight Struggle,14,20,Historical wargames + conflict strategy,taste_specialist
+6,11,1.6949313404182698,35677,Le Havre,80,8,Medium worker-placement euros,taste_specialist
+6,12,1.5876277278636906,220308,Gaia Project,13,2,Current heavy euro engine builders,taste_specialist
+6,13,1.424853915064052,177736,A Feast for Odin,27,2,Current heavy euro engine builders,taste_specialist
+6,14,1.261091717378731,34635,Stone Age,188,10,BGG Golden Age canon,temporal_canon
+6,15,1.182820443145961,171623,The Voyages of Marco Polo,120,8,Medium worker-placement euros,taste_specialist
+6,16,1.1635793838865234,28720,Brass: Lancashire,23,20,Historical wargames + conflict strategy,taste_specialist
+6,17,1.1584096079502038,162886,Spirit Island,11,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+6,18,1.1176935527281455,122515,Keyflower,133,8,Medium worker-placement euros,taste_specialist
+6,19,1.109486662486744,161936,Pandemic Legacy: Season 1,3,4,Legacy + narrative mystery,shared_culture
+6,20,1.0598047766406387,175914,Food Chain Magnate,49,20,Historical wargames + conflict strategy,taste_specialist
+6,21,1.041482365874356,73439,Troyes,140,8,Medium worker-placement euros,taste_specialist
+6,22,1.021589734452787,174430,Gloomhaven,4,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+6,23,0.9963294476425221,18602,Caylus,138,10,BGG Golden Age canon,temporal_canon
+6,24,0.9854827291952433,148949,Istanbul,190,8,Medium worker-placement euros,taste_specialist
+6,25,0.9795808370741467,104006,Village,246,8,Medium worker-placement euros,taste_specialist
+6,26,0.9568284268956778,121921,Robinson Crusoe: Adventures on the Cursed Island,119,12,Dungeon crawl / cooperative campaign adventure,taste_specialist
+6,27,0.9481990471724684,132531,Roll for the Galaxy,171,8,Medium worker-placement euros,taste_specialist
+6,28,0.9472648903858645,110327,Lords of Waterdeep,106,9,Amerithrash / miniatures / LCG,taste_specialist
+6,29,0.9300035031557875,182874,Grand Austria Hotel,67,2,Current heavy euro engine builders,taste_specialist
+6,30,0.9289112080703195,229853,Teotihuacan: City of Gods,109,2,Current heavy euro engine builders,taste_specialist
+7,1,2.278342050634103,295947,Cascadia,60,13,Puzzle / nature tableau builders,taste_cross_over
+7,2,1.8720378491891432,283155,Calico,266,13,Puzzle / nature tableau builders,taste_cross_over
+7,3,1.815300532317528,199561,Sagrada,223,13,Puzzle / nature tableau builders,taste_cross_over
+7,4,1.7219686011991848,281259,The Isle of Cats,193,13,Puzzle / nature tableau builders,taste_cross_over
+7,5,1.7058871234505915,263918,Cartographers,179,13,Puzzle / nature tableau builders,taste_cross_over
+7,6,1.7039698800717789,266524,PARKS,175,13,Puzzle / nature tableau builders,taste_cross_over
+7,7,1.665568591695902,336986,Flamecraft,397,13,Puzzle / nature tableau builders,taste_cross_over
+7,8,1.6004876803077783,350184,Earth,209,13,Puzzle / nature tableau builders,taste_cross_over
+7,9,1.5227905919522131,265736,Tiny Towns,520,13,Puzzle / nature tableau builders,taste_cross_over
+7,10,1.507840802718369,233867,Welcome To...,210,13,Puzzle / nature tableau builders,taste_cross_over
+7,11,1.438280123953925,314491,Meadow,216,13,Puzzle / nature tableau builders,taste_cross_over
+7,12,1.4268701605634757,274960,Point Salad,598,13,Puzzle / nature tableau builders,taste_cross_over
+7,13,1.4065395249482293,366161,Wingspan Asia,88,13,Puzzle / nature tableau builders,taste_cross_over
+7,14,1.3659266433476,328871,Terraforming Mars: Ares Expedition,189,13,Puzzle / nature tableau builders,taste_cross_over
+7,15,1.3505372709872254,242302,Space Base,224,13,Puzzle / nature tableau builders,taste_cross_over
+7,16,1.3393487075811872,290236,Canvas,592,13,Puzzle / nature tableau builders,taste_cross_over
+7,17,1.3309219937509764,236457,Architects of the West Kingdom,130,2,Current heavy euro engine builders,taste_specialist
+7,18,1.1842394670296668,287954,Azul: Summer Pavilion,240,13,Puzzle / nature tableau builders,taste_cross_over
+7,19,1.1587104611749053,264055,Draftosaurus,675,13,Puzzle / nature tableau builders,taste_cross_over
+7,20,1.131741900731574,284742,Honey Buzz,469,13,Puzzle / nature tableau builders,taste_cross_over
+7,21,1.0965022580505497,170042,Raiders of the North Sea,134,13,Puzzle / nature tableau builders,taste_cross_over
+7,22,1.0882482320678868,260180,Project L,374,13,Puzzle / nature tableau builders,taste_cross_over
+7,23,1.0459187732155177,334065,Verdant,761,13,Puzzle / nature tableau builders,taste_cross_over
+7,24,1.0396516463952583,300877,New York Zoo,927,13,Puzzle / nature tableau builders,taste_cross_over
+7,25,1.0330939141714623,270673,Silver & Gold,748,13,Puzzle / nature tableau builders,taste_cross_over
+7,26,1.0041062532026164,305682,Rolling Realms,1122,13,Puzzle / nature tableau builders,taste_cross_over
+7,27,0.9985922441936262,266810,Paladins of the West Kingdom,79,2,Current heavy euro engine builders,taste_specialist
+7,28,0.9822106054224894,244522,That's Pretty Clever!,205,17,Roll-and-write / number dice games,taste_cross_over
+7,29,0.9716224267272229,118048,Targi,173,17,Roll-and-write / number dice games,taste_cross_over
+7,30,0.9543537772415198,271324,It's a Wonderful World,184,13,Puzzle / nature tableau builders,taste_cross_over
+8,1,2.155777982534016,175914,Food Chain Magnate,49,20,Historical wargames + conflict strategy,taste_specialist
+8,2,2.0194950687463336,111341,The Great Zimbabwe,357,20,Historical wargames + conflict strategy,taste_specialist
+8,3,1.9785115183769075,19777,Indonesia,320,20,Historical wargames + conflict strategy,taste_specialist
+8,4,1.8484351822370524,4098,Age of Steam,139,20,Historical wargames + conflict strategy,taste_specialist
+8,5,1.7060415177143262,552,Bus,465,20,Historical wargames + conflict strategy,taste_specialist
+8,6,1.5495612879377274,13122,Antiquity,435,20,Historical wargames + conflict strategy,taste_specialist
+8,7,1.5198296354409957,28720,Brass: Lancashire,23,20,Historical wargames + conflict strategy,taste_specialist
+8,8,1.5173263994309725,256960,Pax Pamir: Second Edition,53,20,Historical wargames + conflict strategy,taste_specialist
+8,9,1.3767355336368492,350205,Horseless Carriage,1390,20,Historical wargames + conflict strategy,taste_specialist
+8,10,1.2779796080380923,421,1830: Railways & Robber Barons,311,20,Historical wargames + conflict strategy,taste_specialist
+8,11,1.2137405389054154,17405,1846: The Race for the Midwest,659,20,Historical wargames + conflict strategy,taste_specialist
+8,12,1.1731503100326899,154825,Arkwright,852,20,Historical wargames + conflict strategy,taste_specialist
+8,13,1.1719892514200636,23540,Shikoku 1889,735,20,Historical wargames + conflict strategy,taste_specialist
+8,14,1.118048999461246,161533,Lisboa,69,2,Current heavy euro engine builders,taste_specialist
+8,15,1.0799495542136048,62219,Dominant Species,113,20,Historical wargames + conflict strategy,taste_specialist
+8,16,1.0672462035261383,66837,1862: Railway Mania in the Eastern Counties,1376,20,Historical wargames + conflict strategy,taste_specialist
+8,17,1.0501330029865674,175640,Vinhos: Deluxe Edition,154,2,Current heavy euro engine builders,taste_specialist
+8,18,1.0475013341703676,128780,Pax Porfiriana,728,20,Historical wargames + conflict strategy,taste_specialist
+8,19,1.0379682062434907,332686,John Company: Second Edition,217,20,Historical wargames + conflict strategy,taste_specialist
+8,20,1.0123488829883482,125153,The Gallerist,81,2,Current heavy euro engine builders,taste_specialist
+8,21,0.9796535543507287,161882,Irish Gauge,1216,20,Historical wargames + conflict strategy,taste_specialist
+8,22,0.9279016241800068,308119,Pax Renaissance: 2nd Edition,369,20,Historical wargames + conflict strategy,taste_specialist
+8,23,0.9242250985953934,253608,18Chesapeake,1511,20,Historical wargames + conflict strategy,taste_specialist
+8,24,0.9156373933662191,256730,Pipeline,590,2,Current heavy euro engine builders,taste_specialist
+8,25,0.9125995123670353,875,Roads & Boats,736,20,Historical wargames + conflict strategy,taste_specialist
+8,26,0.9057244781937693,184267,On Mars,58,2,Current heavy euro engine builders,taste_specialist
+8,27,0.9014171500630531,249381,The Estates,824,20,Historical wargames + conflict strategy,taste_specialist
+8,28,0.8927787586241235,3097,1849: The Game of Sicilian Railways,1835,20,Historical wargames + conflict strategy,taste_specialist
+8,29,0.8916746029225708,31730,Wabash Cannonball,645,10,BGG Golden Age canon,temporal_canon
+8,30,0.8637863204530838,122515,Keyflower,133,8,Medium worker-placement euros,taste_specialist
+9,1,2.0659789595265665,98778,Hanabi,595,25,Party / family / social deduction,taste_cross_over
+9,2,2.044840941423489,39856,Dixit,423,25,Party / family / social deduction,taste_cross_over
+9,3,1.7667805261863456,133473,Sushi Go!,654,25,Party / family / social deduction,taste_cross_over
+9,4,1.683609325125856,244992,The Mind,1109,35,Cooperative trick-taking + deduction,taste_cross_over
+9,5,1.6364445639964922,70323,King of Tokyo,489,9,Amerithrash / miniatures / LCG,taste_specialist
+9,6,1.5605741534496345,65244,Forbidden Island,1019,25,Party / family / social deduction,taste_cross_over
+9,7,1.509854704244973,284083,The Crew: The Quest for Planet Nine,92,4,Legacy + narrative mystery,shared_culture
+9,8,1.4216754188340148,131357,Coup,717,25,Party / family / social deduction,taste_cross_over
+9,9,1.3998904250586,181304,Mysterium,444,25,Party / family / social deduction,taste_cross_over
+9,10,1.2926091115845442,63268,Spot it!,1676,25,Party / family / social deduction,taste_cross_over
+9,11,1.2723545322536118,198773,Codenames: Pictures,500,25,Party / family / social deduction,taste_cross_over
+9,12,1.2600721791141865,161936,Pandemic Legacy: Season 1,3,4,Legacy + narrative mystery,shared_culture
+9,13,1.2585886441198297,224037,Codenames: Duet,274,35,Cooperative trick-taking + deduction,taste_cross_over
+9,14,1.24554752899607,9220,Saboteur,1532,25,Party / family / social deduction,taste_cross_over
+9,15,1.2330594900658414,171,Chess,459,10,BGG Golden Age canon,temporal_canon
+9,16,1.1860488606232917,147949,One Night Ultimate Werewolf,678,25,Party / family / social deduction,taste_cross_over
+9,17,1.1823872073505184,11,Bohnanza,544,10,BGG Golden Age canon,temporal_canon
+9,18,1.1543714435692105,70919,Takenoko,438,25,Party / family / social deduction,taste_cross_over
+9,19,1.1273775011903706,158899,Colt Express,556,25,Party / family / social deduction,taste_cross_over
+9,20,1.1082664139438778,209778,Magic Maze,788,25,Party / family / social deduction,taste_cross_over
+9,21,1.0502930269609552,136063,Forbidden Desert,601,25,Party / family / social deduction,taste_cross_over
+9,22,1.0495709600619012,194655,Santorini,310,25,Party / family / social deduction,taste_cross_over
+9,23,1.046253610085144,147151,Concept,1126,25,Party / family / social deduction,taste_cross_over
+9,24,1.044764896138566,153938,Camel Up,639,25,Party / family / social deduction,taste_cross_over
+9,25,1.0217142892167972,41114,The Resistance,455,9,Amerithrash / miniatures / LCG,taste_specialist
+9,26,1.0213467526219608,25669,Qwirkle,1070,25,Party / family / social deduction,taste_cross_over
+9,27,1.0068018707933113,143884,Machi Koro,1378,25,Party / family / social deduction,taste_cross_over
+9,28,0.9783579730500771,320,Scrabble,2415,10,BGG Golden Age canon,temporal_canon
+9,29,0.9743372671065608,166384,Spyfall,1098,25,Party / family / social deduction,taste_cross_over
+9,30,0.960028594166508,192291,Sushi Go Party!,286,25,Party / family / social deduction,taste_cross_over
+10,1,1.9789528142656403,12333,Twilight Struggle,14,20,Historical wargames + conflict strategy,taste_specialist
+10,2,1.7192125641440403,91,Paths of Glory,262,20,Historical wargames + conflict strategy,taste_specialist
+10,3,1.425113460515726,62227,"Labyrinth: The War on Terror, 2001 – ?",644,20,Historical wargames + conflict strategy,taste_specialist
+10,4,1.396460263803208,14105,Commands & Colors: Ancients,250,20,Historical wargames + conflict strategy,taste_specialist
+10,5,1.3207603930483025,25021,Sekigahara: The Unification of Japan,229,20,Historical wargames + conflict strategy,taste_specialist
+10,6,1.2065486466822763,144189,Fire in the Lake,555,20,Historical wargames + conflict strategy,taste_specialist
+10,7,1.204874394057857,21050,Combat Commander: Europe,279,20,Historical wargames + conflict strategy,taste_specialist
+10,8,1.146247147818543,11825,Empire of the Sun: The Pacific War 1941-1945,892,20,Historical wargames + conflict strategy,taste_specialist
+10,9,1.1444471104071083,38996,Washington's War,1073,20,Historical wargames + conflict strategy,taste_specialist
+10,10,1.1315187330462468,132018,Churchill,815,20,Historical wargames + conflict strategy,taste_specialist
+10,11,1.1183786086920915,206480,Imperial Struggle,474,20,Historical wargames + conflict strategy,taste_specialist
+10,12,1.1122958615009664,833,For the People,1384,20,Historical wargames + conflict strategy,taste_specialist
+10,13,1.0855724719033506,111799,Cuba Libre,731,20,Historical wargames + conflict strategy,taste_specialist
+10,14,1.0834105148838782,1822,Wilderness War,1403,20,Historical wargames + conflict strategy,taste_specialist
+10,15,1.0796721560983902,115746,War of the Ring: Second Edition,8,20,Historical wargames + conflict strategy,taste_specialist
+10,16,1.051930810471931,234,Hannibal: Rome vs. Carthage,484,20,Historical wargames + conflict strategy,taste_specialist
+10,17,0.9973830555728266,40354,Maria,431,20,Historical wargames + conflict strategy,taste_specialist
+10,18,0.962504073662,3685,Hammer of the Scots,785,20,Historical wargames + conflict strategy,taste_specialist
+10,19,0.9434406114627191,41066,Virgin Queen,1163,20,Historical wargames + conflict strategy,taste_specialist
+10,20,0.927329677820431,17392,Here I Stand,538,20,Historical wargames + conflict strategy,taste_specialist
+10,21,0.8998492544588271,84419,Space Empires 4X,633,20,Historical wargames + conflict strategy,taste_specialist
+10,22,0.8970896154102351,62222,Commands & Colors: Napoleonics,550,20,Historical wargames + conflict strategy,taste_specialist
+10,23,0.8952840468531691,163154,Falling Sky: The Gallic Revolt Against Caesar,1350,20,Historical wargames + conflict strategy,taste_specialist
+10,24,0.8851304261521911,26997,1989: Dawn of Freedom,1040,20,Historical wargames + conflict strategy,taste_specialist
+10,25,0.8745285657087479,130960,Triumph & Tragedy: European Balance of Power 1936-1945,716,20,Historical wargames + conflict strategy,taste_specialist
+10,26,0.863344966979597,12891,Friedrich: Anniversary Edition,1038,20,Historical wargames + conflict strategy,taste_specialist
+10,27,0.8545015593563803,28181,Combat Commander: Pacific,1075,20,Historical wargames + conflict strategy,taste_specialist
+10,28,0.8331673813084418,268864,Undaunted: Normandy,180,20,Historical wargames + conflict strategy,taste_specialist
+10,29,0.8137452296611932,79828,A Few Acres of Snow,583,20,Historical wargames + conflict strategy,taste_specialist
+10,30,0.8043298176631949,165872,Liberty or Death: The American Insurrection,1515,20,Historical wargames + conflict strategy,taste_specialist

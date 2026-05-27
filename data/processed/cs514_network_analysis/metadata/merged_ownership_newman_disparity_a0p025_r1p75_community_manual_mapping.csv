@@ -1,0 +1,44 @@
+community,size,manual_label,community_type,include_in_user_profiles,manual_meaningfulness,manual_notes,rough_meaningfulness_flag
+10,338,BGG Golden Age canon,temporal_canon,yes,high,"Classic hobby canon centered on Puerto Rico, Power Grid, Agricola, El Grande, Ra, and Tigris & Euphrates; strongest internal closure in the midline graph.",high_candidate
+9,251,Amerithrash / miniatures / LCG,taste_specialist,yes,high,"Thematic conflict, miniatures, variable powers, dice, and collectible/card-system signal.",high_candidate
+12,231,Dungeon crawl / cooperative campaign adventure,taste_specialist,yes,high,"Modern cooperative/campaign adventure cluster around Gloomhaven, Spirit Island, Arkham Horror LCG, Nemesis, and related games.",high_candidate
+19,231,Recent releases / new-hotness cluster,temporal_artifact,no,medium,Median year 2023 and mixed mechanics; likely temporal co-purchase signal rather than stable taste identity.,high_candidate
+2,207,Current heavy euro engine builders,taste_specialist,yes,high,"Modern heavy euros with strong worker-placement, income, variable setup, and industry/manufacturing signal.",high_candidate
+20,198,Historical wargames + conflict strategy,taste_specialist,yes,high,"Most self-contained specialist group after the Golden Age canon; strong wargame, simulation, CDG, CRT, political, and historical signal.",high_candidate
+25,177,Party / family / social deduction,taste_cross_over,yes,high,"Party, hidden roles, deduction, children's/family, memory, and real-time signal; broad cross-community appeal.",high_candidate
+13,168,Puzzle / nature tableau builders,taste_cross_over,yes,high,"Cascadia/Wingspan-adjacent puzzle, pattern-building, animal/nature, set-collection cluster with broad appeal.",high_candidate
+8,166,Medium worker-placement euros,taste_specialist,yes,high,"Rosenberg-era and medium-heavy eurogames around Great Western Trail, Terra Mystica, Orleans, Caverna, Tzolk'in, and Le Havre.",high_candidate
+35,100,Cooperative trick-taking + deduction,taste_cross_over,yes,high,"The Crew, Decrypto, The Mind, Search for Planet X, Blood on the Clocktower, Crokinole, and adjacent social/deduction titles.",high_candidate
+23,45,Fantasy adventure / deck-building gateway,taste_cross_over,review,medium,"Everdell, Clank!, Roll Player, Tiny Epic, and adventure/fantasy gateway games; low internal closure, likely bridge-oriented.",high_candidate
+5,41,Area-control crossover / Root-Eclipse cluster,bridge_cluster,review,medium,"Root, Eclipse, Inis, Res Arcana, War Chest, and related hybrid conflict/area-control titles; likely bridge cluster across strategy audiences.",high_candidate
+17,39,Roll-and-write / number dice games,taste_cross_over,yes,medium,"That's Pretty Clever, Qwixx, Taverns of Tiefenthal, Port Royal, and dice/number/paper-and-pencil signal.",high_candidate
+4,37,Legacy + narrative mystery,shared_culture,yes,high,"Pandemic Legacy, EXIT/Unlock-style mystery, and narrative/legacy signal; coherent but cross-community.",high_candidate
+16,20,Unmatched / skirmish series cluster,franchise_series,no,medium,Very coherent Unmatched/franchise ownership cluster; useful structurally but not a broad taste dimension.,high_candidate
+38,17,Racing / sports / route bridge,bridge_cluster,review,medium,"Flamme Rouge, Baseball Highlights, K2, Thunder Alley, and route/family titles; small low-closure bridge cluster.",medium_candidate
+36,15,Light set-collection gateway,bridge_cluster,review,medium,"Splendor, Century, Photosynthesis, and light set-collection/tableau games; likely broad gateway bridge.",medium_candidate
+37,15,Escape-room / Unlock series cluster,franchise_series,no,medium,Unlock/Codenames escape-room/storytelling cluster; strong series signal but small.,medium_candidate
+39,15,Take-that card/fandom cluster,franchise_series,no,medium,"Love Letter, Smash Up, Evolution, and take-that/fandom card games; partly series-driven.",medium_candidate
+26,13,Pandemic system cluster,franchise_series,no,medium,Pandemic variants and related cooperative system games; coherent franchise/system ownership cluster.,medium_candidate
+34,13,Licensed family/fandom games,franchise_series,no,medium,Wingspan with Disney Villainous/Lorcana and licensed/fandom family titles; mixed bridge/franchise signal.,medium_candidate
+29,12,Small two-player/set-collection card games,bridge_cluster,review,medium,"Jaipur, Morels, Dale of Merchants, Valley of the Kings, and small card/set-collection titles.",medium_candidate
+32,11,Open-drafting tactical euro cluster,bridge_cluster,review,medium,"Five Tribes, Abyss, Quadropolis, Yamatai, and related drafting/tactical euros; small bridge-like cluster.",medium_candidate
+1,10,Thematic adventure / licensed bridge cluster,bridge_cluster,review,medium,Lost Ruins of Arnak plus Star Wars/licensed adventure titles; mixed gateway/bridge signal.,needs_manual_review
+3,9,Thematic sandbox worker-placement bridge,bridge_cluster,no,medium,"Scythe, Western Legends, Euphoria, and thematic sandbox/worker-placement titles; bridge-like rather than broad taste axis.",needs_manual_review
+14,9,Abstract tile-placement puzzle bridge,bridge_cluster,review,medium,"Azul, Ginkgopolis, Dragon Castle, Cat Lady; coherent but small aesthetically driven abstract/tile-placement cluster.",needs_manual_review
+41,9,Ticket to Ride / route-building series cluster,franchise_series,no,medium,Ticket to Ride maps and route-building variants; franchise/system cluster.,needs_manual_review
+15,8,Deck-manipulation / engine gateway cluster,bridge_cluster,review,medium,"Dominion, Imhotep, Eminent Domain, Core Worlds; small deck/engine gateway cluster.",needs_manual_review
+24,8,Ark Nova universal-appeal micro-cluster,bridge_singleton,no,medium,"Ark Nova appears in a tiny cluster rather than the nature/tableau community, suggesting broad cross-audience ownership.",needs_manual_review
+27,8,Race for the Galaxy system cluster,franchise_series,no,medium,"Race for the Galaxy, New Frontiers, Jump Drive, and related card-engine titles; system/franchise-like cluster.",needs_manual_review
+28,8,Real-time cooperative micro-cluster,taste_cross_over,review,medium,"Just One, Kitchen Rush, Rush M.D., and real-time/action-timer games; strong enrichment but very small.",needs_manual_review
+40,8,Light gateway tile/claim-action cluster,bridge_cluster,review,medium,"Kingdomino, Queendomino, Downforce, World's Fair 1893; small light gateway cluster.",needs_manual_review
+11,7,KeyForge / Catan gateway-franchise cluster,franchise_series,no,medium,Mixed small cluster dominated by KeyForge system ownership plus gateway editions such as Catan.,needs_manual_review
+18,7,Mass-market gateway / family strategy bridge,bridge_cluster,review,medium,"Ticket to Ride, Pan Am, Freedom, Back to the Future; accessible family strategy bridge cluster.",needs_manual_review
+31,7,Railroad Ink / spatial puzzle cluster,franchise_series,no,medium,Railroad Ink variants plus Patchwork; small series/spatial-puzzle cluster.,needs_manual_review
+0,6,Terraforming Mars universal-appeal micro-cluster,bridge_singleton,no,medium,Terraforming Mars is too broadly owned to sit cleanly in one taste community; treat as universal-appeal bridge/micro-cluster.,needs_manual_review
+21,6,Viticulture / Dinosaur Island gateway bridge,bridge_cluster,no,medium,Viticulture plus Dinosaur Island family; small gateway/publisher-adjacent bridge cluster.,needs_manual_review
+22,6,Trade-route / area-influence euros,bridge_cluster,no,medium,"Concordia, Ethnos, Lords of Vegas, Caylus 1303; recognizable but too small for a profile dimension.",needs_manual_review
+6,5,,tiny_fragment,no,low,,tiny_fragment
+30,5,,tiny_fragment,no,low,,tiny_fragment
+33,5,,tiny_fragment,no,low,,tiny_fragment
+42,5,,tiny_fragment,no,low,,tiny_fragment
+7,4,,tiny_fragment,no,low,,tiny_fragment

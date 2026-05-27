@@ -1,0 +1,35 @@
+group,value,owned_edges,share_of_other_owned_edges
+community_type,temporal_artifact,47688,0.36123167821838426
+community_type,bridge_cluster,36750,0.2783774571071469
+community_type,franchise_series,23534,0.17826762110366245
+community_type,taste_cross_over,10381,0.07863500359807597
+community_type,tiny_fragment,9486,0.07185547096920804
+community_type,bridge_singleton,4176,0.031632769003522326
+manual_label,Recent releases / new-hotness cluster,47688,0.36123167821838426
+manual_label,unlabeled,9486,0.07185547096920804
+manual_label,Fantasy adventure / deck-building gateway,8669,0.06566678029011855
+manual_label,Area-control crossover / Root-Eclipse cluster,8078,0.061190016286028104
+manual_label,Unmatched / skirmish series cluster,3772,0.02857251069954172
+manual_label,Light set-collection gateway,3603,0.027292353141688444
+manual_label,Racing / sports / route bridge,3455,0.026171268416467827
+manual_label,Licensed family/fandom games,3214,0.024345718289588304
+manual_label,Pandemic system cluster,3116,0.023603378403969245
+manual_label,Escape-room / Unlock series cluster,2896,0.02193690110972238
+manual_label,Take-that card/fandom cluster,2701,0.020459796235276294
+manual_label,Abstract tile-placement puzzle bridge,2627,0.019899253872665983
+manual_label,Thematic sandbox worker-placement bridge,2551,0.019323561716471614
+manual_label,Thematic adventure / licensed bridge cluster,2546,0.019285687232511457
+manual_label,Railroad Ink / spatial puzzle cluster,2539,0.01923266295496724
+manual_label,Open-drafting tactical euro cluster,2392,0.01811915312653865
+manual_label,Light gateway tile/claim-action cluster,2309,0.017490436692800062
+manual_label,Small two-player/set-collection card games,2207,0.01671779722001288
+manual_label,Ark Nova universal-appeal micro-cluster,2177,0.01649055031625194
+manual_label,Ticket to Ride / route-building series cluster,2025,0.015339166003863198
+manual_label,Terraforming Mars universal-appeal micro-cluster,1999,0.015142218687270385
+manual_label,Viticulture / Dinosaur Island gateway bridge,1949,0.014763473847668825
+manual_label,KeyForge / Catan gateway-franchise cluster,1805,0.013672688709616332
+manual_label,Deck-manipulation / engine gateway cluster,1726,0.013074271863045866
+manual_label,Mass-market gateway / family strategy bridge,1716,0.012998522895125554
+manual_label,Real-time cooperative micro-cluster,1712,0.01296822330795743
+manual_label,Trade-route / area-influence euros,1591,0.012051660796121653
+manual_label,Race for the Galaxy system cluster,1466,0.011104798697117751

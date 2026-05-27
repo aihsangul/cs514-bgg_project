@@ -1,0 +1,22 @@
+requests>=2.32,<3.0
+cloudscraper>=1.2.71,<2.0
+python-dotenv>=1.0,<2.0
+PyYAML>=6.0,<7.0
+
+# Data + ML
+torch>=2.0,<3.0
+pandas>=2.0,<4.0
+numpy>=1.26,<3.0
+scipy>=1.13,<2.0
+scikit-learn>=1.5,<2.0
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+
+# Network analysis
+networkx>=3.3,<4.0
+python-igraph>=0.11,<1.0
+leidenalg>=0.10,<1.0
+
+# Jupyter
+notebook>=7.0,<8.0
+ipykernel>=6.0,<8.0

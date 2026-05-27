@@ -1,0 +1,2 @@
+matrix,original_users,original_games,restricted_users_with_any_included_game,restricted_games,included_manual_dimensions,restricted_nonzero_edges,reconstruction_error,n_iter,mean_matched_cosine,median_matched_cosine,matches_ge_0p50,matches_ge_0p40,matches_ge_0p30
+merged_ownership,5504,2500,5482,1912,11,467668,594.2989445860907,119,0.5587766513236133,0.6735215725240381,8,9,9

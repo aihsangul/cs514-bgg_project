@@ -1,0 +1,2 @@
+label,nodes,edges,isolates,non_isolate_nodes,giant_component_nodes,giant_component_fraction,density,average_degree,median_degree,max_degree
+merged_ownership_newman_disparity_a0p025,2500,214379,0,2500,2500,1.0,0.06862873149259704,171.5032,94.0,2486.0

@@ -1,0 +1,265 @@
+tag_kind,tag,n_games,binary_modularity
+mechanic,Solo / Solitaire Game,565,0.05035555740972984
+mechanic,Variable Player Powers,711,0.04601558363708655
+mechanic,Cooperative Game,414,0.036227628162919384
+category,Card Game,726,0.031871886394968296
+category,Economic,380,0.030631448643732087
+category,Fantasy,546,0.025140947868878015
+category,Fighting,353,0.023547439479610452
+mechanic,Dice Rolling,722,0.02342711911210474
+category,Wargame,214,0.020200790969080597
+category,Adventure,253,0.018975964343503703
+mechanic,Worker Placement,311,0.01707289351012689
+mechanic,Scenario / Mission / Campaign Game,226,0.0167879415955122
+mechanic,Set Collection,550,0.015670234481232267
+category,Science Fiction,309,0.012270979669294274
+mechanic,Simulation,160,0.010547366902668434
+category,Party Game,144,0.010472801641541903
+mechanic,Area Majority / Influence,426,0.010207504491581792
+category,Deduction,171,0.009154747821504234
+mechanic,Open Drafting,546,0.009122939151187143
+mechanic,End Game Bonuses,312,0.008471888021595902
+category,Exploration,246,0.008298663342065849
+mechanic,Tile Placement,369,0.007686391545516293
+category,Miniatures,167,0.007613386758399001
+mechanic,Modular Board,381,0.00753808961627557
+mechanic,Role Playing,112,0.007482768990284878
+mechanic,"Deck, Bag, and Pool Building",244,0.00630021346257525
+category,Industry / Manufacturing,115,0.006124736737983053
+mechanic,Area Movement,203,0.006117111585083978
+mechanic,Auction / Bidding,155,0.006060967180828037
+category,Animals,217,0.0059019288807747265
+mechanic,Action Points,266,0.0054981414765859025
+mechanic,Income,171,0.005178406411677487
+category,Bluffing,135,0.005116858746873212
+mechanic,Campaign / Battle Card Driven,99,0.0050745085273165135
+category,Horror,125,0.004973261184806075
+mechanic,Contracts,183,0.004849500750563063
+mechanic,Network and Route Building,161,0.004514095488163394
+mechanic,Storytelling,104,0.0044577427294101414
+mechanic,Hand Management,895,0.004212289428132149
+mechanic,Team-Based Game,200,0.004140560192223269
+mechanic,Grid Movement,270,0.0040499577425820174
+mechanic,Card Play Conflict Resolution,89,0.003960404288399844
+category,Novel-based,100,0.003839541114046228
+category,Political,95,0.0037297384244632205
+mechanic,Take That,238,0.003578585525593262
+category,Abstract Strategy,125,0.003551087026339939
+mechanic,Point to Point Movement,168,0.0035371229717977397
+mechanic,Pattern Building,145,0.003150511306170254
+category,City Building,200,0.003116155441589042
+mechanic,Player Elimination,126,0.002977494752404838
+category,Puzzle,151,0.0029379573638770693
+category,Medieval,200,0.0029303434513910185
+category,Dice,221,0.002851508813619231
+mechanic,Narrative Choice / Paragraph,58,0.0028469865159214775
+category,Civilization,128,0.002772395021105818
+mechanic,Tech Trees / Tech Tracks,99,0.002601324173048181
+mechanic,Communication Limits,76,0.00254083980881957
+category,Negotiation,87,0.002503916199315506
+category,Movies / TV / Radio theme,92,0.0023977421615586476
+mechanic,Line of Sight,68,0.0023593515725637616
+category,Space Exploration,86,0.002357881962978448
+mechanic,"Worker Placement, Different Worker Types",73,0.002084457287033904
+category,World War II,64,0.0020648058137645803
+mechanic,Events,140,0.001955182040347031
+mechanic,Paper-and-Pencil,87,0.0018740770370182908
+mechanic,Hidden Roles,57,0.0018451294260459054
+mechanic,Ownership,60,0.0018290170478369996
+mechanic,Traitor Game,43,0.0018043194858784809
+category,Ancient,151,0.0017007806579279142
+category,Farming,80,0.0016238145079748652
+category,Transportation,73,0.0016153669925484172
+mechanic,Deduction,80,0.0015691379668823213
+mechanic,Voting,65,0.0014556683941612236
+mechanic,Push Your Luck,162,0.0014280169183807333
+category,Number,38,0.0013589243243390568
+mechanic,Hexagon Grid,210,0.0013243778951068305
+category,Mythology,87,0.001263499201156349
+mechanic,Deck Construction,43,0.0012515783592772136
+mechanic,Turn Order: Claim Action,72,0.0012421192613222805
+mechanic,Track Movement,97,0.0011875320581909259
+mechanic,Negotiation,39,0.001182048982184078
+mechanic,Victory Points as a Resource,79,0.0011034502954817994
+category,Collectible Components,38,0.001101218713766034
+category,Trains,68,0.0010987883990009764
+mechanic,Worker Placement with Dice Workers,53,0.001043077742256052
+mechanic,Trick-taking,41,0.001031420709118725
+mechanic,Stock Holding,39,0.0009918162341331115
+mechanic,Stat Check Resolution,30,0.0009893344903685198
+mechanic,Variable Phase Order,81,0.0009691347634024085
+mechanic,Trading,68,0.0009286609482775938
+mechanic,Memory,69,0.0009130294665032276
+category,Murder / Mystery,49,0.0008935070140025971
+mechanic,Market,87,0.0008468199316211062
+mechanic,Die Icon Resolution,63,0.0008434496295206242
+category,Children's Game,45,0.0008309792092696033
+mechanic,Movement Points,82,0.0008273836484704346
+category,Print & Play,51,0.0008112748968306801
+category,Humor,67,0.0008022853926701197
+mechanic,Legacy Game,26,0.0008021880586448948
+category,Real-time,84,0.000792342110678777
+category,Spies / Secret Agents,45,0.0007570358979975394
+mechanic,Bingo,36,0.0006301318482297123
+category,Post-Napoleonic,46,0.0006196947912696872
+mechanic,Investment,29,0.0005855145315836281
+category,Environmental,72,0.0005785962776872328
+category,Word Game,28,0.0005569955221986817
+mechanic,Rondel,56,0.0005320731239869057
+mechanic,Secret Unit Deployment,58,0.0005257283851019271
+mechanic,Automatic Resource Growth,24,0.0005135030273584225
+category,Comic Book / Strip,37,0.000510138146653279
+mechanic,Square Grid,131,0.00042065908541566444
+mechanic,Action Drafting,49,0.000402562317810777
+mechanic,Ratio / Combat Results Table,16,0.00037708519679535913
+mechanic,Loans,26,0.00037682416470393067
+category,Modern Warfare,18,0.0003682010310721014
+mechanic,Semi-Cooperative Game,30,0.000360102054194749
+category,Zombies,29,0.00034374190823376386
+category,Renaissance,67,0.00033346184293519404
+mechanic,Turn Order: Pass Order,22,0.00030830380401192773
+mechanic,Map Addition,61,0.00029398166756502715
+category,Racing,37,0.00027924863746979587
+category,Nautical,108,0.00027866182171753747
+mechanic,Auction: Turn Order Until Pass,19,0.00027865513670234546
+mechanic,Commodity Speculation,40,0.00027351665809627785
+mechanic,Roles with Asymmetric Information,22,0.00026799456894743335
+mechanic,Follow,36,0.00026078256528790024
+category,Educational,38,0.0002563145210587906
+mechanic,Action Retrieval,55,0.00025454613106763203
+mechanic,Alliances,16,0.0002436842833761411
+mechanic,Targeted Clues,15,0.00023843118343368222
+mechanic,Connections,51,0.00021342398758705263
+mechanic,Layering,58,0.00021101666887192395
+category,Age of Reason,26,0.00020706651428193903
+mechanic,Re-rolling and Locking,38,0.0002040827694503455
+mechanic,Turn Order: Stat-Based,56,0.0002027315276788423
+mechanic,Move Through Deck,35,0.0001989714302355764
+category,Sports,33,0.00019477910653036576
+mechanic,Interrupts,22,0.0001944017098957569
+mechanic,Critical Hits and Failures,19,0.0001834742117628983
+category,Civil War,18,0.00017569745995628676
+mechanic,Real-Time,54,0.00016686255973157098
+mechanic,Constrained Bidding,20,0.0001665760533527581
+mechanic,Auction: Once Around,14,0.00016195415693508495
+mechanic,Action / Event,18,0.00015672151341105235
+mechanic,Command Cards,18,0.00015070832218331756
+category,Action / Dexterity,51,0.00013619519688015116
+category,Video Game Theme,58,0.00013310760378274124
+mechanic,Pick-up and Deliver,109,0.00012494827960395777
+mechanic,Grid Coverage,69,0.00012275383110239152
+mechanic,Map Reduction,22,0.00012243885021256715
+mechanic,Predictive Bid,14,0.00011566876237849519
+mechanic,Bribery,15,0.00011356246439663637
+category,Trivia,17,0.00010889781451792695
+mechanic,Line Drawing,25,0.0001069630451639501
+category,Medical,16,9.889297784449093e-05
+mechanic,Auction: Sealed Bid,17,9.83872562974509e-05
+mechanic,Simultaneous Action Selection,216,9.751759109281541e-05
+mechanic,Turn Order: Auction,22,9.534047938993055e-05
+mechanic,Hidden Movement,23,9.476868113239174e-05
+category,Prehistoric,31,9.42218549326845e-05
+mechanic,Tug of War,25,9.12988988726262e-05
+category,Pike and Shot,12,7.252772793982234e-05
+mechanic,Roll / Spin and Move,43,7.200230810023905e-05
+category,American West,36,6.863808057903794e-05
+mechanic,Ladder Climbing,12,6.618109965875475e-05
+mechanic,Resource to Move,36,6.563329703109498e-05
+mechanic,Pattern Recognition,26,6.139617788251497e-05
+category,Religious,19,6.124592634218128e-05
+category,Napoleonic,12,5.9273962948702296e-05
+mechanic,Betting and Bluffing,49,5.64106920475381e-05
+mechanic,Three Dimensional Movement,15,5.5693793630677225e-05
+mechanic,Movement Template,9,5.438422298262343e-05
+mechanic,Speed Matching,8,5.382670798605983e-05
+mechanic,Pattern Movement,8,5.0120395271819475e-05
+mechanic,Turn Order: Role Order,13,4.362189729893228e-05
+mechanic,Order Counters,8,4.207455035665565e-05
+mechanic,Mancala,9,4.100454804099323e-05
+category,Mature / Adult,8,3.9907174319910546e-05
+mechanic,Advantage Token,15,3.915355461624992e-05
+mechanic,Finale Ending,10,3.8891134663819766e-05
+mechanic,Lose a Turn,9,3.843987858431455e-05
+category,American Civil War,7,3.834018852203483e-05
+category,Music,10,3.773416093851958e-05
+mechanic,Area-Impulse,6,3.545322799564655e-05
+category,Travel,39,3.4272610992546935e-05
+mechanic,Static Capture,13,3.403670869300832e-05
+mechanic,Bias,25,3.0257093056991683e-05
+mechanic,Selection Order Bid,14,2.9826286401748097e-05
+category,American Indian Wars,7,2.981281732923046e-05
+mechanic,Stacking and Balancing,13,2.9790073275496552e-05
+mechanic,Multiple Maps,24,2.957587966316289e-05
+mechanic,Turn Order: Random,10,2.8491667819905884e-05
+mechanic,Flicking,17,2.6494335605433506e-05
+category,Memory,12,2.6197646495199206e-05
+category,American Revolutionary War,5,2.525867990211785e-05
+mechanic,Ordering,14,2.517100796126684e-05
+category,World War I,5,2.5168725267820817e-05
+category,Aviation / Flight,24,2.458125020785708e-05
+mechanic,Spelling,5,2.134510901831503e-05
+mechanic,Acting,15,2.0779278497406667e-05
+mechanic,Elapsed Real Time Ending,16,2.06271972664624e-05
+mechanic,Closed Economy Auction,6,2.006265510998755e-05
+mechanic,Auction: Dutch,22,1.9639275138055384e-05
+category,Maze,16,1.930157163302713e-05
+category,Arabian,16,1.8299260637049048e-05
+mechanic,Map Deformation,18,1.3664760459834728e-05
+mechanic,Prisoner's Dilemma,5,1.2055590568251612e-05
+mechanic,Matching,9,1.147808869951567e-05
+mechanic,Drawing,6,8.831855783898045e-06
+mechanic,"I Cut, You Choose",14,8.48801724420027e-06
+mechanic,Auction: Multiple Lot,9,7.350579798893313e-06
+mechanic,Resource Queue,7,6.10351389267018e-06
+mechanic,Measurement Movement,6,5.800687211610436e-06
+mechanic,Minimap Resolution,9,4.847834127143558e-06
+mechanic,Chit-Pull System,6,1.4052142205234435e-06
+mechanic,Single Loser Game,5,2.289998949994543e-07
+category,Book,3,-6.012843721299326e-08
+mechanic,Action Timer,3,-1.2735180176370222e-07
+mechanic,Auction: Dutch Priority,4,-5.858758345196524e-07
+mechanic,Moving Multiple Units,3,-7.178303419919209e-07
+mechanic,Player Judge,4,-8.114724734676816e-07
+mechanic,Different Dice Movement,4,-8.803972542055303e-07
+mechanic,Auction Compensation,6,-1.9608086112175586e-06
+mechanic,Physical Removal,4,-1.9787606657759435e-06
+mechanic,Cube Tower,9,-2.1748581439821843e-06
+mechanic,Pieces as Map,10,-2.7577012036527025e-06
+mechanic,Programmed Movement,15,-3.1013453866598475e-06
+category,Electronic,6,-3.102692072129247e-06
+mechanic,Questions and Answers,3,-3.483031938583372e-06
+category,Mafia,13,-3.5050592686509674e-06
+category,Math,9,-3.935903135012764e-06
+mechanic,Rock-Paper-Scissors,12,-5.683347669382e-06
+mechanic,Auction: Fixed Placement,10,-5.876131770209291e-06
+mechanic,Bids As Wagers,4,-5.908331694218324e-06
+mechanic,Relative Movement,5,-7.185533838850861e-06
+mechanic,Highest-Lowest Scoring,18,-9.559392802928653e-06
+mechanic,Hot Potato,9,-1.5043232685299815e-05
+mechanic,Slide / Push,20,-1.5669322766224753e-05
+mechanic,Random Production,16,-1.897851793684774e-05
+mechanic,Increase Value of Unchosen Resources,43,-3.3639988664400586e-05
+mechanic,Turn Order: Time Track,20,-3.778999094159958e-05
+mechanic,Enclosure,45,-3.840917506829134e-05
+mechanic,Catch the Leader,29,-7.466078715166855e-05
+category,Pirates,36,-7.652857095081492e-05
+mechanic,King of the Hill,17,-9.648038532775131e-05
+mechanic,Zone of Control,23,-0.00010313983986065509
+mechanic,Force Commitment,17,-0.00011968917740241012
+mechanic,Action Queue,85,-0.0001789454428982604
+mechanic,Neighbor Scope,13,-0.00018868078430347713
+mechanic,Closed Drafting,76,-0.00024466343209508974
+mechanic,Kill Steal,18,-0.0002862565852439509
+mechanic,Hidden Victory Points,44,-0.0003609852625590282
+mechanic,Delayed Purchase,45,-0.00041968107082697003
+mechanic,Melding and Splaying,27,-0.00043780447076156794
+category,Territory Building,166,-0.0005374961831381316
+mechanic,Sudden Death Ending,46,-0.0006163522266891654
+mechanic,Race,148,-0.0006216529859853423
+mechanic,Chaining,37,-0.0013541091099245066
+mechanic,Turn Order: Progressive,90,-0.0017030125186612392
+mechanic,Score-and-Reset Game,51,-0.0018749202237733284
+mechanic,Once-Per-Game Abilities,49,-0.0022478322394061823
+mechanic,Multi-Use Cards,113,-0.0037509389044031883
+mechanic,Tags,85,-0.005207892259066472
+mechanic,Variable Set-up,339,-0.008131343199974467
