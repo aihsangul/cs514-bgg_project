@@ -1,0 +1,63 @@
+project:
+  name: cs514-bgg-coownership
+
+paths:
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+
+api:
+  base_url: https://boardgamegeek.com/xmlapi2
+  token_env_var: BGG_API_TOKEN
+  request_timeout_seconds: 60
+  min_seconds_between_requests: 2
+  max_retries: 3
+  retry_backoff_seconds: 10
+
+logging:
+  config_path: config/logging.yaml
+
+collection:
+  taxonomy:
+    mechanics_browse_url: https://boardgamegeek.com/browse/boardgamemechanic
+    categories_browse_url: https://boardgamegeek.com/browse/boardgamecategory
+    request_timeout_seconds: 60
+    default_mechanics_html_path:
+    default_categories_html_path:
+  top_ranked_games_details:
+    rank_csv_path: data/processed/top_ranked_games/top_ranked_games.csv
+    max_games: 5000
+    thing_batch_size: 100
+  top_taxonomy_games:
+    taxonomy_snapshot_dir: data/processed/taxonomy
+    top_n_per_taxonomy: 25
+    sort: rank
+    geekdo_base_url: https://api.geekdo.com/api
+    request_timeout_seconds: 60
+    thing_batch_size: 100
+  candidate_users:
+    rank_csv_path: data/processed/top_ranked_games/top_ranked_games.csv
+    top_ranked_games: 2500
+    ratingcomments_pages_per_game: 2
+    ratingcomments_page_size: 100
+    plays_pages_per_game: 2
+  reliable_users:
+    rank_csv_path: data/processed/top_ranked_games/top_ranked_games.csv
+    start_rank: 1
+    end_rank: 2500
+    target_established_users: 5500
+    min_collection_items: 50
+    min_selected_overlap_count: 10
+    discovery_new_candidate_target: 7500
+    ratingcomments_pages_per_game: 2
+    ratingcomments_page_size: 100
+    plays_pages_per_game: 2
+    enrichment_batch_size: 50
+    bootstrap_run_label:
+  rank_range_users:
+    rank_csv_path: data/processed/top_ranked_games/top_ranked_games.csv
+    start_rank: 1
+    end_rank: 2500
+    ratingcomments_pages_per_game: 2
+    ratingcomments_page_size: 100
+    plays_pages_per_game: 2
+    max_users:

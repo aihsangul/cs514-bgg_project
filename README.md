@@ -2,6 +2,8 @@
 
 This repository contains the code, processed outputs, notebooks, and report artifacts for a CS514 Network Science project on BoardGameGeek (BGG) ownership behavior.
 
+Repository URL: <https://github.com/aihsangul/cs514-bgg_project>
+
 The project studies a user-game ownership matrix of 5,504 active collectors and 2,500 ranked games. It combines a graph-based co-ownership pipeline with matrix decomposition in order to identify taste communities, shared-canon behavior, bridge games, and user archetypes.
 
 ## Main Finding
@@ -12,16 +14,15 @@ BGG ownership is organized in two layers. The first layer contains recognizable 
 
 ```text
 .
-|-- config/                      Example-safe settings and logging config
-|-- src/                         Core Python package used by scripts
-|-- scripts/                     Runnable data, network, NMF, profile, and figure scripts
-|-- notebooks/                   Narrative analysis notebooks
-|-- data/processed/              Selected processed outputs needed to inspect results
-|-- figures/                     Final report/poster figures
-|-- docs/                        Analysis log, meeting brief, and planning notes
-|-- report/                      Final LaTeX report source
-|-- requirements.txt             Python dependencies
-`-- .env.example                 Example environment file for API configuration
+├── src/                         Core Python package used by scripts
+├── scripts/                     Runnable data, network, NMF, profile, and figure scripts
+├── notebooks/                   Narrative analysis notebooks
+├── data/processed/              Selected processed outputs needed to inspect results
+├── figures/                     Final report/poster figures
+├── docs/                        Analysis log, meeting brief, and planning notes
+├── report/                      Final LaTeX report source
+├── requirements.txt             Python dependencies
+└── .env.example                 Example environment file for API configuration
 ```
 
 ## Pipeline Overview
@@ -39,7 +40,7 @@ BGG ownership is organized in two layers. The first layer contains recognizable 
 
 ## Running Scripts
 
-Most scripts assume they are run from the repository root. The CS514 analysis scripts add `src/` to `sys.path` themselves, but setting `PYTHONPATH=src` is still a safe default for notebooks or ad hoc commands.
+Most scripts assume they are run from the repository root. If imports fail, set `PYTHONPATH=src` before running scripts.
 
 On Windows PowerShell:
 
@@ -80,4 +81,4 @@ python scripts/cs514_nmf_test_a.py
 
 ## Data Availability Note
 
-The repository includes selected processed outputs used in the report and poster. It does not include every intermediate raw API response, discovery cache, or full collection-run directory from the larger working project. Re-running the complete collection pipeline requires BGG API access, may require regenerating omitted upstream snapshots such as ranked-game details and reliable-user batches, and will produce a later snapshot of the BGG ecosystem.
+The repository includes selected processed outputs used in the report and poster. It does not include every intermediate raw API response or cache file from the full working directory. Re-running the complete collection pipeline requires BGG API access and may produce a later snapshot of the BGG ecosystem.
